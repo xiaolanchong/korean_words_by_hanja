@@ -1,0 +1,5666 @@
+word	hanja	syn	def	pos	level 	
+사이			space between 2 points; the relationship between 2 people	1	A	
+그			He	8	A	
+영국	英國		England	7	A	
+회사	會社		A company	1	A	
+구십	九十		90	9	A	
+인천	仁川		Incheon city	7	A	
+이십	二十		Twenty	9	A	
+독일	獨逸		Germany	7	A	
+육십	六十		Sixty	9	A	
+팔십	八十		80	9	A	
+사탕	沙糖		Sugar	1	A	
+삼십	三十		30	9	A	
+오십	五十		Fifty	9	A	
+중국어	中國語		Chinese	1	A	
+칠십	七十		Seventy	9	A	
+실례하다	失禮-		To be impolite	2	A	
+키		신장	stature,height	1	A	
+화요일	火曜日		Tuesday	1	A	
+선물하다	膳物-		Give a gift	2	A	
+요리하다	料理-		To cook (food)	2	A	
+칫솔	齒-		A toothbrush	1	A	
+장미	薔薇		A rose	1	A	
+냉면	冷麵		Cold noodles soup	1	A	
+수영장	水泳場		Swimming pool	1	A	
+일본어	日本語		Japanese	1	A	
+칠판	漆板		The blackboard	1	A	
+버스	bus		Bus	1	A	
+목요일	木曜日		Thursday	1	A	
+청바지	靑-		Blue jeans	1	A	
+휴지통	休紙桶		Waste paper basket	1	A	
+공휴일	公休日		A legal holiday	1	A	
+스키	ski		Ski	1	A	
+운동화	運動靴		Sports shoes	1	A	
+도착	到着		Arrival	1	A	
+세탁기	洗濯機		Washing machine	1	A	
+포도	葡萄		grape(s)	1	A	
+수요일	水曜日		Wednesday	1	A	
+운전하다	運轉-		To drive	2	A	
+치약	齒藥		Toothpaste	1	A	
+금요일	金曜日		Friday	1	A	
+요일	曜日		A day of the week not the weekend	1	A	
+질문하다	質問-		Ask a person a question	2	A	
+간호사	看護師		Nurse	1	A	
+안녕	安寧		hello/goodbye	10	A	
+개		동물	A dog	1	A	
+한국말	韓國-		Korean (language)	1	A	
+계란	鷄卵		An egg	1	A	
+세수	洗手		Hand-washing	1	A	
+수		방법	way,method	5	A	
+새		날짐승	A bird	1	A	
+태권도	跆拳道		Tae kwon do	1	A	
+감사	感謝		Thanks	1	A	
+휴지	休紙		Toilet paper	1	A	
+여동생	女同生		Younger sister	1	A	
+물		바닷~	Water	1	A	
+길		도로	Road	1	A	
+여행하다	旅行-		To travel	2	A	
+정류장	停留場		stop,a station,bus-stop	1	A	
+식사하다	食事-		To eat a meal	2	A	
+우체국	郵遞局		A post office	1	A	
+일		하루	One day	5	A	
+이	二		Two	9	A	
+남학생	男學生		Male student	1	A	
+발음	發音		Pronunciation	1	A	
+경치	景致		A scene or  scenery	1	A	
+연습하다	練習-		To practice,exercise	2	A	
+참		참으로	really,truly	3	A	
+좀		조금	A little	3	A	
+안		아니	~ not ~ + VERB	3	A	
+꼭		반드시	For sure	3	A	
+초대하다	招待-		To invide	2	A	
+서점	書店		A bookstore	1	A	
+양말	洋襪		A sock	1	A	
+공책	空冊		Notebook for taking notes and studying	1	A	
+일	一		One	9	A	
+소풍	逍風		Picnic	1	A	
+외국어	外國語		A foreign language; sometimes, only means English	1	A	
+중학생	中學生		Middle school student	1	A	
+휴일	休日		A day off of work, a holiday	1	A	
+쪽		방향	Way, direction	5	A	
+살		한 ~	Years old	5	A	
+분		한 ~	One part	5	A	
+감사하다	感謝-		To thank	2	A	
+청소하다	淸掃-		To clean	2	A	
+월요일	月曜日		Monday	1	A	
+일곱			Seven	9	A	
+주소	住所		An address	1	A	
+기숙사	寄宿舍		A hostel or  residence hall	1	A	
+산책	散策		A walk,stroll	1	A	
+운동하다	運動-		To do exercise	2	A	
+그녀	-女		She	8	A	
+축하하다	祝賀-		To Congratulate sb	2	A	
+이번	-番		This time	1	A	
+수건	手巾		Handkerchief	1	A	
+전화하다	電話-		To call	2	A	
+대학교	大學校		University	1	A	
+안녕히	安寧-		Peacefully	3	A	
+과자	菓子		A snack or  pastries or  candy	1	A	
+수박	과일		Watermelon	1	A	
+다르다			Be different	1	A	
+번호	番號		A number	1	A	
+여권	旅券		A passport	1	A	
+인사하다	人事-		To greet, say hello	2	A	
+모자	帽子		A hat	1	A	
+그쪽			Those people	8	A	
+지갑	紙匣		A purse,wallet	1	A	
+친절하다	親切-		To be kind, to be nice	4	A	
+그거			That thing	8	A	
+그것			That thing	8	A	
+일흔			Seventy	9	A	
+아			Oh dear	10	A	
+그곳			That place	8	A	
+거		것	That thing	8	A	
+목욕	沐浴		A bath	1	A	
+연필	鉛筆		Pencil	1	A	
+거기			There (location)	8	A	
+쉰			50	9	A	
+운전	運轉		Driving	1	A	
+육	六		The number six	9	A	
+칠	七		Seven	9	A	
+천	千		Thousand	9	A	
+결혼식	結婚式		Wedding	1	A	
+예순			Sixty	9	A	
+감기	感氣		A cold	1	A	
+냉장고	冷藏庫		Freezer	1	A	
+오	五		Five	9	A	
+열			Ten	9	A	
+여덟			Eight	9	A	
+여학생	女學生		Female student	1	A	
+여든			Eighty	9	A	
+여섯			Six	9	A	
+아홉			Nine	9	A	
+사과	沙果		An apple	1	A	
+아흔			Ninety	9	A	
+십	十		10	9	A	
+몇			A few	6	A	
+경찰서	警察署		A police station	1	A	
+스물			Twenty	9	A	
+셋			Three	9	A	
+서른			Thirty	9	A	
+서쪽	西-		The west	1	A	
+삼	三		Three	9	A	
+사	四		four,the fourth	9	A	
+백	百		One hundred	9	A	
+마흔			Forty	9	A	
+만	萬		10000	9	A	
+다섯			5	9	A	
+넷			4	9	A	
+넷째			Fourth	9	A	
+구	九		9	9	A	
+공원	公園		Park	1	A	
+교과서	敎科書		Textbook	1	A	
+수영	水泳		Swimming	1	A	
+팔	八		Eight	9	A	
+기차	汽車		A train	1	A	
+어			Oh, well, why	10	A	
+졸업	卒業		Graduation	1	A	
+생선	生鮮		Raw fish	1	A	
+죄송하다	罪悚-		regret,be sorry for	4	A	
+한자	漢字		Korean character, derived from chinese	1	A	
+안경	眼鏡		Glasses	1	A	
+약속하다	約束-		To make a promise	2	A	
+한복	韓服		Korean traditional clothing	1	A	
+아니요			No, that’s not the case	10	A	
+피곤하다	疲困-		To be very tired, exhausted	4	A	
+한국어	韓國語		Korean (language)	1	A	
+계절	季節		Season	1	A	
+네			Yes	10	A	
+다리	교량		Bridge	1	A	
+청소	淸掃		Cleaning	1	A	
+그			That	10	A	
+그래			So or  yes or  that’s right	10	A	
+그럼			Interjection: “yeh or  that’s right”	10	A	
+공항	空港		Airport	1	A	
+군인	軍人		Sb in the military	1	A	
+토요일	土曜日		Saturday	1	A	
+경찰관	警察官		a policeman	1	A	
+극장	劇場		Theater or  playhouse	1	A	
+의자	椅子		A chair	1	A	
+설탕	雪糖		Sugar	1	A	
+점심	點心		Lunch	1	A	
+단어	單語		Word	1	A	
+북쪽	北-		The north direction	1	A	
+위험하다	危險-		To be dangerous	4	A	
+졸업하다	卒業-		To graduate	2	A	
+여러			many,various	6	A	
+십일월	十一月		November	1	A	
+어느			Some, a certain	6	A	
+우유	牛乳		Milk	1	A	
+아무			anybody,everybody	6	A	
+창문	窓門		A window	1	A	
+셋째			The third	6	A	
+중학교	中學校		Middle school	1	A	
+가수	歌手		Singer	1	A	
+안녕하다	安寧-		To say hello	4	A	
+출발하다	出發-		To depart, leave	2	A	
+백	百		Hundreds of	6	A	
+대학생	大學生		University student	1	A	
+생일	生日		A birthday	1	A	
+무슨			What, what kind of	6	A	
+주말	週末		Weekend	1	A	
+내년	來年		Next year	1	A	
+모든			Every one	6	A	
+연습	練習		practice,exercise	1	A	
+지도	地圖		Map, atlas	1	A	
+화장실	化粧室		Bathroom	1	A	
+만	萬		10000	6	A	
+다른			Different	6	A	
+사무실	事務室		Office	1	A	
+이월	二月		February	1	A	
+일요일	日曜日		Sunday	1	A	
+다섯째			Fifth	6	A	
+선물	膳物		A present,gift	1	A	
+위험	危險		Danger	1	A	
+지하	地下		Underground	1	A	
+지하철	地下鐵		Subway	1	A	
+네			You	6	A	
+교회	敎會		Preach or  moral instruction	1	A	
+일월	一月		January	1	A	
+도서관	圖書館		Library	1	A	
+침대	寢臺		A bed	1	A	
+넷째			Fourth	6	A	
+부인	夫人		A woman	1	A	
+숙제	宿題		Homework	1	A	
+우산	雨傘		An umbrealla	1	A	
+책상	冊床		On the desk	1	A	
+남쪽	南-		South side	1	A	
+색깔	色-		Color	1	A	
+요리	料理		Cooking	1	A	
+유명하다	有名-		To be famous	4	A	
+한			One, a single	6	A	
+외국인	外國人		A foreigner, a foreign national	1	A	
+방학	放學		School holidays	1	A	
+캐나다		Canada	Canada	7	A	
+시월	十月		October	1	A	
+박물관	博物館		Museum	1	A	
+팔월	八月		August	1	A	
+미안하다	未安-		To be sorry	4	A	
+인사	人士		People, men of society	1	A	
+대답	對答		An answer	1	A	
+시작	始作		The beginning	1	A	
+칠월	七月		Month of July	1	A	
+십이월	十二月		December	1	A	
+컵	cup		Cup	1	A	
+보통	普通		The normal	1	A	
+식당	食堂		Restaurant	1	A	
+우리			we,our	8	A	
+소개하다	紹介-		To introduce,present	2	A	
+복잡하다	複雜-		Be complicated	4	A	
+축구	蹴球		Football	1	A	
+장소	場所		Place	1	A	
+교실	敎室		Classroom	1	A	
+건강하다	健康-		To be healthy	4	A	
+벌써			Already	3	A	
+도착하다	到着-		To arrive	2	A	
+교통	交通		Traffic or  transportation	1	A	
+이			A person, a man/woman	8	A	
+이거			This thing	8	A	
+이것			This thing	8	A	
+내일	來日		Tomorrow	1	A	
+매일	每日		Every day	3	A	
+약속	約束		A promise	1	A	
+인사	人事		Greetings	1	A	
+자전거	自轉車		Bicycle	1	A	
+부모님	父母-		Parents	1	A	
+비행기	飛行機		An airplane	1	A	
+이곳			This place, here	8	A	
+오전	午前		Morning	1	A	
+결혼하다	結婚-		Get married	2	A	
+질문	質問		A question, a query	1	A	
+이분			Divide into two	8	A	
+이쪽			This side, our way	8	A	
+저		일인칭 대명사	That	8	A	
+근처	近處		Nearby or  the vicinity	1	A	
+대답하다	對答-		To answer, reply	2	A	
+준비하다	準備-		To prepare	2	A	
+사장	社長		Company boss	1	A	
+삼월	三月		March	1	A	
+남녀	男女		Man and woman	1	A	
+준비	準備		Preparation	1	A	
+구월	九月		September	1	A	
+유월	六月		June	1	A	
+저거			That thing over there	8	A	
+저것			That thing over there	8	A	
+저곳			That place over there	8	A	
+새			New	6	A	
+영어	英語		The english language	1	A	
+저기			That place, there	8	A	
+작년	昨年		Last year	1	A	
+부부	夫婦		Man and wife	1	A	
+여행	旅行		Trip	1	A	
+오월	五月		May	1	A	
+저쪽			Over there, in that direction	8	A	
+사월	四月		April	1	A	
+편지	便紙		Letter	1	A	
+여기			A hobby	8	A	
+설명	說明		Explanation	1	A	
+여러분			You (plural, to address a group at speech time)	8	A	
+어디			Where?	8	A	
+수업	授業		school,teaching	1	A	
+식사	食事		A meal	1	A	
+너			You	8	A	
+개월	個月		Each and every month	5	A	
+공부하다	工夫-		To study	2	A	
+무엇			That thing,whatever	8	A	
+누구			Who	8	A	
+주인	主人		The head of a family,the owner	1	A	
+나			Me	8	A	
+자동차	自動車		Car	1	A	
+제일	第一		The first	1	A	
+그분			That person (respectful)	8	A	
+세	歲		Age in years	5	A	
+항상	恒常		Always	3	A	
+환자	患者		A patient	1	A	
+대화	對話		Conversation	1	A	
+잠시	暫時		For a little while	3	A	
+사진	寫眞		Picture	1	A	
+열심히	熱心-		Enthusiastically,with zeal	3	A	
+부모	父母		Parents	1	A	
+달			The moon	5	A	
+병원	病院		Hospital	1	A	
+경찰	警察		The police	1	A	
+시험	試驗		A test	1	A	
+건강	健康		Health	1	A	
+건물	建物		Building	1	A	
+외국	外國		A foreign country	1	A	
+시작되다	始作-		To begin,start	2	A	
+설명하다	說明-		To explain	2	A	
+음악	音樂		Music	1	A	
+고향	故鄕		Hometown	1	A	
+은행	銀行		A bank	1	A	
+결혼	結婚		Marriage	1	A	
+오후	午後		The afternoon	1	A	
+분		10시 20~	Minutes	5	A	
+번	番		Number, how many times	5	A	
+맵다			Spicy	4	A	
+물건	物件		A thing	1	A	
+학년	學年		A school year	1	A	
+신문	新聞		A newspaper	1	A	
+이해하다	理解-		To understand	2	A	
+선생	先生		Teacher	1	A	
+기분	氣分		Mood	1	A	
+회의	會議		A meeting, a conference	1	A	
+공부	工夫		Study	1	A	
+음식	飮食		Food	1	A	
+것			A thing or  an object	5	A	
+바람		눈이 오는 ~에	As a result,by the influence of	5	A	
+계획	計劃		A plan or  a project	1	A	
+계속	繼續		Continuously	3	A	
+가족	家族		Family	1	A	
+도시	都市		City	1	A	
+미터		meter	Meter	5	A	
+영화	映畵		A movie	1	A	
+필요	必要		Need, requirement,necessity	1	A	
+정말	正-		Really	3	A	
+교수	敎授		Teaching or  instruction	1	A	
+전화	電話		Telephone	1	A	
+명	名	한 ~	Person counter	5	A	
+학생	學生		Student	1	A	
+마리			Number of animals	5	A	
+필요하다	必要-		To need	4	A	
+사용하다	使用-		To use	2	A	
+남편	男便		Husband	1	A	
+대학	大學		University	1	A	
+지금	只今		Now	3	A	
+선생님	先生-		Teacher	1	A	
+역사	歷史		History	1	A	
+물론	勿論		Of course	3	A	
+시장	市場		market,fair	1	A	
+중요하다	重要-		To be important,weighty	4	A	
+안	집~		Inside	1	A	
+학교	學校		School	1	A	
+년	年		Year	5	A	
+시작하다	始作-		To start,begin	2	A	
+친구	親舊		A friend	1	A	
+남자	男子		Boy	1	A	
+세		~ 권	Three	6	A	
+문제	問題		question,problem	1	A	
+여자	女子		woman,female	1	A	
+이		신체	A tooth	1	A	
+위		~아래	The upper part, above	1	A	
+사십	四十		40	9	A	
+한번	-番		Once	1	A	
+검은색	-色		Black or  dark	1	A	
+달력	-曆		A calendar	1	A	
+노란색	-色		Yellow	1	A	
+빨간색	-色		deep-red,crimson	1	A	
+얘기		이야기	Story	1	A	
+지난주	-週		Last week	1	A	
+파란색	-色		Blue	1	A	
+권	卷		A volume or  a book	5	A	
+거		것	That thing	5	A	
+개	個		Unit or  piece	5	A	
+퍼센트		percent	Percent	5	A	
+이런			Such, like this	6	A	
+저		멀리 있는 대상	Uh, well,  ...	6	A	
+전	前		Before	6	A	
+스무			20	6	A	
+그렇다			That is right or  yes.	4	A	
+괜찮다			To be okay	4	A	
+고맙다			To thank	4	A	
+고프다			Hungry or  famished	4	A	
+같다			To be similar	4	A	
+가깝다			Close	4	A	
+가볍다			Light	4	A	
+원		화폐 단위	A unit of south korean  money, KRW	5	A	
+월	月		A month	5	A	
+호	號		A pen name, a title; a number, an issue	5	A	
+술		밥 한 ~	Spoonful	5	A	
+장	張	종이 한 ~	One piece of sth flat	5	A	
+씨	氏		~ Mr.	5	A	
+힘들다			To be hard, difficult	4	A	
+밝다			To be promising	4	A	
+배고프다			To be hungry	4	A	
+배부르다			To be full	4	A	
+반갑다			Be happy	4	A	
+멀다		갈 길이 ~	To be far	4	A	
+많다			many,much	4	A	
+맑다			clean,pure	4	A	
+맛없다			Bad flavor	4	A	
+맛있다			Delicious	4	A	
+덥다			Be hot, heated	4	A	
+높다			High	4	A	
+늦다			To be late (time)	4	A	
+넓다			Broad	4	A	
+낮다			Be low	4	A	
+나쁘다			To be bad	4	A	
+길다		밤이 ~	To be long	4	A	
+깨끗하다			To be clean or  pure	4	A	
+재미없다			Boring	4	A	
+재미있다			interesting,fun	4	A	
+작다			Small	4	A	
+예쁘다			Pretty, lovely	4	A	
+어떠하다			To be how	4	A	
+어떻다			how,what.. do you think of	4	A	
+어렵다			To be hard, difficult	4	A	
+아프다			To hurt	4	A	
+아니다			To not be	4	A	
+아름답다			To be beautiful	4	A	
+싫다			To not like, to hate	4	A	
+싸다		집값이 ~	Be inexpensive	4	A	
+슬프다			To be sad,sorrowful	4	A	
+시원하다			Be cool,refreshing	4	A	
+쉽다			To be easy	4	A	
+비슷하다			To resemble	4	A	
+비싸다			To be expensive	4	A	
+빠르다			Be fast, quick	4	A	
+갑자기			Suddenly	3	A	
+같이			Together	3	A	
+가끔			Sometimes	3	A	
+하지만			But, nevertheless	3	A	
+함께			Together, with	3	A	
+이렇다			Like this	4	A	
+크다			To be big, large	4	A	
+춥다			To be cold	4	A	
+짧다			Short, brief	4	A	
+즐겁다			Be pleasant,agreeable	4	A	
+조용하다			To be quiet,still	4	A	
+좋다			To be good	4	A	
+적다		경험이 ~	To be small, few in number	4	A	
+더			More	3	A	
+다시			Again	3	A	
+다			All, everything	3	A	
+너무			Too much	3	A	
+그렇지만			But or  however	3	A	
+그래서			And so accordingly	3	A	
+그러나			However or  but still	3	A	
+그러니까			And so it is that	3	A	
+그러면			If so or  if that is the case	3	A	
+그런데			But or  however	3	A	
+그럼		그러면'의 준말	Certainly or  of course.	3	A	
+곧			Soon	3	A	
+어서			Quickly 2) kindly	3	A	
+어제			Yesterday	3	A	
+언제나			everytime,always	3	A	
+얼마나			How many, how much	3	A	
+자주			Always, constantly	1	A	
+아주			Extremely	3	A	
+아직			Still	3	A	
+아니			Not	3	A	
+아마			Probably	3	A	
+서로			mutually,one another	3	A	
+빨리			Quickly	3	A	
+바로			Right, correctly	3	A	
+못			Cannot	3	A	
+많이			A lot	3	A	
+매우			Very	3	A	
+조금			A little	3	A	
+혼자			Alone	1	A	
+화		~를 내다	Anger (get angry)	1	A	
+왜			Why?	3	A	
+왜냐하면			Because	3	A	
+일찍			Early	3	A	
+천천히			Slowly	3	A	
+잘			Well	3	A	
+잠깐			For a little while	3	A	
+오래			Long, for a long time	3	A	
+가방		~을 메다	Bag	1	A	
+가슴			Chest	1	A	
+가운데			In the middle	1	A	
+가을			Autumn or  fall	1	A	
+한글			Korean writing system	1	A	
+피아노		piano	Pian	1	A	
+피자		&이pizza	Pizza	1	A	
+하늘			The sky	1	A	
+표	票		A marker, indication	1	A	
+팔		신체의 일부	An arm	1	A	
+할머니			Grandmother	1	A	
+할아버지			Grandfather	1	A	
+호텔		hotel	Hotel	1	A	
+구경			An enjoyable sight or spectacle	1	A	
+곳			Place	1	A	
+과	課		A lesson or  a section or  a department	1	A	
+과일			A fruit	1	A	
+고기			Meat	1	A	
+고등학교	高等學校		A senior high school	1	A	
+고등학생	高等學生		High school student	1	A	
+고양이			Kitten	1	A	
+게임		game	Game	1	A	
+겨울			Winter	1	A	
+거울			1) mirror  2) a pattern or  model or  exemplar	1	A	
+걱정			Worry	1	A	
+값			Price	1	A	
+강	江		River	1	A	
+갈비			The ribs	1	A	
+끝			The end	1	A	
+가게			Store	1	A	
+낮			Daytime	1	A	
+꽃			Flower	1	A	
+꿈			A Dream	1	A	
+나라			A country	1	A	
+나무			Tree	1	A	
+급	級		Class or  grade or  rank	1	A	
+그릇			A vessel or  receptacle	1	A	
+그림			A picture	1	A	
+그날			That day or  that same day	1	A	
+그동안			During that time	1	A	
+그때			Then or  at that time	1	A	
+구름			A cloud or  the clouds	1	A	
+댁	宅		You and your family	1	A	
+닭고기			Chicken meat for eating	1	A	
+담배			Tobacco	1	A	
+다리		신체의 일부	Leg	1	A	
+다음			Next	1	A	
+달			The moon	1	A	
+달러		dollar	Dollar	1	A	
+닭			Chicken	1	A	
+누나			Older sister	1	A	
+눈		신체의 일부	Eyes	1	A	
+눈		~이 내리다	Snow	1	A	
+눈물			A tear	1	A	
+뉴스		news	News	1	A	
+넥타이		necktie	Necktie	1	A	
+노래			Song	1	A	
+노트		note	A note	1	A	
+나이			Age	1	A	
+나중			The last, the latter part	1	A	
+날		어느 ~	Day	1	A	
+날씨			Weather	1	A	
+날짜			Date	1	A	
+문	門		Door	1	A	
+며칠			How many days	1	A	
+목			The neck	1	A	
+말		~과 글	words,speaking	1	A	
+말씀			Speech	1	A	
+맛			Flavor	1	A	
+마음			Heart	1	A	
+마지막			Last, final	1	A	
+돈			Money	1	A	
+밤		어두운 때	Night	1	A	
+밥		~을 먹다	Rice, a meal	1	A	
+방	房		A room	1	A	
+바나나		banana	Banana	1	A	
+바다			Sea	1	A	
+바람		~이 불다	Wind	1	A	
+바지			Pants	1	A	
+밖			The outside	1	A	
+반	半		Half	1	A	
+반	班		Group, company, party	1	A	
+발		신체의 일부	Foot	1	A	
+밑			The bottom	1	A	
+몸			body,physique	1	A	
+산	山		A mountain	1	A	
+빵			Bread	1	A	
+사람			Person	1	A	
+사랑			Love	1	A	
+비		~가 내리다	Rain	1	A	
+비누			Soap	1	A	
+비디오		video	Video	1	A	
+비빔밥			Vegetarian dish of rice and vegetables	1	A	
+불			Fire	1	A	
+불고기			Roast meat	1	A	
+힘			Power	1	A	
+볼펜		ball pen	A ballpen	1	A	
+봄			Spring	1	A	
+부엌			Kitchen	1	A	
+별			A star	1	A	
+병	病		Sickness	1	A	
+병	甁		A bottle	1	A	
+숟가락			A spoon	1	A	
+술		~을 먹다	Alcohol	1	A	
+슈퍼마켓		supermarket	Supermarket	1	A	
+소파		sofa	Sofa	1	A	
+속			The inside	1	A	
+손		신체의 일부	The hand	1	A	
+손님			Customer	1	A	
+쇠고기			Beef	1	A	
+쇼핑		shopping	Shopping	1	A	
+색	色		Color	1	A	
+샌드위치		sandwich	Sandwich	1	A	
+어깨			Shoulder	1	A	
+아이			Child	1	A	
+아이스크림		ice-cream	Ice cream	1	A	
+아저씨			Sir, calling an unknown male	1	A	
+아줌마			Old or married lady	1	A	
+아침			Morning	1	A	
+아파트		apartment	Apartment	1	A	
+샤워		shower	Shower	1	A	
+앞			In front of, before	1	A	
+쓰레기			Garbage	1	A	
+아기			baby,infant	1	A	
+아내			Wife	1	A	
+아들			son,baby	1	A	
+아래			The bottom, the lower part	1	A	
+아버지			Father	1	A	
+아빠			Dad	1	A	
+신발			shoes,footwear	1	A	
+스트레스		stress	Stress	1	A	
+스포츠		sports	Sports	1	A	
+옆			Next to	1	A	
+여보세요			Telephone HELLO	10	A	
+옛날			Ancient times, antiquity	1	A	
+오늘			Today	1	A	
+오래간만			After a long time	1	A	
+오랜만			After a long time	1	A	
+오렌지		orange	Orange	1	A	
+오빠			Older brother	1	A	
+열쇠			Lock	1	A	
+에어컨		air conditioner	Air conditioner	1	A	
+여름			summer,summertime	1	A	
+역	驛		A railroad station/depot	1	A	
+어머니			Mom	1	A	
+얼굴			Face	1	A	
+얼마			How many, how much	1	A	
+엄마			Mamma	1	A	
+종이			Paper	1	A	
+전화번호	電話番號		Telephone number	1	A	
+점심시간	點心時間		Lunchtime	1	A	
+젓가락			A pair of chopsticks	1	A	
+저녁			Evening	1	A	
+잠깐			For a little while	1	A	
+재미			amusement,enjoyment	1	A	
+자장면		&중Zhajiangmian	Black chinese noodles	1	A	
+잔	盞		A cup, wine glass	1	A	
+잠			Sleep	1	A	
+층	層		floor,grade,class	1	A	
+치마			A skirt	1	A	
+카드		card	Card	1	A	
+카메라		camera	Camera	1	A	
+칼		베는 도구	A knife	1	A	
+초콜릿		chocolate	Chocolate	1	A	
+춤			Dance	1	A	
+처음			First	1	A	
+초등학교	初等學校		Elementary school	1	A	
+책	冊		A book	1	A	
+집			House	1	A	
+찌개			A pot stew	1	A	
+차	車		A vehicle, train/auto car	1	A	
+차	茶		Tea	1	A	
+지우개			An eraser	1	A	
+지난달			Last month	1	A	
+주스		juice	Juice	1	A	
+핸드폰		hand phone	Cell phone	1	A	
+햄버거		hamburger	Hamburger	1	A	
+팀		team	Team	1	A	
+파티		party	Party	1	A	
+택시		taxi	Taxi	1	A	
+테니스		tennis	Tennis	1	A	
+테이블		table	Table	1	A	
+텔레비전		television	Television	1	A	
+커피		coffee	Coffee	1	A	
+코			The nose	1	A	
+만나다			Meet	2	A	
+콜라		cola	Cola	1	A	
+크리스마스		Christmas	Christmas	1	A	
+올해			This year	1	A	
+옷			Clothes	1	A	
+요즈음			Recently, nowadays	1	A	
+요즘			Recently, nowadays	1	A	
+일			Work	1	A	
+이때			At this time, moment	1	A	
+이름			Name	1	A	
+이제			Now	1	A	
+허리			The waist, the small of the back	1	A	
+형	兄		An elder brother	1	A	
+입			Mouth	1	A	
+해			A year	1	A	
+걷다		느릿느릿 ~	To walk	2	A	
+걸다		옷을 ~	Hang up or  suspend	2	A	
+걸어가다			To go on foot or  walk	2	A	
+걸어오다		집까지 ~	Come on foot or  walk	2	A	
+가르치다			To teach	2	A	
+가져오다			To bring or  get	2	A	
+피우다			To make, build, kindle	2	A	
+하다			To do	2	A	
+만들다			To make	2	A	
+팔다			To sell	2	A	
+있다			To be	1	A	
+있다			To be	2	A	
+후	後		After	1	A	
+끄다		불을 ~	Put out or  extinguish	2	A	
+끝나다			To draw to a close or  to end	2	A	
+끝내다			To end	2	A	
+나가다			To go out	2	A	
+깎다			Cut or  trim	2	A	
+걱정하다			To worry or  be anxious	2	A	
+늦다			Be late, overdue	2	A	
+다녀오다			Drop in for a short visit	2	A	
+다니다			Go to and from a aplace	2	A	
+넣다			Put in, set in	2	A	
+노래하다			To sing	2	A	
+놀다			Play, amuse oneself	2	A	
+나오다			Come out	2	A	
+날다			To fly	2	A	
+내려가다			To go down	2	A	
+내려오다			Come down	2	A	
+내리다		눈이 ~	Descend	2	A	
+바쁘다			Busy	4	A	
+주다			To give, to do for a person	도	A	
+마시다			To drink	2	A	
+싶다			want,hope	보	A	
+놓다			Put, place	보	A	
+나가다			To advance, proceed, go forward	보	A	
+그래		그리하여	Yes or  that’s right	불	A	
+그래서		그리하여서	So or  therefore	불	A	
+귀			Ear	1	A	
+하다			To do	보	A	
+않다			To not be, to not do	2	A	
+기다리다			To wait	2	A	
+울다		울음을 ~	To cry, weep	2	A	
+웃다			To laugh, smile	2	A	
+입다		옷을 ~	To wear	2	A	
+잊다			To forget	2	A	
+잊어버리다			To forget	2	A	
+일하다			To work, labor	2	A	
+읽다			To read	2	A	
+잃다			To lose, to miss, to be deprived	2	A	
+잃어버리다			To lose	2	A	
+켜다		성냥을 ~	To light, turn on, kindle	2	A	
+크다			To be big, large	2	A	
+태어나다			To be born, see the light of day	2	A	
+추다		춤을 ~	To dance	2	A	
+춤추다			To dance	2	A	
+찾다			seek,look for	2	A	
+찍다		서류에 도장을 ~	Stamp with a dojang	2	A	
+지우다		낙서를 ~	To erase	2	A	
+지내다			To pass, spend time	2	A	
+죽다		굶어 ~	die,pass away	2	A	
+좋아하다			To like, be fond of	2	A	
+적다		답을 ~	Write down	2	A	
+잠자다			Fall asleep	2	A	
+잡다			seize,catch	2	A	
+잡수시다			eat,drink	2	A	
+잘하다			To do well	2	A	
+자다			To sleep	2	A	
+올라가다			To go up, ascend	2	A	
+오다			To come	2	A	
+오르다			Go up, climb, ascend	2	A	
+열다		문을 ~	Open	2	A	
+얘기하다			To tell a story	2	A	
+안다			To hold, embrace	2	A	
+안되다		공부가 ~	Must not, should not	2	A	
+앉다			To sit down	2	A	
+알다			To know	2	A	
+쓰다		글씨를 ~	To write	2	A	
+쓰다		모자를 ~	To wear (a hat)	2	A	
+쓰다		약을 ~	Take (medicine)	2	A	
+씻다			To wash,cleanse	2	A	
+싫어하다			To dislike, be reluctant (to do)	2	A	
+싸우다			To fight	2	A	
+신다			Put on, wear	2	A	
+서다			To stand	2	A	
+살다			To live	2	A	
+사랑하다			To love	2	A	
+불다		바람이 ~	Blow	2	A	
+부르다		이름을 ~	To call	2	A	
+보내다			Send	2	A	
+배우다			To learn	2	A	
+바꾸다			change,exchange	2	A	
+받다		선물을 ~	Receive	2	A	
+예			Yes, certainly, right	10	A	
+물어보다			Ask	2	A	
+못하다			Be impossible	2	A	
+모르다			To not know	2	A	
+말다		그만두다	Cease	2	A	
+말씀하다			Speak	2	A	
+말하다			Speak	2	A	
+도와주다			To help	2	A	
+닦다			Wipe clean, polish	2	A	
+닫다			To close	2	A	
+백화점	百貨店		Department store	1	A	
+첫째			The first	9	A	
+첫째			The first	6	A	
+취미	趣味		Hobby	1	A	
+사다			To buy, purchase	2	A	
+묻다		길을 ~	to Ask	2	A	
+의사	醫師		A doctor, a physician	1	A	
+계시다			(someone esteemed) to stay or  be located	2	A	
+계시다			(honorofic) to stay or  reside	보	A	
+머리			Head	1	A	
+생기다			arise,occur,happen	2	A	
+일주일	一週日		One whole day	1	A	
+벗다			Take off, remove	2	A	
+가다			To go	2	A	
+오른쪽			The right side	1	A	
+시계	時計		clock, timekeeper, timepiece	1	A	
+없다			Do not exist, absent	4	A	
+맥주	麥酒		Beer	1	A	
+하나			One	9	A	
+하나			One	1	A	
+내다		참아 ~	to see through, to make it through sth	보	A	
+내다		길을 ~	produce something	2	A	
+가장			Most	3	A	
+먼저			First	3	A	
+일어나다			To rise, get up	2	A	
+주	週		One week	5	A	
+배		열매	Pear	1	A	
+배		신체의 일부	Abdomen	1	A	
+배		~를 띄우다	A boat (boating)	1	A	
+센티미터		centimeter	Centimeter	5	A	
+이야기			Conversation, talk	1	A	
+이야기하다			To talk	2	A	
+생각			Thought	1	A	
+생각하다			To think	2	A	
+가지다			To have or  take or  hold	2	A	
+가지다			Entertain or  hold or  have	보	A	
+어른			A man, an adult	1	A	
+거리		길~	A road or  street	1	A	
+운동	運動		Motion, movement	1	A	
+운동장	運動場		Stadium, playground	1	A	
+보다		한층 더	More than, greater than ....	3	A	
+보다			To see	보	A	
+보다			To try	2	A	
+버리다			(following a verb) the verb\\'s action is over, perhaps in a sad way	보	A	
+남동생	男-		Younger brother	1	A	
+메뉴		menu	Menu	1	A	
+놀라다			Be surprised	2	A	
+잎			A leaf	1	A	
+양복	洋服		Western European style clothing	1	A	
+모두			Everybody	3	A	
+모두			everything	1	A	
+아주머니			An aunt, a respectable word for a married, older woman	1	A	
+언니			Older sister	1	A	
+언제			when,at what time	3	A	
+생활	生活		lifestyle,livelihood	1	A	
+달다		맛	to be sweet	4	A	
+어린이			A youngster, a child	1	A	
+손가락			a finger	1	A	
+어떤			What kind of, what sort of	6	A	
+흰색	-色		gray,ash color	1	A	
+식탁	食卓		Dinner table	1	A	
+김밥			Roll of rice and vegetables	1	A	
+김치			Spicy cabbage	1	A	
+시	時		Time	5	A	
+시	市		City	1	A	
+시간	時間		a Length of time (한시간 동안)	5	A	
+시간	時間		Time	1	A	
+컴퓨터		computer	Computer	1	A	
+뭐			Huh? (2) something	10	A	
+뭐			Huh? (2) something	8	A	
+야구	野球		Baseball	1	A	
+공		축구~	Ball	1	A	
+실례	失禮		rudeness,impolite	1	A	
+티브이	TV		TV	1	A	
+짜다		음식이 ~	To be salty	4	A	
+그리고			And or  and then	3	A	
+그리다		그림을 ~	Picture or  draw a picture	2	A	
+나다			To be born	2	A	
+구두			Shoes or  boots	1	A	
+중국	中國		China	7	A	
+대사관	大使館		Embassy	1	A	
+사전	辭典		Dictionary	1	A	
+초대	招待		An invitation	1	A	
+왼쪽			The left side	1	A	
+소금			Salt	1	A	
+잡지	雜誌		A magazine	1	A	
+약	藥		Medicine	1	A	
+약국	藥局		Pharmacy	1	A	
+무겁다			Heavy ; a stuffy atmosphere	4	A	
+자리		~가 없다	seat,spot	1	A	
+먹다		밥을 ~	Eat, chow down on	2	A	
+먹다		잊어 ~	VST + 먹다 , adds no meaning	보	A	
+쉬다		편안히 ~	to relax, take a break	2	A	
+치다		얼굴을 ~	to attack, assault	2	A	
+타다		버스에 ~	Ride (bus)	2	A	
+마구			continuously, without pause	3	B	
+발달하다	發達-		To advance	2	B	
+무		식물	Radish	1	B	
+풍경	風景		Landscape, scenery	1	B	
+정리	整理		arrangment,regulation,adjustment	1	B	
+도쿄(동경)	東京		Tokyo	7	B	
+시아버지	媤-		one’s husband’s father	1	B	
+예매하다	豫買-		Advance purchase	2	B	
+학생증	學生證		Student identification	1	B	
+경상도	慶尙道		Kyung-San-Do province (ulsan or kyungju)	7	B	
+종로	鍾路		Famous street in Seoul	7	B	
+복습	復習		Reviewing	1	B	
+성함	姓銜		Your (his) esteemed name	1	B	
+세탁소	洗濯所		Laundromat	1	B	
+주차하다	駐車-		To park	2	B	
+청소기	淸掃機		A vacuum cleaner	1	B	
+껌	gum		Gum	1	B	
+필통	筆筒		Pencil case	1	B	
+인삼차	人蔘茶		Ginseng tea	1	B	
+초록색	草綠色		Green	1	B	
+축구공	蹴球-		A soccer ball	1	B	
+녹차	綠茶		Green tea	1	B	
+만두	饅頭		Chinese dumplings	1	B	
+발음하다	發音-		Pronounce	2	B	
+복습하다	復習-		To review	2	B	
+주차	駐車		Parking	1	B	
+홍차	紅茶		Tea, black tea	1	B	
+연세	年歲		Age, years of age	1	B	
+생신	生辰		A birthday	1	B	
+우표	郵票		A postage stamp	1	B	
+독일어	獨逸語		German	1	B	
+장갑	掌匣		A pair of gloves	1	B	
+중국집	中國-		Chinese restaurant	1	B	
+지하도	地下道		Underground road	1	B	
+소포	小包		A parcel,package	1	B	
+손녀	孫女		Granddaughter	1	B	
+책방	冊房		Reading room	1	B	
+여직원	女職員		Female employee	1	B	
+이혼하다	離婚-		To get divorced	2	B	
+평일	平日		A weekday	1	B	
+국립	國立		Government established	1	B	
+농구	籠球		Basketball	1	B	
+재작년	再昨年		The year before last	1	B	
+선풍기	扇風機		A fan	1	B	
+존댓말	尊待-		Respectful speech	1	B	
+초보자	初步者		A beginner, neophyte	1	B	
+외출하다	外出-		To go out (of doors)	2	B	
+이발소	理髮所		barber’s shop	1	B	
+취하다	醉-		To be drunk	2	B	
+정거장	停車場		A railroad station	1	B	
+명함	名銜		Name card	1	B	
+시부모	媤父母		one’s husband’s parents	1	B	
+실수하다	失手-		To make a mistake	2	B	
+점심때	點心-		Lunchtime	1	B	
+초보	初步		Initial, first steps	1	B	
+섭씨	攝氏		Celsius	1	B	
+시외	市外		Outside the city, suberbs	1	B	
+양배추	洋-		Cabbage	1	B	
+여고생	女高生		Female high school student	1	B	
+피로하다	疲勞-		To be fatigued, weary	4	B	
+화나다	火-		Get angry	2	B	
+카운터		계산대	Counter, where you pay	1	B	
+부잣집	富者-		Rich man’s house	1	B	
+사진기	寫眞機		Camera	1	B	
+송편	松-		Rice cake steemed over pine needles	1	B	
+우승하다	優勝-		To take first place	2	B	
+인사말	人事-		Words of greeting	1	B	
+자판기	自販機		Vending machine	1	B	
+퇴근하다	退勤-		To go home from work	2	B	
+강당	講堂		A lecture hall	1	B	
+고모부	姑母夫		The husband of one’s paternal aunt	1	B	
+녹음	錄音		Recording	1	B	
+취하다	取-		To adopt, assume, take	2	B	
+인상	人相		Look, personal appearance	1	B	
+점원	店員		A shop-assistant	1	B	
+찻잔	茶盞		A teacup	1	B	
+복사하다	複寫-		reproduce,copy	2	B	
+사계절	四季節		The four seasons	1	B	
+사과하다	謝過-		To apologize	2	B	
+여대생	女大生		Female college student	1	B	
+외할머니	外-		A maternal grandmother	1	B	
+음악가	音樂家		A musician	1	B	
+인삼	人蔘		Ginseng	1	B	
+한국적	韓國的		Korean (adjective)	1	B	
+환영	歡迎		Welcome	1	B	
+간식	間食		Snack	1	B	
+감	과일		Persimmon	1	B	
+녹음하다	錄音-		To record	2	B	
+박스	box		Box	1	B	
+소용없다	所用-		To be useless	4	B	
+수돗물	水道-		Tap water	1	B	
+이사하다	移徙-		To move house	2	B	
+일등	一等		First class, first class/grade	1	B	
+할인	割引		A discount	1	B	
+국기	國旗		The national flag	1	B	
+대화하다	對話-		To converse	2	B	
+복사	複寫		Reproduction	1	B	
+성별	性別		Sex distinction	1	B	
+세탁	洗濯		Laundry	1	B	
+소문나다	所聞-		A rumor starts	2	B	
+일기	日氣		The weather	1	B	
+저번	這番		Last time, the other day	1	B	
+정답	正答		The right answer	1	B	
+답장	答狀		An answer	1	B	
+욕실	浴室		A bathroom,a bath	1	B	
+소		동물	A cow	1	B	
+말		동물	Horse	1	B	
+책가방	冊-		Bookbag	1	B	
+편히	便-		Easily, comfortably	3	B	
+가구	家具		Furniture	1	B	
+기억나다	記憶-		To memorize	2	B	
+곰		동물	Bear	1	B	
+엽서	葉書		A postcard	1	B	
+연하다	軟-		Tender, soft, mild	4	B	
+이혼	離婚		Divorce	1	B	
+일회용	一回用		For one time use	1	B	
+전화기	電話機		Telephone receiver	1	B	
+차남	次男		one’s second eldest son	1	B	
+환갑	還甲		one’s 60th anniversary	1	B	
+교포	僑胞		A Korean living abroad	1	B	
+배달	配達		Delivery	1	B	
+번역	飜譯		Translation	1	B	
+권투	拳鬪		Boxing or  K1	1	B	
+수학	修學		Pursuit of knowledge	1	B	
+염려하다	念慮-		To worry, be anxious about	2	B	
+외삼촌	外三寸		An uncle on one’s mother’s side	1	B	
+음료수	飮料水		Drinking water	1	B	
+입원하다	入院-		To enter a hospital	2	B	
+교문	校門		A school gate	1	B	
+기도	祈禱		A prayer	1	B	
+여행사	旅行社		Travel agency	1	B	
+유학생	留學生		A foreign student	1	B	
+줄		방법	way,method	5	B	
+으응			Ugh!	10	B	
+절약하다	節約-		To economize	2	B	
+가요	歌謠		A song	1	B	
+감상	鑑賞		Appreciation	1	B	
+공짜	空-		Free	1	B	
+수년	數年		Several years	1	B	
+수출하다	輸出-		To export	2	B	
+숙소	宿所		one’s address	1	B	
+신호등	信號燈		Signal light, blinker	1	B	
+입원	入院		Hospitalization	1	B	
+졸업생	卒業生		A graduate	1	B	
+친절	親切		Kindness, goodness	1	B	
+침실	寢室		Bedroom	1	B	
+가위	기구		Scissors	1	B	
+고속	高速		High speed	1	B	
+구하다	救-		Rescue a person	2	B	
+도망가다	逃亡-		Make a go for it, escape	2	B	
+새끼		자식~	Baby animal	1	B	
+밤		열매	Chestnut	1	B	
+초밥	醋-		Japanese vinegared rice vegetables	1	B	
+출구	出口		An exit	1	B	
+출입문	出入門		Door for exiting and entering	1	B	
+미인	美人		A beautiful girl	1	B	
+반지	半指		Ring	1	B	
+산속	山-		The heart of a mountain	1	B	
+식초	食醋		Vinegar	1	B	
+야외	野外		The fields, the outskirts	1	B	
+축하	祝賀		Congratulation, celebration	1	B	
+만족하다	滿足-		To be content	2	B	
+국		음식	Soup or  broth	1	B	
+중요	重要		importance,consequence	1	B	
+금연	禁煙		Prohibition of smoking	1	B	
+사무	事務		Office work	1	B	
+우울하다	憂鬱-		To be melancholy, gloomy	4	B	
+회화	繪畵		Conversations, talk	1	B	
+귀국	歸國		Returning to one’s home country	1	B	
+목욕탕	沐浴湯		A bathhouse	1	B	
+고장		지역	A district or  producing area	1	B	
+퇴근	退勤		Leaving one’s office, coming home from work	1	B	
+시청	市廳		City hall	1	B	
+준비되다	準備-		To be ready	2	B	
+신문사	新聞社		Newspaper company	1	B	
+피시		PC	PC, personal computer	1	B	
+봉지	封紙		Bag	1	B	
+비서	秘書		Secretary	1	B	
+여관	旅館		A hotel, an inn	1	B	
+주문하다	注文-		To order, to request	2	B	
+주사	注射		A shot, an injection	1	B	
+출근하다	出勤-		To go to work	2	B	
+막		마구	Carelessly, at random	3	B	
+낙엽	落葉		Fallen dead leaves	1	B	
+심해지다	甚-		Become deep and serious	2	B	
+근데		그런데	But or  however	3	B	
+이르다		빠르다	Be early, premature	4	B	
+외출	外出		Going out, an outing	1	B	
+자가용	自家用		For personal/family use	1	B	
+신문지	新聞紙		Newspaper paper	1	B	
+양보하다	讓步-		To make a concession, recede	2	B	
+주차장	駐車場		Parking lot	1	B	
+후회하다	後悔-		To regret	2	B	
+외교관	外交官		A diplomat	1	B	
+유행하다	流行-		To be in fashion, to be popular	2	B	
+도자기	陶瓷器		Porcelain	1	B	
+안내하다	案內-		To lead the way	2	B	
+영하	零下		Below zero	1	B	
+강도	强盜		A robber or  burglar	1	B	
+유명	有名		fame,celebrity status	1	B	
+철	계절		Season (the 4)	1	B	
+뵈다	보이다		Contraction of 보이다	2	B	
+취직	就職		Employment, getting a job	1	B	
+계획하다	計劃-		Plan or  make a project	2	B	
+연휴	連休		Consecutive holidays	1	B	
+태풍	颱風		Typhoon	1	B	
+금지하다	禁止-		To restrain or prohibit	2	B	
+가짜	假-		Fake	1	B	
+식빵	食-		Bread	1	B	
+운전자	運轉者		The driver	1	B	
+유리창	琉璃窓		A window which uses glass	1	B	
+위층	-層		The upper floor	1	B	
+남매	男妹		Brother and sister	1	B	
+안주	按酒		Appetizers for alcohol	1	B	
+인형	人形		A doll	1	B	
+전철	電鐵		An electric railway	1	B	
+한잔하다	­盞-		To drink a glass of liquor	2	B	
+좌석	座席		A seat	1	B	
+출근	出勤		Going to work	1	B	
+그대로			Like that	1	B	
+괜히			In vain or  useless or  fruitless, for a stupid reason	1	B	
+달리다		말을 ~	run, make do fast	1	B	
+방문	房門		A door of a room	1	B	
+병들다	病-		Get sick	2	B	
+소설가	小說家		Novelist	1	B	
+유학	儒學		Confucianism	1	B	
+향수	香水		A perfume	1	B	
+표시하다	表示-		To make a sign, display	2	B	
+감상하다	鑑賞-		To show appreciation	2	B	
+단점	短點		A weak point	1	B	
+반복하다	反復-		To repeat	2	B	
+녹색	綠色		Green	1	B	
+악수	握手		Handshake	1	B	
+입학하다	入學-		To enter/be admitted into a school	2	B	
+호수	湖水		A lake	1	B	
+정문	正門		The front gate,main entrance	1	B	
+체중	體重		Body weight	1	B	
+포장	包裝		packing,wrapping	1	B	
+현관	玄關		The porch, the entrance	1	B	
+줄기			A trunk, stem, stalk	1	B	
+각각	各各		Each and every	1	B	
+독서	讀書		Reading	1	B	
+규칙적	規則的		Be regular or  systematic	1	B	
+수염	鬚髥		Beard	1	B	
+장남	長男		The eldest son	1	B	
+포도주	葡萄酒		Grape wine	1	B	
+이러하다			Be this way, be like follows	1	B	
+대도시	大都市		Large city	1	B	
+신입생	新入生		A new student	1	B	
+일으키다			Riase, get up; start, commence	1	B	
+저축	貯蓄		savings,saving	1	B	
+증세	症勢		Symptoms, a patient’s condition	1	B	
+줄			Line, row, chord ~로 감다	1	B	
+회색	灰色		Gray	1	B	
+고교	高校		High school	1	B	
+고치다			To fix, amend, change	1	B	
+성인	成人		An adult	1	B	
+다행히	多幸-		Fortunately	3	B	
+준비물	準備物		Stuff that needs to be prepared	1	B	
+출입	出入		Coming and going	1	B	
+긴장하다	緊張-		To become tense	2	B	
+수학	數學		Mathematics	1	B	
+시어머니	媤-		one’s husband’s mother	1	B	
+시집	媤-		one’s husband’s home/family	1	B	
+미술관	美術館		Fine arts museum	1	B	
+치료하다	治療-		To cure, heal, treat a patient	2	B	
+고장	故障		Broken	1	B	
+부탁	付託		request,favor	1	B	
+상자	箱子		A box,case	1	B	
+점수	點數		marks,the number of marks	1	B	
+통장	通帳		A bankbook (check register)	1	B	
+결심하다	決心-		To resolve or  be determined	2	B	
+경기장	競技場		Sports stadium or  a sports field	1	B	
+영원히	永遠-		Forever	3	B	
+월급	月給		Monthly salary	1	B	
+유행	流行		Fashion, vogue	1	B	
+전공	專攻		Specialty	1	B	
+학원	學院		Learning institute	1	B	
+소개	紹介		Introduction	1	B	
+애인	愛人		A lover	1	B	
+일기	日記		A diary, journal	1	B	
+계산기	計算器		Calculator	1	B	
+화분	花盆		Flower pot	1	B	
+갈색	褐色		Brown	1	B	
+반찬	飯饌		Sie dishes	1	B	
+소개되다	紹介-		To be introduced,presented	2	B	
+지점	地點		A spot, point	1	B	
+귀국하다	歸國-		To return to one’s home country	2	B	
+불행하다	不幸-		Do not permit	4	B	
+대학원	大學院		Graduate school	1	B	
+문장	文章		writing,composition	1	B	
+변호사	辯護士		Lawyer	1	B	
+억	億		One hundred million	9	B	
+유리	琉璃		A glass pane	1	B	
+형부	兄夫		A husband of a girl’s older sister	1	B	
+금년	今年		This year	1	B	
+야채	野菜		Vegetables	1	B	
+전부	全部		All, everything	1	B	
+친하다	親-		To be intimate, familiar, close, friendly	4	B	
+답하다	答-		Answer, reply	2	B	
+손자	孫子		Grandson	1	B	
+신랑	新郞		A bridegroom	1	B	
+화가	畵家		A painter, a drawer artist	1	B	
+고민하다	苦悶-		Be in anguish or  worried	2	B	
+교환	交換		An exchange	1	B	
+국어	國語		1) The national language or  2) Korean	1	B	
+악기	樂器		Musical instrument	1	B	
+연말	年末		The end, close of the year	1	B	
+피로	疲勞		Fatigue, exhaustion	1	B	
+박수	拍手		Applause	1	B	
+부자	富者		A rich person	1	B	
+수표	手票		A check	1	B	
+회복하다	回復-		To recover, get better, get well again	2	B	
+흥미	興味		interest,zeal	1	B	
+채소	菜蔬		vegetables,greens	1	B	
+판매하다	販賣-		To sell	2	B	
+간단히	簡單-		Simply speaking	3	B	
+강물	江-		River water	1	B	
+서류	書類		documents,papers	1	B	
+요청	要請		request,demand,claim	1	B	
+진하다	津-		Be dark, deep	4	B	
+반하다	反-		To be contrary to	2	B	
+사원	社員		Company employee	1	B	
+욕심	欲心		Greed, selfishness	1	B	
+우승	優勝		First place	1	B	
+제출하다	提出-		To submit,tender	2	B	
+조심스럽다	操心-		Cautious	4	B	
+보고	報告		report,information	1	B	
+부탁하다	付託-		Ask sb a favor	2	B	
+사용자	使用者		A user,consumer,employer	1	B	
+영원하다	永遠-		To be eternal	4	B	
+우연히	偶然-		accidentally,by chance	3	B	
+정해지다	定-		To be determined, settled	2	B	
+긍정적	肯定的		Affirmation or  admission	1	B	
+허용하다	許容-		To permit, approve, grant, allow	2	B	
+각국	各國		Each country	1	B	
+년도	年度		Year	5	B	
+다수	多數		A great number	1	B	
+덕분	德分		Indebtedness	1	B	
+한둘			One or two	9	B	
+조각	彫刻		Sculpture	1	B	
+해석	解釋		Interpretation, a comment	1	B	
+계산하다	計算-		To calculate	2	B	
+발견	發見		Discovery	1	B	
+농담	弄談		A joke	1	B	
+담임	擔任		Charge, duty	1	B	
+도중	途中		On the way	1	B	
+음			Sound you make to express doubt,worry	10	B	
+신호	信號		A signal,signaling	1	B	
+의심하다	疑心-		To be suspicious, to doubt	2	B	
+출발	出發		To start (a journey,trip)	1	B	
+지구	地區		A district,region	1	B	
+합치다	合-		combine,unite	2	B	
+상상하다	想像-		Imagine	2	B	
+안전하다	安全-		To be safe	4	B	
+유학	留學		Studying abroad	1	B	
+정치적	政治的		Political	1	B	
+승용차	乘用車		A passenger car	1	B	
+어색하다	語塞-		To be awkward, shy with words, speechless	4	B	
+장점	長點		A merit,strong point	1	B	
+적당히	適當-		suitable,proper	3	B	
+진출	進出		An advance	1	B	
+평범하다	平凡-		Plain, average	4	B	
+확인	確認		A check,confirmation	1	B	
+방금	方今		Just now	3	B	
+이용되다	利用-		To be used	2	B	
+임시	臨時		Temporary, special	1	B	
+봉투	封套		Envelope	1	B	
+분명	分明		Obviousness	3	B	
+아이			Oh my god!	10	B	
+추억	追憶		Memory	1	B	
+하여튼	何如-		Anyways	3	B	
+향기	香氣		fragrance,aroma,perfume	1	B	
+현지	現地		The actual place, the very spot	1	B	
+개인적	個人的		Private or  personal	1	B	
+매년	每年		Every year	3	B	
+소주	燒酒		Korean sake	1	B	
+유교	儒敎		Confucianism	1	B	
+일상	日常		Everyday, usual, ordinary	1	B	
+장래	將來		The future	1	B	
+아이고			Oh my god!	10	B	
+중요성	重要性		importance,gravity	1	B	
+특별히	特別-		Especially	3	B	
+과학적	科學的		Scientifically	1	B	
+확대되다	擴大-		To be magnified	2	B	
+거실	居室		Living room	1	B	
+부작용	副作用		reaction,side effect	1	B	
+이상	理想		An ideal, a goal	1	B	
+과목	科目		A subject or  a lesson	1	B	
+산소	酸素		Oxygen	1	B	
+아뇨			No, nay	10	B	
+아니			No!	10	B	
+아니야			No, that’s not the case	10	B	
+석유	石油		Petroleum	1	B	
+신선하다	新鮮-		Fresh	4	B	
+조심하다	操心-		To be careful	2	B	
+책임자	責任者		Person responsible	1	B	
+정식	正式		Formality, due form	1	B	
+최선	最善		The best, one’s best	1	B	
+활동하다	活動-		To be active, lead an active life	2	B	
+건축	建築		Construction or  building or  erection	1	B	
+아아			Oh-oh!	10	B	
+당황하다	唐慌-		Be confused	2	B	
+보고서	報告書		Report	1	B	
+보관하다	保管-		Keep in one’s custody	2	B	
+상하다	傷-		damage,injure	2	B	
+식용유	食用油		Food oil	1	B	
+적당하다	適當-		To be appropriate	4	B	
+진행하다	進行-		Advance, proceed	2	B	
+금지	禁止		Forbidden or  prohibitted	1	B	
+내지	乃至		From A to B	3	B	
+역사적	歷史的		Historical	1	B	
+열차	列車		Train	1	B	
+생활하다	生活-		To live, make a living	2	B	
+솔직하다	率直-		frankness,candidness	4	B	
+축제	祝祭		a festival	2	B	
+학습	學習		Learning, education	1	B	
+당연히	當然-		Of course	3	B	
+복도	複道		A corridor	1	B	
+학기	學期		An educational term	1	B	
+목사	牧師		A pastor	1	B	
+양쪽	兩-		Both sides	1	B	
+후배	後輩		one’s junior	1	B	
+휴가	休暇		holidays,vacation	1	B	
+경제적	經濟的		Economical	1	B	
+시청자	視聽者		TV audience member	1	B	
+완벽하다	完璧-		Perfect	4	B	
+종업원	從業員		waiter/waitress	1	B	
+전통적	傳統的		Traditional	1	B	
+참가하다	參加-		To take part in, join	2	B	
+친척	親戚		Relatives	1	B	
+부처	部處		Buddha	1	B	
+온도	溫度		Temperature	1	B	
+절대로	絶對-		Absolutely	3	B	
+진짜	眞-		Real	1	B	
+창밖	窓-		Outside the window	1	B	
+위치하다	位置-		To be located	2	B	
+이틀	시간		Two days	1	B	
+전달하다	傳達-		To deliver	2	B	
+정말로	正-		Really	3	B	
+행동하다	行動-		To act, behave	2	B	
+급하다	急-		Be urgent or  pressing or  iminent	4	B	
+성적	成績		A result,grade	1	B	
+시도하다	試圖-		To try,attempt	2	B	
+예절	禮節		propriety,decorum	1	B	
+인상	印象		Impression, imprint	1	B	
+비판하다	批判-		To criticize	2	B	
+전체적	全體的		entirely,generally	1	B	
+절반	折半		Half	1	B	
+그렇지			So it is or  that is right	10	B	
+편안하다	便安-		To be peaceful	4	B	
+확실히	確實-		certainly,for sure	3	B	
+대기업	大企業		Big enterprise	1	B	
+매력	魅力		fascination,charm, bewitchery	1	B	
+보험	保險		guarantee,insurance	1	B	
+부장	部長		Head of a department	1	B	
+심리	心理		A mental state	1	B	
+계약	契約		Contract	1	B	
+응			Yes, i see!	10	B	
+신청	申請		application,request	1	B	
+기온	氣溫		Temperature	1	B	
+선택	選擇		A choice	1	B	
+역사가	歷史家		Historian	1	B	
+연구자	硏究者		Researcher	1	B	
+살리다			1) revive, bring around, restore to life  2) save,spare,rescue	1	B	
+권하다	勸-		1) advise or  persuade 2) recommend	2	B	
+대문	大門		A big gate	1	B	
+시내	市內		The city	1	B	
+연결하다	連結-		Connect, attach	2	B	
+외교	外交		Diplomacy	1	B	
+전자	電子		An electron	1	B	
+전해지다	傳-		To be transmitted	2	B	
+오랜			For a long time	6	B	
+편리하다	便利-		To be convenient, handy	4	B	
+현금	現金		Cash, ready funds, not a credit card	1	B	
+명령	命令		An order,command	1	B	
+무조건	無條件		Unconditional	3	B	
+반장	班長		Squad leader	1	B	
+부근	附近		neighborhood,vicinity	1	B	
+확대하다	擴大-		To enlarge,magnify	2	B	
+온			All, whole, entire	6	B	
+옛			Old, ancient	6	B	
+신용	信用		confidence,trust	1	B	
+정신적	精神的		Mental	1	B	
+증상	症狀		Symptoms	1	B	
+출연하다	出演-		Appear on stage, act, sing	2	B	
+강제	强制		Compulsion or  coercion	1	B	
+신부	新婦		Bride	1	B	
+요금	料金		A rate, a fare	1	B	
+용돈	用-		Pocket money, money for expenses	1	B	
+음료	飮料		A beverage, a drink	1	B	
+제한	制限		limits,bounds	1	B	
+순수하다	純粹-		To be pure	4	B	
+집중	集中		Concentration	1	B	
+자세히	仔細-		In detail	3	B	
+정확히	正確-		Exactly	3	B	
+청년	靑年		A young man, a youth	1	B	
+굉장히	宏壯-		Very very much or  greatly	3	B	
+배우	俳優		Actor	1	B	
+자격	資格		Qualification	1	B	
+계단	階段		A staircase or  a set of stairs	1	B	
+연결되다	連結-		Connect, attach	2	B	
+본래	本來		originally,primarily	1	B	
+세금	稅金		Tax	1	B	
+입구	入口		Entrance	1	B	
+적극	積極		The positive	1	B	
+최소한	最小限		Atleast	1	B	
+경험하다	經驗-		To experience or  go through	2	B	
+불안하다	不安-		To be uneasy, anxious	4	B	
+위반	違反		Violation, infringment	1	B	
+촬영	撮影		Photographing, taking pictures/films	1	B	
+규칙	規則		Rules or  regulations	1	B	
+잠시	暫時		For a little while	1	B	
+포함되다	包含-		To be included in	2	B	
+호랑이	虎狼-		A tiger	1	B	
+형제	兄弟		Brothers and sisters	1	B	
+세계적	世界的		International	1	B	
+안전	安全		Safety	1	B	
+양파	洋-		An onion	1	B	
+이상	異常		Indisposition, abnormal	1	B	
+얻다			Get, obtain	2	B	
+만화	漫畵		Cartoons	1	B	
+관찰하다	觀察-		Observe or  view or  watch	2	B	
+성공하다	成功-		To succeed	2	B	
+서너			About three, three or four	6	B	
+몇몇			Several	6	B	
+불안	不安		uneasiness,anxiety	1	B	
+여유	餘裕		reserve,surplus	1	B	
+파도	波濤		Waves, billows	1	B	
+방송국	放送局		Broadcasting station	1	B	
+예금	預金		Deposit money	1	B	
+입학	入學		Admission into school	1	B	
+해결	解決		Solution, settlement	1	B	
+행복	幸福		Happiness	1	B	
+근로자	勤勞者		Laborer	1	B	
+변화하다	變化-		To change,vary	2	B	
+결정되다	決定-		To become decided	2	B	
+별	別		Classified by	6	B	
+방문하다	訪問-		To visit	2	B	
+순서	順序		sytem,order,sequence	1	B	
+연구소	硏究所		A reasearch institute	1	B	
+이사	移徙		House-moving	1	B	
+이하	以下		Less than, below	1	B	
+참석하다	參席-		To attend, take part in	2	B	
+토론	討論		A debate, discussion	1	B	
+고급	高級		High rank or  first class	1	B	
+고생	苦生		A hard life or  privation	1	B	
+정상	頂上		The top, summit	1	B	
+화장품	化粧品		Makup, cosmetics	1	B	
+몇십			In the tens	6	B	
+행복하다	幸福-		To be happy	4	B	
+기억하다	記憶-		To recall or  remember	2	B	
+고모	姑母		A paternal aunt	1	B	
+약하다	弱-		To be weak	4	B	
+공무원	公務員		Public servant	1	B	
+부족	不足		lack,want (scarcity, insufficiency)	1	B	
+맨			bare,naked	6	B	
+만	滿	~ 3개월	Just, full	6	B	
+보통	普通		Usually	3	B	
+총장	總長		The president, the chancellor (university’s)	1	B	
+방문	訪問		A visit	1	B	
+불만	不滿		Dissatisfaction	1	B	
+불편하다	不便-		To be unpleasant	4	B	
+숫자	數字		A figure,number	1	B	
+계산	計算		Calculation	1	B	
+사회적	社會的		Socially	1	B	
+주부	主婦		A wife	1	B	
+태양	太陽		The sun	1	B	
+부족	部族		A tribe	1	B	
+단	單		Only one, alone	6	B	
+습관	習慣		Habit	1	B	
+활용하다	活用-		Utilize, make practical use of	2	B	
+고민	苦悶		Worry or  anguish	1	B	
+상처	傷處		Wound	1	B	
+대표적	代表的		Representative	1	B	
+만일	萬一		If, suppose	1	B	
+예술가	藝術家		An artist	1	B	
+대구	大邱		Daegu city	7	B	
+고객	顧客		Customer	1	B	
+과학자	科學者		Scientist	1	B	
+수술	手術		Surgery	1	B	
+식품	食品		Groceries	1	B	
+회원	會員		A member of a society	1	B	
+상상	想像		Imagination	1	B	
+특별하다	特別-		To be special, extraordinary	4	B	
+담기다	담다		Be put food in a bottle or for pickling	2	B	
+충분하다	充分-		To be sufficient, ample	4	B	
+발견되다	發見-		Be discovered	2	B	
+이용	利用		To use	1	B	
+숨			A breath	1	B	
+문제점	問題點		The point at issue	1	B	
+충격	衝擊		An impact, a shock	1	B	
+금방	今方		Just now or  a moment ago	3	B	
+미술	美術		art,the fine arts	1	B	
+그런			Such a	6	B	
+각	各		Each or  every	6	B	
+한두			One or two	6	B	
+치료	治療		Medical treatment, medical care	1	B	
+임신	妊娠		Pregnant	1	B	
+분석하다	分析-		To analyze	2	B	
+확실하다	確實-		To be sure, certain	4	B	
+연구하다	硏究-		To research, investigate	2	B	
+부동산	不動産		Real estate	1	B	
+직업	職業		An occupation, calling	1	B	
+뱀			Snake	1	B	
+검사	檢査		Investigation or  inspection or  examination or  audit	1	B	
+소문	所聞		A rumor	1	B	
+제목	題目		A subject, theme	1	B	
+희망	希望		Hope, wish	1	B	
+군대	軍隊		Troops or  an army	1	B	
+실수	失手		A mistake	1	B	
+최대	最大		The greatest, the largest	1	B	
+평소	平素		Ordinary times, ordinarily	1	B	
+주택	住宅		A house	1	B	
+관련하다	關聯-		To be related to or  connected to	2	B	
+농촌	農村		A farm village	1	B	
+고르다	뽑다		Choose or  select	2	B	
+포기하다	抛棄-		To give up, to abandon	2	B	
+이외	以外		Except, apart from	1	B	
+제공하다	提供-		offer,proffer	2	B	
+기대	期待		Expectation	1	B	
+편하다	便-		Untroubled from cares	4	B	
+분명히	分明-		Obviously	3	B	
+이익	利益		Profit	1	B	
+사용되다	使用-		Be used, be employed	2	B	
+인천공항	仁川空港		Incheon international airport	7	B	
+공기	空氣		Air	1	B	
+속하다	屬-		Belong to, be affiliated with	2	B	
+전문가	專門家		A specialist	1	B	
+무용	舞踊		dancing,a dance	1	B	
+해외	海外		Abroad, foreign countries	1	B	
+의미하다	意味-		To mean, signify	2	B	
+뉴욕		New York	New york	7	B	
+아프리카		Africa	Africa	7	B	
+비밀	秘密		A secret	1	B	
+발달	發達		Development, growth	1	B	
+수많다	數-		Many and many	4	B	
+공사	工事		Construction work or  engineering work	1	B	
+박사	博士		Doctor	1	B	
+주인공	主人公		The head of a family, the hero/heroine	1	B	
+당연하다	當然-		Be natural, be no wonder	4	B	
+형님	兄-		The respectful, proper way a man refers to an older friend	1	B	
+사물	事物		objects,things	1	B	
+일반적	一般的		Universal, general	1	B	
+선택하다	選擇-		To choose	2	B	
+유럽		Europe	Europe	7	B	
+간단하다	簡單-		To be simple	4	B	
+자유롭다	自由-		To be free	4	B	
+적극적	積極的		Positively	1	B	
+판매	販賣		Sale, selling	1	B	
+점차	漸次		gradually,in steps	3	B	
+톤	ton		A ton	5	B	
+관련되다	關聯-		Be connected or  related to	2	B	
+기대하다	期待-		To expect or look forward to	2	B	
+기초	基礎		The foundation	1	B	
+부족하다	不足-		Be short of, lack	4	B	
+진행되다	進行-		To have progressed, be advanced	2	B	
+기록하다	記錄-		To record and write down	2	B	
+종합	綜合		Synthesis	1	B	
+충분히	充分-		Enough, sufficiently	3	B	
+신체	身體		The body	1	B	
+정리하다	整理-		To adjust	2	B	
+좁다			Narrow	4	B	
+발표	發表		Announcement	1	B	
+수출	輸出		Exporting sth	1	B	
+비용	費用		Expense	1	B	
+원래	元來		originally,primarily	1	B	
+직원	職員		Staff	1	B	
+피부	皮膚		Skin	1	B	
+장군	將軍		A general	1	B	
+무역	貿易		Trade	1	B	
+포함하다	包含-		To include,contain	2	B	
+만약	萬若		If	1	B	
+점점	漸漸		More and more, by degrees	3	B	
+특별	特別		Be special, extraordinary	1	B	
+판단	判斷		A judgment, a conclusion	1	B	
+해결하다	解決-		To fix a problem, solve a question	2	B	
+계속하다	繼續-		To continue	2	B	
+업무	業務		Buisness, duty	1	B	
+청소년	靑少年		Young boys and girls, teenagers	1	B	
+선배	先輩		one’s senior	1	B	
+구하다	求-		1) To buy or  purchase or  2) look for or  seek or  want	2	B	
+심각하다	深刻-		seriousness,gravity	4	B	
+계속되다	繼續-		To continue	2	B	
+소년	少年		A boy	1	B	
+소식	消息		News, information	1	B	
+사용	使用		use,emply	1	B	
+경영	經營		Management or  administration	1	B	
+목표	目標		goal,object	1	B	
+임금	賃金		Wages, pay	1	B	
+직장	職場		one’s work place	1	B	
+서양	西洋		The Western countries	1	B	
+주요	主要		The major, the chief thing	1	B	
+공연	公演		A public performance	1	B	
+종류	種類		kind,sort,species	1	B	
+발전하다	發展-		To develop, grow	2	B	
+고통	苦痛		Suffering or  agony	1	B	
+저희			We	8	B	
+무어			What?  무엇	8	B	
+예정	豫定		A program, schedule	1	B	
+전문	專門		A specialty	1	B	
+정확하다	正確-		To be exact	4	B	
+이해	理解		Understanding	1	B	
+혹은	或-		If that’s not the case	3	B	
+노력하다	努力-		To try hard, strive	2	B	
+보호	保護		protection,shelter	1	B	
+공동	共同		Association or  union or  collaboration	1	B	
+소녀	少女		A young girl	1	B	
+상품	商品		Product	1	B	
+전통	傳統		tradition,convention	1	B	
+위치	位置		A position, a location	1	B	
+가격	價格		Price	1	B	
+원하다	願-		To want	2	B	
+통신	通信		communications,correspondance	1	B	
+확인하다	確認-		To confirm,corroborate	2	B	
+기계	機械		An instrument or  a machine	1	B	
+모양	模樣		signs,indications	5	B	
+자연스럽다	自然-		To be natural	4	B	
+기본	基本		A foundation	1	B	
+감정	感情		Feelings	1	B	
+기억	記憶		A memory	1	B	
+인기	人氣		Popularity	1	B	
+관리	管理		Management or  administration	1	B	
+이전	以前		Former days/times	1	B	
+국제	國際		International	1	B	
+인생	人生		Life	1	B	
+별로	別-		Especially, particularly	3	B	
+정하다	定-		To set,determine	2	B	
+대중	大衆		The masses	1	B	
+각종	各種		All sorts or  varieties	1	B	
+발견하다	發見-		To discover	2	B	
+특징	特徵		A special feature, a distinguishing feature	1	B	
+선수	選手		An athlete	1	B	
+발표하다	發表-		To announce	2	B	
+지구	地球		The earth	1	B	
+번째	番-		How many times	5	B	
+소비자	消費者		A consumer	1	B	
+너희			You guys	8	B	
+기준	基準		A standard or basis	1	B	
+완전히	完全-		completely,perfectly	3	B	
+전하다	傳-		To transmit,convey	2	B	
+경기	競技		Race or  match or  contest	1	B	
+목적	目的		goal,purpose	1	B	
+태도	態度		attitude,comportment	1	B	
+남성	男性		Male	1	B	
+주위	周圍		The circumference,the girth	1	B	
+각각	各各		Each and every	3	B	
+자유	自由		Freedom	1	B	
+책임	責任		Responsibility	1	B	
+심하다	甚-		To be extreme,intense	4	B	
+변하다	變-		Change	2	B	
+사고	事故		An accident	1	B	
+일반	一般		universal,common,usual	1	B	
+가정	家庭		Famly	1	B	
+무렵			The time when	5	B	
+농업	農業		Agriculture	1	B	
+표현하다	表現-		To express, make known by saying	2	B	
+이상하다	異常-		To be strange,queer	4	B	
+대신	代身		Instead of	1	B	
+재산	財産		property,fortune, assets, possessions	1	B	
+요구하다	要求-		To demand,claim,request	2	B	
+공장	工場		Construction site	1	B	
+담다	넣다		Put in a bottle	2	B	
+시민	市民		Residents of a city	1	B	
+회장	會長		Chariman, the president	1	B	
+강조하다	强調-		Place empasis upon	2	B	
+뿐			only,alone,merely	5	B	
+기자	記者		A journalist	1	B	
+주로	主-		principally,mainly	3	B	
+통일	統一		Unification	1	B	
+시설	施設		establishment,institution	1	B	
+주변	周邊		A circumference	1	B	
+경험	經驗		Experience or  undergo or  suffer	1	B	
+엔		&일en	Yen (japanese)	5	B	
+최고	最高		The best	1	B	
+다양하다	多樣-		To be various, diverse	4	B	
+소설	小說		A novel, fiction story	1	B	
+질서	秩序		Order, system	1	B	
+과거	過去		The past	1	B	
+현대	現代		The present age, times	1	B	
+부	部		A department, a part	5	B	
+차이	差異		difference,disparity	1	B	
+시절	時節		season,time,occasion	1	B	
+직접	直接		Directly	3	B	
+개인	個人		Private or  individual	1	B	
+작가	作家		writer,author	1	B	
+효과	效果		Effect, effectiveness	1	B	
+불교	佛敎		Buddhism	1	B	
+제품	製品		Manufactured goods	1	B	
+표현	表現		Verbal expression, representation, manifestation	1	B	
+순간	瞬間		A moment,a second	1	B	
+전쟁	戰爭		War	1	B	
+방송	放送		Broadcast	1	B	
+대표	代表		Representative	1	B	
+가능성	可能性		Possibility	1	B	
+방향	方向		Direction	1	B	
+대회	大會		A great meeting	1	B	
+경제	經濟		Economy	1	B	
+노력	努力		Effort	1	B	
+전혀	全-		entirely,utterly,completely	3	B	
+단체	團體		A corps, a group	1	B	
+가능하다	可能-		To be possible	1	B	
+주장하다	主張-		To assert,maintain	2	B	
+자식	子息		one’s children	1	B	
+자료	資料		materials,data	1	B	
+분위기	雰圍氣		atmosphere,surroundings	1	B	
+우선	于先		First of all, before everything	3	B	
+정보	情報		information,intelligence	1	B	
+역할	役割		A part, a role	1	B	
+행동	行動		Action, behavior	1	B	
+법	法		A way, a method	5	B	
+국내	國內		Inside the country	1	B	
+모양	模樣		A shape, form	1	B	
+조건	條件		condition,stipulation	1	B	
+대부분	大部分		Most	1	B	
+표정	表情		Facial expression, look	1	B	
+일부	一部		A part, a portion	1	B	
+세기	世紀		Century	1	B	
+현재	現在		The present time, now, at present	3	B	
+발전	發展		Development	1	B	
+향하다	向-		To face, look out on	2	B	
+관련	關聯		Relation or  connection or  reference	1	B	
+정신	精神		mind,spirit	1	B	
+기술	技術		Art or  technique or  ability	1	B	
+전체	全體		The whole, the entire section	1	B	
+밀리미터		millimeter	Millimeter	5	B	
+조사	調査		investigation,inquiry	1	B	
+년대	年代		Year	5	B	
+과학	科學		Science	1	B	
+자연	自然		Nature	1	B	
+결국	結局		After all or  in the end	1	B	
+지방	地方		A locality, district	1	B	
+환경	環境		Environment	1	B	
+만큼			Of that amount	5	B	
+말	末		End	5	B	
+부분	部分		part,portion	1	B	
+변화	變化		Change, transformation	1	B	
+관하다	關-		Refer to or  be about	2	B	
+이용하다	利用-		To use, make use of	2	B	
+중심	中心		The nucleus, the focus, the heart	1	B	
+활동	活動		Activity	1	B	
+관심	關心		Concern or  interest	1	B	
+역시	亦是		As expected, likewise	3	B	
+광고	廣告		Advertisement	1	B	
+연구	硏究		Research	1	B	
+녀석			Fellow	5	B	
+이유	理由		Reason	1	B	
+세상	世上		The world,society	1	B	
+이후	以後		After that	1	B	
+문학	文學		Literature	1	B	
+이상	以上		More than, above	1	B	
+교육	敎育		Education	1	B	
+데			Place, point, instance	5	B	
+예술	藝術		Art, an art	1	B	
+결과	結果		Result	1	B	
+내용	內容		Contents	1	B	
+당신	當身		Formal you	8	B	
+의미	意味		A meaning, a sense	1	B	
+정치	政治		Politics	1	B	
+국민	國民		The people or  a nationality	1	B	
+세계	世界		World	1	B	
+대통령	大統領		The president	1	B	
+국가	國家		A state or  a nation	1	B	
+여성	女性		Female	1	B	
+지역	地域		An area, region	1	B	
+방법	方法		Way, method	1	B	
+특히	特-		Especially	3	B	
+대하다	對-		Face, confront	1	B	
+위하다	爲-		To do for the sake of	2	B	
+대	對	개인 ~ 개인	1) Versus 2)a pair, counterpart	5	B	
+사회	社會		culture,society	1	B	
+경우	境遇		A case or  an instance	1	B	
+문화	文化		culture	1	B	
+통하다	通-		Run, lead; flow; go through	2	B	
+정도	程度		grade,degree	1	B	
+의하다	依-		To be due to, owing to	2	B	
+시대	時代		An age,period	1	B	
+어때		어떠해	What do you think?	불	B	
+갖다		가지다	Possess	보	B	
+갖다		가지다	To hold	2	B	
+자라다		커지다	To grow up	2	B	
+굽다		익히다	To roast or bake	2	B	
+파		식물	Onions	1	B	
+한편	-便		One side, one way	3	B	
+한잔	-盞		A drink of liquor	1	B	
+하얀색	-色		White	1	B	
+가스		gas	Gas	1	B	
+간장	-醬		Soy sauce	1	B	
+갈비탕	-湯		Beef-rib soup	1	B	
+고추장	-醬		Red pepper paste	1	B	
+건너편	-便		The opposite side	1	B	
+그중	-中		Among the rest of them	1	B	
+노래방	-房		Singing room	1	B	
+밤중	-中		Midnight	1	B	
+설렁탕	-湯		Beef soup with rice	1	B	
+술병	-甁		A bottle of alcohol	1	B	
+술잔	-盞		A glass for alcohol	1	B	
+손수건	-手巾		A handkerchief	1	B	
+안방	-房		The inner room	1	B	
+쓰레기통	-桶		Garbage can	1	B	
+아래층	-層		Lower floor	1	B	
+까만색	-色		Black	1	B	
+옆방	-房		The room next door	1	B	
+오래전	-前		Since a long time before	1	B	
+뒷산	-山		The back side of a mountain	1	B	
+장가		~가다	To get married	1	B	
+지난번	-番		Last time	1	B	
+쥐		동물	Mouse	1	B	
+그램		gram	Gram	5	B	
+군	君		Mr.	5	B	
+군데			A place or spot	5	B	
+간	間	서울과 부산 ~	The interval between	5	B	
+편	篇		Compilation, editing	5	B	
+헌			Old, shabby, worn-out	6	B	
+저런			Such a, that sort of	6	B	
+두세			Two or three (months)	6	B	
+귀엽다			To be cute	4	B	
+그러하다			To be so or  right	4	B	
+굵다			Be thick or  fat	4	B	
+괴롭다			Be painful or  distressing	4	B	
+곱다		아름답다	Beautiful	4	B	
+고르다		차이가 없다	Flat or  even	4	B	
+걱정스럽다			Anxious or  uneasy	4	B	
+검다		색깔이 ~	Black or  dark	4	B	
+가난하다			Poor	4	B	
+가늘다			Thin or  fine or  slender	4	B	
+가득하다			To fill	4	B	
+하얗다			White	4	B	
+푸르다			To be blue, to be green	4	B	
+외	外		Except, save for	5	B	
+인분	人分	3~	How many people counter for at restaurants	5	B	
+호선	號線	1~	The track number for a train	5	B	
+터			one’s status, one’s lot	5	B	
+통	通		Counters for letters	5	B	
+킬로		kilo	Kilo	5	B	
+킬로그램		kilogram	Kilogram	5	B	
+킬로미터		kilometer	Kilometer	5	B	
+지		만난 ~ 오래되다	since,from	5	B	
+적			The time,the occasion,when	5	B	
+식	式		form,style	5	B	
+불쌍하다			To be deplorable	4	B	
+부끄럽다			Be shameful,disgraceful	4	B	
+부드럽다			soft,tender	4	B	
+부럽다			Be enviable	4	B	
+밤늦다			It is late at night	4	B	
+바르다		굽은 데가 없다	Be straight; be honest	4	B	
+밉다			Be detestable	4	B	
+무섭다			fearful,dreadful	4	B	
+멋있다			stylish,tasteful	4	B	
+더럽다			Foul, dirty	4	B	
+답답하다			Feel anxious	4	B	
+대단하다			Considerable, grand	4	B	
+놀랍다			To be surprising	4	B	
+느리다			Be slow, tardy	4	B	
+노랗다			Be yellow	4	B	
+낡다			Clear	4	B	
+깊다			Deep	4	B	
+기쁘다			To be happy	4	B	
+그립다			Beloved or  sweet or  affectionate	4	B	
+그만하다			Be about the same or  be neither better nor worse	4	B	
+궁금하다			To wonder or  be curious about	4	B	
+자랑스럽다			To be proud	4	B	
+잘생기다			To be handsome	4	B	
+부르다		배가 ~	To be full	4	B	
+까맣다			Black	4	B	
+어둡다			To be dark, dim, gloomy	4	B	
+어리다		나이가 적다	To be very young, juvenile	4	B	
+얇다			To be thin	4	B	
+얕다			To be shallow, superficial	4	B	
+안되다		마음이 언짢다	To refuse to accept	4	B	
+안타깝다			To be heart-breaking	4	B	
+알맞다			To fit, be fitting, suitable	4	B	
+쓰다		나물이 ~	Bitter (vegetables)	4	B	
+씩씩하다			Be brave,valiant	4	B	
+아무렇지 않다			To be indifferent, casually	4	B	
+시끄럽다			To be noisy,boisterous	4	B	
+세다		기운이 ~	To be strong, mighty	4	B	
+서투르다			unskilled,clumsy	4	B	
+빨갛다			deep-red,crimson	4	B	
+사랑스럽다			Lovely	4	B	
+사이좋다			Be on good terms with	4	B	
+붉다			Be red, scalet	4	B	
+불가능하다	不可能-		Impossible	4	B	
+거의			Almost or  nearly	3	B	
+가까이			Close	3	B	
+가득		~ 차다	Full	3	B	
+가만히			Quietly or  softly	3	B	
+한꺼번에			All at once	3	B	
+하하			Ha ha ha ha ha	3	B	
+푹			Completely, entirely	3	B	
+함부로			Indiscriminately, at random	3	B	
+훌륭하다			To be excellent	4	B	
+옳다			To be right, correct	4	B	
+외롭다			To be lonely, lonesome	4	B	
+희다			White, fair	4	B	
+튼튼하다			Solid, compact, firm	4	B	
+파랗다			To be blue	4	B	
+커다랗다			To be very big/large	4	B	
+착하다			To be nice	4	B	
+짙다			Be dark, dense	4	B	
+차갑다			Cold	4	B	
+조그맣다			Be tiny,small	4	B	
+젊다			To be young,youthful	4	B	
+저렇다			Such a thing as that	4	B	
+마음대로			As you wish	3	B	
+마주			Face to face	3	B	
+마치			As though, as if	3	B	
+마침			Just, exactly	3	B	
+마침내			Finally, in the end	3	B	
+막		바로 지금	Just now	3	B	
+대단히			Extremely	3	B	
+늘			Always	3	B	
+꽤			Fairly or  considerably	3	B	
+끝내			The end	3	B	
+깊이			Deepness	3	B	
+깜빡			With a flash or  twinkle	3	B	
+그만		그 정도까지만	That much or  a little amount	3	B	
+그만큼			That much or  to that extent	3	B	
+그냥			Just because or  in that condition	3	B	
+그다지			So much or  to that extent	3	B	
+그러므로			So or  hence or  therefore	3	B	
+굳이			Firmly or  admanantly	3	B	
+곧바로			At once or  straight away	3	B	
+게다가			In addition	3	B	
+없이			Without	3	B	
+엊그제			The day before yesterday, a few days ago	3	B	
+어느새			In no time, quickly	3	B	
+얼른			Fast, quickly, rapidly	3	B	
+아까			A little while ago	3	B	
+아마도			Probably	3	B	
+아무래도			Never on any account, no matter what	3	B	
+아무리			However much	3	B	
+아무튼			In any case	3	B	
+스스로			On its own, of its own free will	3	B	
+새로			newly,anew	3	B	
+반드시			Most certainly	3	B	
+미리			Beforehand	3	B	
+및			As well as	3	B	
+몰래			secretly,quietly	3	B	
+몹시			Extremely	3	B	
+멀리			Far away	3	B	
+홈페이지		homepage	Homepage	1	B	
+공중전화	公衆電話		A public payphone	1	B	
+훨씬			By far, very much so	3	B	
+이따가			A little later	3	B	
+유난히			uncommon,exceptional	3	B	
+왠지			I don’t know why, there is no reason for it	3	B	
+이리		~ 오너라	This way, this direction	3	B	
+이미			Already	3	B	
+해마다			Every year, each year	3	B	
+즉	卽		namely,that is to say	3	B	
+조금씩			A little at a time, little by little	3	B	
+조용히			Quietly	3	B	
+제대로			As properly is suitable	3	B	
+제발			kindly,please	3	B	
+제법			quite,fairly,considerably	3	B	
+저리		저곳으로	That place	3	B	
+적어도			At the least	3	B	
+무척			Extremely	3	B	
+자꾸			Constantly, repeatedly	3	B	
+자꾸만			Repeatedly (emphasized)	3	B	
+오직			Only, merely, solely	3	B	
+온통			Wholly, entirely	3	B	
+너무나			Extremely	3	B	
+오래도록			For long, a long while	3	B	
+가루		분필 ~	Powder or  flour; meal	1	B	
+가슴속			one’s heart feelings	1	B	
+가이드		guide	Guide	1	B	
+한동안			For quite a while	1	B	
+한숨		~을 쉬다	A breath	1	B	
+한쪽			On one side	1	B	
+피		~를 흘리다	Blood (is flowing)	1	B	
+필름		film	Film	1	B	
+하루			A day	1	B	
+하품			Yawning	1	B	
+포스터		poster	Poster	1	B	
+폭	幅		Width; range	1	B	
+풀		~을 바르다	Glue (spread the ~)	1	B	
+풀		~을 베다	Grass (cut the ~)	1	B	
+프로		professional	Professional	1	B	
+프로		program	Program	1	B	
+프로그램		program	Program	1	B	
+플라스틱		plastic	Plastic	1	B	
+패션		fashion	Fashion	1	B	
+팩		pack	Pack	1	B	
+한참			For some time, for a while	1	B	
+국회의원	國會議員		A member of the national Assembly	1	B	
+군	軍		An army	1	B	
+여보			Spouse (term of affection)	10	B	
+교통사고	交通事故		Traffic accident	1	B	
+곳곳			Everywhere	1	B	
+공항버스	空港-	空港bus	Bus to the airport	1	B	
+고개		~를 돌리다	The nape of the neck	1	B	
+고구마			Sweet potato	1	B	
+고속도로	高速道路		Freeway or  highway with no street lights	1	B	
+고속버스	高速-	高速bus	Bus for the freeway	1	B	
+고춧가루			Red pepper powder	1	B	
+골목			A side street or  alley	1	B	
+골목길			An alley	1	B	
+골프		golf	Golf	1	B	
+골프장	-場	golf場	Golf course	1	B	
+겁	怯		Fear or  fright	1	B	
+겨울철			The winter season	1	B	
+곁			Neighborhood or  vicinity	1	B	
+거짓			Fabrication or  fiction	1	B	
+거짓말			A lie or  falsehood	1	B	
+걸음			Walking or  stepping or  a step	1	B	
+감자			Potato	1	B	
+강아지			Puppy	1	B	
+와			Holy cow!	10	B	
+개구리			Frog	1	B	
+개나리			A forsythia or  a golden-bell tree	1	B	
+가죽			The skin or  hide or  leather	1	B	
+고추			Red pepper	1	B	
+가까이			Close	1	B	
+남	男		A man	1	B	
+남	南		The south	1	B	
+껍질			Skin or  nutshell	1	B	
+꼭대기			The top	1	B	
+꽃잎			A petal	1	B	
+꿈속			In a dream	1	B	
+나물			Herbs, wild greens	1	B	
+나비			Butterfly	1	B	
+기침			Coughing	1	B	
+기타		guitar	Guitar	1	B	
+길가			The roadside	1	B	
+길이			Length or  extent	1	B	
+깊이			Depth	1	B	
+까닭			Reason	1	B	
+기름			Oil or  fat	1	B	
+기쁨			Joy or  delight	1	B	
+그룹		group	Group	1	B	
+그림자			A shadow or  a sillheoute or  an image	1	B	
+그해			That year	1	B	
+그늘			1) shade 2)parental prodection	1	B	
+그다음			Next	1	B	
+구멍			A hole	1	B	
+국물			soup or broth or gravy	1	B	
+국수			Noodles	1	B	
+대중교통	大衆交通		Mass transportation	1	B	
+대중문화	大衆文化		Pop culture	1	B	
+대학교수	大學敎授		University professor	1	B	
+더위			The heat	1	B	
+도둑			A thief, a burglar	1	B	
+담요			A blanket	1	B	
+닷새			Five days	1	B	
+당근			A carrot	1	B	
+금	金		Gold	1	B	
+다이어트		diet	Diet	1	B	
+단맛			A sweet taste	1	B	
+달걀			An egg	1	B	
+달빛			Moonlight	1	B	
+놀이			Play, game	1	B	
+놀이터			Playground	1	B	
+눈빛		~이 매섭다	The glitter of one’s eyes	1	B	
+눈썹			The eyebrow	1	B	
+눈앞			Before one’s eyes	1	B	
+느낌			Touch, feel	1	B	
+냄비			A pot	1	B	
+냄새			Smell	1	B	
+너머			Beyond, on the other side	1	B	
+네거리			Crossroads	1	B	
+나흘			Four days	1	B	
+낚시			Fishing	1	B	
+날개			The wings	1	B	
+몸살		~이 걸리다	Flu aches and pains	1	B	
+무게			Weight	1	B	
+무늬			Pattern	1	B	
+무더위			High humidity	1	B	
+무릎			A knee	1	B	
+멋			Smartness	1	B	
+메시지		message	Message	1	B	
+며느리			Daughter-in-law	1	B	
+모기			A mosquito	1	B	
+모니터		monitor	Monitor	1	B	
+모델		model	Model	1	B	
+모래			Sand	1	B	
+모레			The day after tomorrow	1	B	
+모습			shape,body	1	B	
+모임			A group, a party	1	B	
+목걸이			Necklace	1	B	
+목소리			Voice	1	B	
+머릿속			Inside one’s head	1	B	
+마늘			Garlic	1	B	
+마사지		massage	Massage	1	B	
+마을			Town	1	B	
+마음속			Deep in one’s heart	1	B	
+마중			Meeting, reception	1	B	
+마찬가지			The same	1	B	
+막내			The lastborn	1	B	
+만남			A meeting	1	B	
+도시락			Lunchbox lunch	1	B	
+도움			Help	1	B	
+버섯			Mushroom	1	B	
+버터		butter	Butter	1	B	
+버튼		button	Button	1	B	
+벌레			A bug	1	B	
+법	法		A law, the law	1	B	
+벨트		belt	Belt	1	B	
+벽	壁		A wall	1	B	
+발목			Ankle	1	B	
+밤낮			Night and day, always	1	B	
+밥그릇			A rice bown	1	B	
+밥맛			Appetite	1	B	
+밭			A field, farm	1	B	
+배드민턴		badminton	Badminton	1	B	
+바깥			Outside	1	B	
+바늘			A needle, pin	1	B	
+바닥			Floor	1	B	
+바닷가			The beach	1	B	
+바닷물			Sea water	1	B	
+바보			Ignorant	1	B	
+바위			A rock, a crag	1	B	
+바이올린		violin	Violin	1	B	
+받침			Support, prop	1	B	
+발가락			A toe	1	B	
+물고기			Fish	1	B	
+물속			Inside the water	1	B	
+물음			A question	1	B	
+미디어		media	Media	1	B	
+미팅		meeting	Meeting	1	B	
+믿음			Belief	1	B	
+밀가루			Flour	1	B	
+몸무게			Body weight	1	B	
+생활환경	生活環境		Life environment	1	B	
+서랍			A drawer	1	B	
+서비스		service	Service	1	B	
+살		~을 빼다	flesh,muscle	1	B	
+상	賞		A prize	1	B	
+빨래			washing,laundry	1	B	
+뺨			Cheek	1	B	
+뼈			A bone	1	B	
+뿌리			A root	1	B	
+사위			environment,surroundings	1	B	
+블라우스		blouse	Blouse	1	B	
+비타민		vitamin	Vitamin	1	B	
+빌딩		building	Building	1	B	
+빗		~으로 빗다	A comb	1	B	
+빗물			Rainwater	1	B	
+빛			Light	1	B	
+북	北		North	1	B	
+세로			Length	1	B	
+불꽃			flame,blaze,spark	1	B	
+볶음밥			Frizzled rice	1	B	
+볼일			business,errand,engagement	1	B	
+부끄러움			shame,disgrace	1	B	
+보람			worth,result	1	B	
+배추			Chinese cabbage	1	B	
+시골			Countryside	1	B	
+시내버스	市內~	市內bus	Inner-city bus	1	B	
+시리즈		series	Series	1	B	
+술자리			A banquet	1	B	
+술집			Bar of some kind	1	B	
+숲			Forest	1	B	
+스님			A priest	1	B	
+스스로			By oneself, do it alone	1	B	
+스웨터		sweater	Sweater	1	B	
+속옷			Underwear	1	B	
+손목			The wrist	1	B	
+손바닥			The palm	1	B	
+손발			Hand and foot; the limbs	1	B	
+손뼉			The flat of one’s hand	1	B	
+손잡이			A handle,knob	1	B	
+손톱			Fingernail	1	B	
+송아지			A calf,baby cow	1	B	
+송이		꽃 한 ~	A bunch,cluster	1	B	
+쇼		show	Show	1	B	
+소나기			A sudden rain shower	1	B	
+소나무			A pine tree	1	B	
+소리			A sound,noise	1	B	
+소스		sauce	Sauce	1	B	
+소시지		sausage	Sausage	1	B	
+설거지			Dishwashing	1	B	
+설날			New Year’s Day	1	B	
+새벽			dawn,daybreak	1	B	
+새소리			Bird voice,”chirp”	1	B	
+새우			lobster,shrimp	1	B	
+새해			A new year	1	B	
+액세서리		accessory	Accessory	1	B	
+양	量		quantity,volume	1	B	
+양념			Spices and condiments	1	B	
+아픔			Pain	1	B	
+안쪽			The inside, the inner part	1	B	
+알			An egg, spawn (fish)	1	B	
+암	癌		Cancer	1	B	
+앞길		앞에 있는 길	The road ahead, outlook	1	B	
+앞뒤			Before and behind	1	B	
+씨		~를 심다	Seeds (sow)	1	B	
+씨름			Wrestling	1	B	
+아가씨			Mis, young lady	1	B	
+아나운서		announcer	Announcer	1	B	
+섬			An island	1	B	
+아래쪽			The lower part, the bottom	1	B	
+아무것			Anything	1	B	
+아버님			Father (respectful word)	1	B	
+심부름			Errand	1	B	
+쌀			Uncooked rice	1	B	
+신		~이 나다	joy,delight	1	B	
+스케이트		skate	Skate	1	B	
+스케줄		schedule	Schedule	1	B	
+스키장	~場	ski場	Place to ski	1	B	
+스타		star	Star	1	B	
+스타일		style	Style	1	B	
+오징어			Cuttlefish, squid	1	B	
+오피스텔		office hotel	Office hotel (studio apt)	1	B	
+옥수수			Corn	1	B	
+온몸			The whole body	1	B	
+노랫소리			A singing voice	1	B	
+옆집			The house next door	1	B	
+예	例		Example	1	B	
+옛날이야기			An old story	1	B	
+오늘날			These days, nowadays	1	B	
+오랫동안			For a long time	1	B	
+오븐		oven	Oven	1	B	
+열	熱		Heat	1	B	
+열흘			Ten days	1	B	
+에너지		energy	Energy	1	B	
+엘리베이터		elevator	Elevator	1	B	
+여	女		A woman, a girl	1	B	
+여기저기			Here and there	1	B	
+여름철			Summertime	1	B	
+어둠			Darkness	1	B	
+어려움			difficulty,hardship	1	B	
+어머님			Mother (respectful word)	1	B	
+어젯밤			Last night	1	B	
+얼음			Ice	1	B	
+앞쪽			The front, the fore part	1	B	
+줄무늬			A stripe	1	B	
+조카			Nephew	1	B	
+종이컵		-cup	A paper cup	1	B	
+어머			Oh my god!	10	B	
+접시			A plate,platter	1	B	
+정	情		Feeling of attachment	1	B	
+저녁때			Evening time	1	B	
+적	敵		The enemy	1	B	
+전기밥솥			Electric rice cooker	1	B	
+잠옷			Pajamas	1	B	
+장	章		A chapter in a book	1	B	
+장난감			A toy	1	B	
+장마			The rainy spell in the summer	1	B	
+장사			trade,business	1	B	
+발등			The instep of the foot	1	B	
+잔치			banquet,feast	1	B	
+밥솥			Pressure cooker for rice	1	B	
+불빛			Fire light	1	B	
+상추			Lettuce	1	B	
+오이			Cucumber	1	B	
+탑	塔		A tower	1	B	
+치즈		cheese	Cheese	1	B	
+카레		curry	Curry	1	B	
+카페		&프cafe	Cafe (place to drink coffee)	1	B	
+캠퍼스		campus	Campus	1	B	
+커튼		curtain	Curtain	1	B	
+추위			Cold	1	B	
+참기름			Sesame oil	1	B	
+채널		channel	Channel	1	B	
+챔피언		champion	Champion	1	B	
+질	質		Quality, character	1	B	
+집안			Inside the house	1	B	
+짓			Something you do	1	B	
+짜증			Annoyance	1	B	
+쪽		면	A side, direction	1	B	
+지붕			A roof	1	B	
+진달래			Azalea	1	B	
+즐거움			pleasure,merriment	1	B	
+지난해			Last year	1	B	
+주머니			Pocket	1	B	
+주먹			Fist	1	B	
+죽	粥		Rice porridge	1	B	
+해외여행	海外旅行		Foreign travel	1	B	
+햇빛			Sunshine, sunlight	1	B	
+햇살			The rays of the sun	1	B	
+파리			A fly	1	B	
+파일		file	File	1	B	
+일상생활	日常生活		Everyday (daily) life	1	B	
+길거리			A street	1	B	
+일회용품	一回用品		A product to be used only once	1	B	
+탤런트		talent	Talent	1	B	
+터널		tunnel	Tunnel	1	B	
+터미널		terminal	Terminal	1	B	
+턱		신체의 일부	The chin	1	B	
+털			Hair; fur, feathers	1	B	
+테스트		test	Test	1	B	
+테이프		tape	Tape	1	B	
+토마토		tomato	Tomato	1	B	
+통	桶		A tub, a cask	1	B	
+코끼리			An elephant	1	B	
+코너		corner	Corner	1	B	
+코피			A nose bleed	1	B	
+콘서트		concert	Concert	1	B	
+콤플렉스		complex	Complex	1	B	
+콩			A bean	1	B	
+콩나물			Bean soup	1	B	
+크기			Size, dimensions	1	B	
+큰소리			A loud voice, loudly	1	B	
+이곳저곳			Everywhere	1	B	
+이날			Today, this day	1	B	
+월드컵		World Cup	World cup	1	B	
+웨이터		waiter	Waiter	1	B	
+웬일			What cause, what reason	1	B	
+위아래			Up and down	1	B	
+위쪽			The upper direction	1	B	
+우리말			Korean (language)	1	B	
+운	運		Fortune, luck, fate	1	B	
+운전기사	運轉技士		The driver	1	B	
+울음			crying,weeping	1	B	
+웃어른			one’s elders	1	B	
+웃음			Laughter, a smile	1	B	
+원숭이			A monkey	1	B	
+원피스		one-piece	(one-piece) a dress	1	B	
+와인		wine	Wine	1	B	
+왕	王		King	1	B	
+왼발			The right foot	1	B	
+왼손			The right hand	1	B	
+요새			recently,lately	1	B	
+인터넷		internet	Internet	1	B	
+인터뷰		interview	Interview	1	B	
+올림픽		Olympic	Olympic	1	B	
+이미지		image	Image	1	B	
+이불			Bedding, bed clothes	1	B	
+이웃			The neighborhood	1	B	
+이웃집			The neighbor’s house	1	B	
+이튿날			The second day after	1	B	
+혀			The tongue	1	B	
+입술			The lips	1	B	
+걸리다		걸다'의 피동사	To be hung up or  suspended	2	B	
+갈아입다			Change one’s clothes	2	B	
+갈아타다			Transfer (bus or subway)	2	B	
+가까워지다			Get closer	2	B	
+가꾸다			1) grow or cultivatea 2) dress oneself up	2	B	
+가리키다			Point to or  indicate	2	B	
+가져가다			To take or  carry	2	B	
+피다		꽃이 ~	To bloom ( a flower ~)	2	B	
+펼쳐지다			Stretch, extend away	2	B	
+팔리다			To be in demand, to be sold	2	B	
+펴다			Spread out, unfold	2	B	
+오			Oh, ah!	10	B	
+흙			earth,the soil	1	B	
+횡단보도	橫斷步道		Crossing	1	B	
+겉			The outer surface	1	B	
+후춧가루			Ground pepper	1	B	
+이것저것			This and that, one thing and another	1	B	
+꿈꾸다			To dream	2	B	
+끊다			Cut off or  sever	2	B	
+끊어지다			To break off or  expire or  be done with	2	B	
+끓다			Boil or  simmer	2	B	
+끓이다			Boil or  heat or  make hot	2	B	
+나누다			To divide	2	B	
+나빠지다			To become worse	2	B	
+깨지다		깨어지다	To break	2	B	
+기르다			Educate or  train or  cultivate	2	B	
+기뻐하다			Be pleased or  delighted with	2	B	
+그만두다			Stop or  discontinue	2	B	
+그치다			Stop or  cease or  halt	2	B	
+구경하다			To watch or  enjoy watching	2	B	
+견디다			Endure or  bear	2	B	
+걱정되다			To become worried	2	B	
+건너가다			To cross or  go over (river or  street)	2	B	
+건너다			Go over or  go across	2	B	
+건너오다			To come across to this side of something	2	B	
+눕다			Lie down	2	B	
+느끼다		추위를 ~	To feel	2	B	
+늘다			Increase, gain	2	B	
+늘리다			Increase, multiply	2	B	
+늘어나다			Grow longer	2	B	
+늙다			Grow old	2	B	
+다녀가다			Drop in for a short visit	2	B	
+넓어지다			Get wider	2	B	
+넓히다			Widen	2	B	
+넘다			Cross or go across	2	B	
+넘어가다			Cross or go over	2	B	
+넘어서다			Pass over	2	B	
+넘어지다			Fall down, collapse	2	B	
+넘치다			Overflow	2	B	
+나서다			Come out, come forth	2	B	
+나타나다			Come out, appear	2	B	
+나타내다			Show, display	2	B	
+날아가다			To fly away	2	B	
+날아오다			Come flying	2	B	
+남기다			To leave behind	2	B	
+남다			Remain, be left over	2	B	
+낳다			To give birth	2	B	
+내놓다			Put out, take out	2	B	
+내려놓다			Set or put down	2	B	
+내려다보다			Overlook	2	B	
+꺼내다			To get out or  draw out	2	B	
+꺼지다		불이 ~	To go or die out	2	B	
+꾸다		꿈을 ~	Borrow or  loan	2	B	
+꾸미다			Decorate	2	B	
+맡다		담임을 ~	Take charge of	2	B	
+슬픔			Sorrow	1	B	
+이마			Forehead	1	B	
+머무르다			Stay overnight	2	B	
+죽다		심심해 ~	Lose your spirit	보	B	
+쟤		저 아이	That kid	불	B	
+마르다			Become dry	2	B	
+어떡하다		어떠하게 하다	To take some measures, to manage somehow	불	B	
+얘		이 아이	Sonny, you there	불	B	
+싸움			A fight	1	B	
+마치다			Finish, complete	2	B	
+막다			Stop, obstruct	2	B	
+그래도		그리하여도	All the same	불	B	
+걔		그 아이	Child	불	B	
+저렇게		저러하게	Like that	불	B	
+이렇게		이러하게	In this way	불	B	
+지나가다			To pass, elapse	2	B	
+흘리다			spill,shed (tears,blood)	2	B	
+흐르다			Flow, stream	2	B	
+흔들다			Shake, sway	2	B	
+흘러가다			flow,run,drift along	2	B	
+흘러나오다			Flow out, run, effuse	2	B	
+이기다		적에게 ~	To win	2	B	
+작아지다			Become smaller	2	B	
+울리다		종이 ~	To ring (a bell)	2	B	
+웃기다			To be funny	2	B	
+옮기다			Move, transfer (2)(sickness) communicate, transfer to	2	B	
+외우다			Recite from memory	2	B	
+익다		감이 ~	Ripe, be ripe	2	B	
+이뤄지다			To make something for a specific purpose	2	B	
+이르다		도착하다	To reach, arrive, get at	2	B	
+헤어지다			Part from, part company with	2	B	
+틀다			To twist, wind	2	B	
+틀리다		답이 ~	To be turned, warped 2) go wrong, be mistaken	2	B	
+읽히다		읽다'의 피동사	To get a person to read, to get a person to learn	2	B	
+태우다		차에 ~	To take in a car, give a ride to	2	B	
+터뜨리다			Break, burst,explode	2	B	
+털다			To shake off, brush up	2	B	
+참		이것 ~	In reality	10	B	
+켜지다			To become turned on	2	B	
+키우다			To raise, bring up, rear	2	B	
+태우다		쓰레기를 ~	Burn, commit to flames	2	B	
+치우다			Straighten up, tidy, remove	2	B	
+커지다			To become bigger	2	B	
+쳐다보다			To look up at	2	B	
+차리다			Make ready,prepare	2	B	
+참다			Bear, endure	2	B	
+찾아가다			To go to a place to meet somebody	2	B	
+찾아내다			To find out, discover	2	B	
+찾아보다			To go meet somebody	2	B	
+찾아오다			To go meet somebody, to go get sth	2	B	
+채우다		자리를 ~	To fill up, complete, fulfill	2	B	
+집다			Pick up	2	B	
+짧아지다			To become short	2	B	
+찌다		살이 ~	To put on weight	2	B	
+찌르다			stab,thrust	2	B	
+막히다			Be stopped up	2	B	
+지다		등에 ~	Carry (on the back)	2	B	
+지르다		소리를 ~	Holler, yell, scream	2	B	
+지치다		일에 ~	Be exhausted, fatigued	2	B	
+지키다			Protect, maintain	2	B	
+쥐다		주먹을 ~	To hold,seize	2	B	
+즐거워하다			To enjoy it	2	B	
+즐기다			Enjoy oneself,take pleasure,delight	2	B	
+지나다			pass,elapse,go on	2	B	
+지다		해가 ~	Set (the sun)	2	B	
+지다		전쟁에 ~	To lose (at war, a game)	2	B	
+주무시다			To sleep (respectful word)	2	B	
+죽이다		굶겨 ~	To kill	2	B	
+줄다			Diminish	2	B	
+졸다			doze,take a nap	2	B	
+좋아지다			To become better	2	B	
+젖다			To be wet, soaked	2	B	
+젓다			To make a sign,gesticulate	2	B	
+적어지다			To become smaller	2	B	
+잠들다			Fall asleep	2	B	
+자라나다			To grow up	2	B	
+자랑하다			To be proud	2	B	
+자르다			cut,chop	2	B	
+잘되다			To turn out well	2	B	
+잘살다			To be affluent, well-off	2	B	
+들려오다			To echo (sound)	2	B	
+뵈다		웃어른을 보다	See (polite)	2	B	
+올라오다			Come up	2	B	
+올려놓다			Put a thing on a place	2	B	
+생겨나다			To begin, germinate	2	B	
+가져다주다			Take something to someone	2	B	
+그려지다			Draw	2	B	
+끄덕이다			Nod	2	B	
+느껴지다			Feel	2	B	
+오가다			Come and go, keep going and coming	2	B	
+오래되다			To last for a long time	2	B	
+열리다		열매가 ~	To bear fruit	2	B	
+열리다		문이 ~	Open, be opened, be unlocked	2	B	
+없애다			Remove, get rid of, do away with	2	B	
+없어지다			To lose, get lost	2	B	
+여쭈다			Tell a superior, inform	2	B	
+어두워지다			become/get dark	2	B	
+어리다		눈물이 ~	one’s eyes dim with tears	2	B	
+어울리다			To be becoming, suiting	2	B	
+얹다			Put on, place, lay, set	2	B	
+얼다			Freeze, be frozen	2	B	
+앞서다			To go before, precede	2	B	
+알려지다			To become known	2	B	
+알리다			To inform, tell a person	2	B	
+알아듣다			To listen and comprehend	2	B	
+앓다			To be ill, sick with sth	2	B	
+썩다			Go bad, rot	2	B	
+썰다			Chip, mince,dice	2	B	
+쏟아지다			To pour out	2	B	
+쓰이다		글이 ~	Be writted	2	B	
+만들어지다			Make, create	2	B	
+씹다			To chew	2	B	
+싣다			To load,take (passengers)	2	B	
+싫어지다			To become distasteful	2	B	
+심다			plant,sow (a tree)	2	B	
+싸다		보자기에 ~	Wrap in, bundle	2	B	
+쌓다			To pile up	2	B	
+쌓이다			Be piled/heaped up	2	B	
+시키다			To make	2	B	
+식다			To get cold, cool off	2	B	
+슬퍼하다			sorrow,feel sad	2	B	
+숙이다			Lower one’s head	2	B	
+숨다			To be in hiding, to hide oneself	2	B	
+수고하다			To work hard	2	B	
+세우다			Stand up, erect	2	B	
+세워지다			To become erected	2	B	
+소리치다			To shout, yell	2	B	
+섞다			blend,mix	2	B	
+섞이다			To be mixed,blended	2	B	
+살펴보다			Watch closely	2	B	
+빨다		옷을 ~	Wash the laundry	2	B	
+빼다		가시를 ~	Pull out, extract	2	B	
+뽑다			Pull out, draw	2	B	
+뿌리다			sprinkle,scatter	2	B	
+자			Well!!	10	B	
+사라지다			To disappear	2	B	
+붙다			Stick, adhere to	2	B	
+붙이다			affix,put on	2	B	
+비키다			Move aside	2	B	
+빌다		소원을 ~	pray,wish,ask	2	B	
+빌리다			To lend	2	B	
+볶다			fry,roast	2	B	
+뵙다			see,meet	2	B	
+부딪치다			Collide with, bump against	2	B	
+부러워하다			envy,be envious of	2	B	
+보이다		보다'의 피동사	see,catch sight of	2	B	
+보이다		보다'의 사동사	show,let see	2	B	
+벌리다		입을 ~	Open, wide	2	B	
+벌어지다		싸움이 ~	To get serious, enlarge	2	B	
+밝다			To be bright	2	B	
+밝히다			To light up	2	B	
+밟다			Step on	2	B	
+밤새다			To stay up all night	2	B	
+바뀌다			Be changed	2	B	
+바라다			Wish, hope	2	B	
+바르다		벽지를 ~	Spread, apply	2	B	
+받아들이다			Accept	2	B	
+물다		담배를 ~	bite,put in the mouth	2	B	
+미워하다			Dislike	2	B	
+믿다			Believe	2	B	
+밀다			push,shove	2	B	
+몰다			Drive	2	B	
+묶다			bind,tie	2	B	
+멀어지다			Become distant to	2	B	
+멈추다			Stop	2	B	
+모시다			Attend on	2	B	
+모으다			gather,get together	2	B	
+모이다			Meet, assemble	2	B	
+모자라다			To be insufficient	2	B	
+만지다			To touch	2	B	
+많아지다			Become a lot	2	B	
+말씀드리다			Speak (honor.)	2	B	
+맞서다			Stand opposite	2	B	
+맞추다			Adjust, adapt	2	B	
+맡기다			Entrust sb with sth	2	B	
+더하다			Get worse	2	B	
+던지다			To throw	2	B	
+덮다			To cover, veil	2	B	
+데려가다			Take with	2	B	
+데려오다			Go with	2	B	
+데리다			Be accompanied by	2	B	
+닮다			Resemble	2	B	
+담그다			Soak in water	2	B	
+당기다			Pull	2	B	
+닿다			To reach, get to	2	B	
+다치다			To hurt	2	B	
+닫히다			To shut, be closed	2	B	
+달라지다			To change, vary	2	B	
+달려가다			Run, rush, dash	2	B	
+달려오다			Come running	2	B	
+달리다		문에 종이 ~	Hang, be supsended	2	B	
+달아나다			Escape, flee	2	B	
+높아지다			Become high	2	B	
+놓치다			Miss, let slip	2	B	
+누르다		힘을 가하다	Press or push down	2	B	
+이성	理性		Reason, reasoning	1	B	
+첫			First	6	B	
+첫날			The first day	1	B	
+반대하다	反對-		Be opposed to	2	B	
+뻗다			Stretch out, extend beyond	2	B	
+취소	取消		Cancellation, anulment	1	B	
+취소하다	取消-		To cancel, calloff	2	B	
+전국	全國		The whole country	1	B	
+수상	首相		The prime minister	1	B	
+묻다		옷에 흙이 ~	to Stain	2	B	
+움직이다			To move, stir	2	B	
+즉시	卽時		At once,immediately	1	B	
+머리카락			Headhair	1	B	
+미래	未來		Future	1	B	
+점	點		a spot, a blemish	5	B	
+점	點		Store	1	B	
+덜			Less, incompletely	3	B	
+칭찬	稱讚		Praide, admiration	1	B	
+벗기다			Unclothe, undress	2	B	
+최근	最近		Recently	1	B	
+찬물			Cold water	1	B	
+기운			Strength or  might (the strength you feel you have on that particular day)	1	B	
+오른발			The right foot	1	B	
+오른손			The right hand	1	B	
+높이			High, aloft (adverb)	3	B	
+높이			Height (noun)	1	B	
+높이다			Raise, elevate	2	B	
+식물	植物		food,provisions	1	B	
+자동	自動		self-acting, self-moving, automatic	1	B	
+예약	豫約		Pre-engagement, reservation	1	B	
+결정	決定		A decision or  determination	1	B	
+결정하다	決定-		To decide	2	B	
+논의하다	論議-		Discussion	2	B	
+출장	出張		A business trip	1	B	
+조사하다	調査-		To examine,investigate	2	B	
+긴장	緊張		Tension	1	B	
+이동	移動		movement,migration,drift	1	B	
+빠지다		머리가 ~	To indulge in, be addicted to	2	B	
+빠지다		물에 ~	To fall into	2	B	
+큰길			main/principal road	1	B	
+큰일		중대한 일	An important affair, a serious matter	1	B	
+나뭇잎			Tree leaves	1	B	
+나뭇가지			A tree branch	1	B	
+젊은이			Young person	1	B	
+먼지			Dust	1	B	
+배경	背景		Background	1	B	
+배구	排球		Volleyball	1	B	
+배꼽			The navel	1	B	
+하숙집	下宿-		Dormitory, boarding house	1	B	
+수화기	受話器		Telephone receiver	1	B	
+센터		center	Center	1	B	
+글			words, a verse	1	B	
+글쎄			Now or  well or  let me see	10	B	
+글씨			1) Handwriting 2) a letter or  an ideograph or  a character	1	B	
+글자	-字		A letter or  a character	1	B	
+글쎄요			Now or  well or  let me see	10	B	
+글쓰기			Writing	1	B	
+여우		동물	Fox	1	B	
+먹이다			support,feed	2	B	
+먹히다			to be eaten,swallowed	2	B	
+종	種		A sort,kind,species	1	B	
+종교	宗敎		religion,a faith	1	B	
+구체적	具體的		Concretely	1	B	
+미소	微笑		Smile	1	B	
+잘못			wrong,mistake	3	B	
+잘못되다			To turn out wrong	2	B	
+잘못하다			To make a mistake	2	B	
+생각나다			To remember	2	B	
+생각되다			To come to think sth	2	B	
+틀림없다			No mistaking it	4	B	
+가지		한 ~	One of the kind or  a sort	5	B	
+가지		~를 치다	Eggplant	1	B	
+발생	發生		1) Birth 2) development	1	B	
+발생하다	發生-		Originate, come from	2	B	
+인원	人員		The number of persons	1	B	
+거리		반찬~	Materials	5	B	
+비교	比較		A comparison	1	B	
+비교적	比較的		Comparatively	3	B	
+비교하다	比較-		To compare	2	B	
+유치원	幼稚園		Kindergarten	1	B	
+운동복	運動服		Exercise clothes	1	B	
+신고	申告		A statement,declaration	1	B	
+내밀다			To Push out	2	B	
+맞다		손님을 ~	receive,welcome (note, usually this is 맞히다)	1	B	
+맞다		답이 ~	Be right, correct; to match, be fitting for	2	B	
+맞다		매를 ~	Be struck,beaten	2	B	
+버리다			Throw away	2	B	
+깜짝		놀라는 모양	With a surprise	3	B	
+메다		총을 ~	Put on one’s shoulder	2	B	
+메모		memo	Memo	1	B	
+메일		mail	Mail	1	B	
+부지런하다			Be diligent	4	B	
+익숙하다			To become accustomed to	4	B	
+익숙해지다			To become accustomed to	2	B	
+성	姓		A family name,surname	1	B	
+성공	成功		success,achievement	1	B	
+활발하다	活潑-		Be lively, sprightly	4	B	
+강하다	强-		To be strong or  powerful	4	B	
+자기	自己		Oneself, number one, numerouno, self	8	B	
+의견	意見		An opinion,a suggestion	1	B	
+절		~을 하다	Bow in salutation	1	B	
+절	사찰		A Buddhist temple	1	B	
+절대	絶對		Absoluteness	3	B	
+풀리다			To come loose	2	B	
+과장	課長		The department/section head	1	B	
+창고	倉庫		A warehouse,storehouse	1	B	
+자신	自信		Self-confidence	1	B	
+자신	自身		one’s own self, one\\'s own body	1	B	
+챙기다			gather,collect, assemble your stuff -- to amass (money, a collection)	2	B	
+솔직히	率直-		frankly,candidly	3	B	
+끌다			Pull	2	B	
+노인	老人		Old person	1	B	
+이모	姨母		A maternal aunt	1	B	
+사자	獅子		A lion	1	B	
+사실	事實		Actually, really	3	B	
+사실	事實		The truth, a fact	1	B	
+내내			All along, the entire time	3	B	
+달다		단추를 ~	to attach, fix	2	B	
+감동	感動		Agitate or  stir up the emotions	1	B	
+행사	行事		An event, a function	1	B	
+신혼부부	新婚夫婦		Newlyweds	1	B	
+신혼여행	新婚旅行		the honeymoon (the trip after the wedding)	1	B	
+어린애			A youngster, a child	1	B	
+어린아이			A youngster, a child	1	B	
+어린이날			Children’s Day (may 5th)	1	B	
+실패	失敗		Failure	1	B	
+실패하다	失敗-		To fail	2	B	
+김		해초	Seaweed, laver	1	B	
+김치찌개			Spicy cabbage soup	1	B	
+주제	主題		Subject, theme, topic	1	B	
+상대	相對		counterpart,companion,rival	1	B	
+상대방	相對方		Conversation partner	1	B	
+쏘다			(1) To shoot  (2) to sting, bite (an insect, animal)	2	B	
+연기	煙氣		Smoke, fume	1	B	
+연기	演技		performance,acting	1	B	
+각자	各自		Each one or  every one	1	B	
+각자	各自		Each one or  every one	3	B	
+야			(Word to get somebody’s attention) Hey!! (2) impolite speech for 이다, to be	10	B	
+예전			Old days, former days	1	B	
+공간	空間		Space or  room	1	B	
+실내	室內		In the room	1	B	
+실력	實力		one’s real ability,talent	1	B	
+언젠가			One of these days, at some time in the future	3	B	
+티셔츠		T-shirts	T-shirts	1	B	
+연락처	連絡處		a way to make contact (usually means a phone number)	1	B	
+연락하다	連絡-		To contact, get in touch with	2	B	
+애	아이		A baby, or a slightly derogative word for person	1	B	
+다하다			Finish, go through, be exhausted, run out of	2	B	
+조상	祖上		Ancestors	1	B	
+수입	收入		Income	1	B	
+수입	輸入		Importing sth	1	B	
+수입하다	輸入-		To import	2	B	
+도로	道路		A road, way	1	B	
+도로			Back, same as ever, same as it was before	3	B	
+꿀			Honey or  nectar	1	B	
+낫다		더 좋다	Superior	4	B	
+낫다		병이 ~	to get better (from an illness)	2	B	
+대전	大田		Daejon city	7	B	
+기사	記事		An article or  an account	1	B	
+기사	技士		Technician	1	B	
+명절	名節		Festival days	1	B	
+전날	前-		The day before, the day prior	1	B	
+그렇게		그러하게	And so. like that	불	B	
+감다		눈을 ~	Close	2	B	
+속도	速度		Speed	1	B	
+식구	食口		Members of a family, your immediate family members (those you live with, preferably)	1	B	
+저자	著者		A writer,author	1	B	
+능력	能力		Ability, capability, how much and how well	1	B	
+서두르다			To hurry up	2	B	
+그리		그러한 모양	So or  to that extent	3	B	
+단순히	單純-		Simply	3	B	
+단순하다	單純-		Be simple-minded	4	B	
+차례	次例		(1) order,precedence  (2) one time, one round	1	B	
+나다			To come out, grow, spring up	2	B	
+도구	道具		Tool, instrument	1	B	
+반대	反對		Opposite and being opposed to (objecting to)	1	B	
+합격	合格		Success in an examination	1	B	
+노동자	勞動者		Laborer, worker	1	B	
+벌다		돈을 ~	To earn (money) ; (2) to invite, to bring onto oneself	2	B	
+토끼			A rabbit	1	B	
+과제	課題		A subject or  a thesis or  homework; an exercise/a problem	1	B	
+중	中		The center, the middle	5	B	
+중간	中間		In the middle	1	B	
+교류	交流		Interchange (cultural) ; alternating current (electrical)	1	B	
+체육	體育		Physical education	1	B	
+성격	性格		Personality ; character, nature	1	B	
+관광객	觀光客		A tourist	1	B	
+관광지	觀光地		Tourist area	1	B	
+최초	最初		In the very first, in the beginning	1	B	
+자체	自體		one’s own body	1	B	
+건지다			Take or bring out of the water or  2) rescue a person from danger	2	B	
+초	初		Initial, in the beginning, first	5	B	
+초	秒		A second	5	B	
+민족	民族		race,nation,people	1	B	
+재채기			sneeze,sneezing	1	B	
+평화	平和		Peace	1	B	
+가로		~와 세로	Width or  breadth	1	B	
+관객	觀客		Spectator	1	B	
+관계	關係		Connection or  relation	1	B	
+관광	觀光		Sightseeing or  tourism	1	B	
+전기	電氣		Electricity	1	B	
+무시하다	無視-		disregard,ignore ; to be defiant and fail to observe	2	B	
+이빨			A tooth	1	B	
+검정색	-色		A large sum of money	1	B	
+종일	終日		All day, throughout the whole day	1	B	
+맞은편	-便		The other side of  THIS IS ONE WORD	1	B	
+마루		~를 닦다	A wooden floor, floor, flooring	1	B	
+줄이다			reduce,decrease	2	B	
+삼촌	三寸		An uncle (usually on the father\\'s side)(외삼촌 a brother of the wife, an uncle on the  mother\\'s side)	1	B	
+사촌	四寸		a cousin	1	B	
+정원	庭園		Garden	1	B	
+기간	期間		A period or  a time or	1	B	
+개발하다	開發-		Develop or  exploit or  open up to development	2	B	
+일정	日程		To be fixed, settled, regular	1	B	
+기회	機會		An opportunity	1	B	
+마련되다			To be planned and arranged	2	B	
+마련하다			To plan, arrange	2	B	
+고려하다	考慮-		Regard or  respect	2	B	
+적용하다	適用-		To apply (sth to sth else)	2	B	
+깨다		술이 ~	Wake up from sleep	2	B	
+깨다		그릇을 ~	Break or  crack	2	B	
+깨끗이			Clean or  neatly	3	B	
+꾸준히			Untiringly, ceaselessly	3	B	
+초청장	招請狀		An invitation (card)	1	B	
+사업	事業		Business	1	B	
+논문	論文		Dissertations , an academic paper (these are 2 separate meanings)	1	B	
+담당하다	擔當-		Take charge of	2	B	
+재료	材料		stuff,material	1	B	
+베개			A pillow	1	B	
+삶다			boil,cook (eggs)	2	B	
+살짝			(1) softly,lightly,just a little (2) furtively, stealthily	3	B	
+미치다		닿다	To reach	2	B	
+미치다		정신에 이상이 생기다	Be crazy	2	B	
+치과	齒科		A dentist	1	B	
+인간	人間		A person, a human being	1	B	
+인구	人口		Population	1	B	
+시인	詩人		A poet	1	B	
+영상	零上		Above zero	1	B	
+팬		애호가	A fan, an enthusiast	1	B	
+팬		pan	Pan	1	B	
+팬티		panties	Panties (male and female underwear)	1	B	
+줍다			Pick up, gather	2	B	
+죽음			Death	1	B	
+가리다		시야를 ~	Choose or  select	2	B	
+가리다		시비를 ~	Pile up or  stack up or heap up	2	B	
+버릇			Habit	1	B	
+잡히다		잡다'의 피동사	To be caught ; to extinguish a fire	2	B	
+짐			Luggage ; what is on a person	1	B	
+농사	農事		Farming	1	B	
+엉뚱하다			Be extraordinary, extravagant ; to misdirect somebody`s attention	4	B	
+약		約	About, approximately	6	B	
+약간	若干		Some, a little	1	B	
+약간	若干		Somewhat	3	B	
+장학금	奬學金		Scholarship	1	B	
+고생하다	苦生-		To suffer or  to have trials ; to do something you don\\'t want to do, 하고 싶자 않은 것	2	B	
+평생	平生		A lifetime	1	B	
+다가가다			To get near to	2	B	
+다가오다			Approach	2	B	
+매다		끈을 ~	Tie	2	B	
+바라보다			Look at, watch ; to look forward to, hope for	2	B	
+불리다		부르다'의 피동사	To be called	2	B	
+단지	團地		A public apt complex	1	B	
+단지	但只		Simple, merely	3	B	
+풀다			Untie, loosen ; to melt into	2	B	
+비닐		vinyl	a thin sheet of plastic, vinyl	1	B	
+비닐봉지	-封紙	vinyl封紙	Plastic bag	1	B	
+당장	當場		On the spot, immediately	1	B	
+오리		동물	Duck	1	B	
+우수하다	優秀-		to be superior,excellent	4	B	
+잔뜩			extremely,to the utmost	3	B	
+이루다			Accomplish, complete	2	B	
+이루어지다			Get accomplished, achieved	2	B	
+끼다		끼우다	To put on or wear, to wear (a ring)	2	B	
+끼다		구름이 ~	To smoke	2	B	
+나머지			The rest, the remainder ; as a result of the excess of, as a result	1	B	
+싱겁다			Taste flat, have no flavor	4	B	
+어쩌다			By chance, accident	2	B	
+어쩌면			(1) it is possible that 아마도 2) how on earth, how the hell	3	B	
+어쩐지			(1) somehow, in a strange way ; (2) in combination with an ending giving a reason to place stress on the action of the verb	3	B	
+근무	勤務		Duty or  service or  work	1	B	
+근무하다	勤務-		Work or  labor	2	B	
+벌이다			(1) to plan to start a job/project (2) to play a table game	2	B	
+낯설다			To be unfamiliar with, to be a stranger to ( a person)	4	B	
+흐리다		날이 ~	Cloudy (weather)	4	B	
+화려하다	華麗-		Splendor, magnificence of a display, a look	4	B	
+갈다		바꾸다	Renew or  substitute ; same as 바꾸다	2	B	
+갈다		문지르다	1) sharpen  (a blade) 2) rub or  chafe 3) make juice in a mixer	2	B	
+들다		따지고 ~	Means continuing the main verb’s action ; to enter/go into	보	B	
+겨우			Barely or  narrowly.  간신히	3	B	
+예상	豫想		Expectation, anticipation; forecast, preconception, prenotion	1	B	
+흔히			Generally, commonly ; often	3	B	
+놓이다			Be put on sth else (2) to become peaceful	2	B	
+부치다		편지를 ~	to send, to post	2	B	
+쏟다			To pour .  붓다	2	B	
+붓다		물을 ~	to pour (water, liquid)	2	B	
+쉬다		숨을 ~	to breathe	2	B	
+짓다			To make, build ; to form a line (a group)	2	B	
+차다		날씨가 ~	cold,chilly	4	B	
+차다		공을 ~	to kick	2	B	
+햇볕			Sunbeams, sunlight	1	B	
+기구	器具		A utensil or  tool	1	C	
+꼼꼼하다			very careful or meticulous, doing it in a very detailed manner	4	C	
+쓸다			마당을 ~ brush, sweep perhaps lightly	2	C	
+현장	現場		on site, on location, at the site in question	1	C	
+얘			Yes.	10	C	
+지적하다	指摘-		To indicate, point out	2	C	
+의식	意識		Consciuosness, awareness	1	C	
+금강산	金剛山		The Diamond Mountains	7	C	
+혼나다	魂-		Get frightened, scared	2	C	
+외과	外科		Surgery	1	C	
+제과점	製菓店		Confectionary store	1	C	
+미용실	美容室		Beauty salon	1	C	
+조선	朝鮮		Name for ancient korea culture	7	C	
+근본	根本		The foundation or  basis	1	C	
+기념일	記念日		Commemoration day	1	C	
+내후년	來後年		The year after next year	1	C	
+식품점	食品店		Grocery store	1	C	
+약혼녀	約婚女		A girl who is engaged	1	C	
+예습	豫習		Preparation of lessons	1	C	
+예습하다	豫習-		To prepare lessons, rehearse	2	C	
+출석하다	出席-		attendance,presence	2	C	
+분필	粉筆		Chalk	1	C	
+약혼자	約婚者		A fiance, an engaged person	1	C	
+형수	兄嫂		The wife of one’s older brother	1	C	
+냉방	冷房		A cold or unheated room	1	C	
+색연필	色鉛筆		Colored pencil	1	C	
+소아과	小兒科		Pediatrics	1	C	
+양력	陽曆		The solar calendar	1	C	
+축구장	蹴球場		Soccer field	1	C	
+한식	韓食		Korean food	1	C	
+복사기	複寫機		Memeograph	1	C	
+신라	新羅		One dynasty in ancient korea	7	C	
+결석하다	缺席-		To be absent	2	C	
+출입국	出入國		Entry into a country	1	C	
+팩스	fax		Fax	1	C	
+국내선	國內線		Domestic airline	1	C	
+야구장	野球場		Baseball field	1	C	
+예식장	禮式場		A ceremony hall	1	C	
+월세	月貰		Monthly rent	1	C	
+결석	缺席		Absent	1	C	
+독감	毒感		Influenza	1	C	
+연두색	軟豆色		Light green	1	C	
+온돌	溫突		The korean under-floor heating system	1	C	
+외할아버지	外-		A maternal grandfather	1	C	
+입국	入國		Entering a country	1	C	
+최소	最小		At the least, the minimum	1	C	
+국민적	國民的		National or  for citizens	1	C	
+국제선	國際線		International airline	1	C	
+안과	眼科		Ophthalmology	1	C	
+하순	下旬		The final third of the month	1	C	
+기혼	旣婚		Married	1	C	
+삼계탕	蔘鷄湯		Chicken soup	1	C	
+퇴원	退院		Leaving the hospital	1	C	
+기념품	記念品		A momento	1	C	
+단풍	丹楓		Fall foliage	1	C	
+문학적	文學的		Literary	1	C	
+예술적	藝術的		Artistic	1	C	
+장모	丈母		A man’s mother in law	1	C	
+고궁	古宮		An ancient palace	1	C	
+대중적	大衆的		Of the masses	1	C	
+반말	半-		Crude language	1	C	
+분홍색	粉紅色		Pink color	1	C	
+초순	初旬		The first third of a month	1	C	
+퇴원하다	退院-		To leave the hospital	2	C	
+희망하다	希望-		Hope	2	C	
+공연하다	公演-		Offer a performance	2	C	
+내과	內科		Internal medicine	1	C	
+문법	文法		Grammar	1	C	
+시대적	時代的		Of the times	1	C	
+추가하다	追加-		To add sth, to supplement	2	C	
+탁구	卓球		ping-pong,table tennis	1	C	
+현대적	現代的		Modern (adj)	1	C	
+영화관	映畵館		Movie theater	1	C	
+입사하다	入社-		To join/enter a company	2	C	
+전시되다	展示-		To be exhibited,ddisplayed	2	C	
+주문	呪文		An incantation, a spell	1	C	
+추가되다	追加-		To be added	2	C	
+치료법	治療法		A curative means	1	C	
+특급	特級		In a special class	1	C	
+별일	別-		A particular thing	1	C	
+호실	號室		Tells you the room number	1	C	
+교육비	敎育費		Tuition or  the cost of a school education	1	C	
+기억되다	記憶-		To be remembered	2	C	
+난방	暖房		A heated room	1	C	
+내용물	內容物		Contents	1	C	
+녹화	錄畵		Tree-planting	1	C	
+매번	每番		Every time	3	C	
+번역하다	飜譯-		To translate	2	C	
+소비하다	消費-		Consumption	2	C	
+수리하다	修理-		repair,mending	2	C	
+식료품	食料品		Articles for food	1	C	
+주전자	酒煎子		A kettle, teakettle	1	C	
+촌스럽다	村-		Unfashionable	4	C	
+토론자	討論者		A debator, a disputant	1	C	
+평상시	平常時		Normally	1	C	
+해물	海物		Marine products	1	C	
+감정적	感情的		Emotional	1	C	
+강북	江北		North of the river	1	C	
+관람	觀覽		Inspection or  viewing	1	C	
+외제	外製		Of foreign manufacture	1	C	
+욕하다	辱-		To insult, to say bad words	2	C	
+음반	音盤		A phonograph record	1	C	
+자살하다	自殺-		Commit suicide	2	C	
+자연적	自然的		Natural	1	C	
+장례식	葬禮式		A funeral	1	C	
+재수	財數		luck,fortune	1	C	
+전구	電球		An electric bulb	1	C	
+전문점	專門店		Exclusive store	1	C	
+만세	萬歲		10,000 years	1	C	
+만화가	漫畵家		Cartoon artist	1	C	
+면접	面接		Interview	1	C	
+번지	番地		Area of land	1	C	
+사립	私立		Private	1	C	
+사생활	私生活		Private life	1	C	
+석사	碩士		Master	1	C	
+숙녀	淑女		A lady	1	C	
+순하다	順-		Be gentle,docile	4	C	
+여왕	女王		Queen	1	C	
+시댁	媤宅		one’s husband’s family/house	1	C	
+신체적	身體的		Physical	1	C	
+주일	週日		A week	5	C	
+집중하다	集中-		To concentrate	2	C	
+천재	天才		genius,talent	1	C	
+초여름	初-		Early summer	1	C	
+초저녁	初-		Early in the evening	1	C	
+충돌하다	衝突-		Collide, clash with	2	C	
+피곤	疲困		fatigue,exhaustion	1	C	
+학비	學費		Tuition	1	C	
+효자	孝子		A dutiful son	1	C	
+감소되다	減少-		To be reduced or  diminished	2	C	
+공연되다	公演-		To give a public performance	2	C	
+교시	校時		Teach or  instruct or  enlighten	5	C	
+다양해지다	多樣-		To be various	2	C	
+산길	山-		A mountain path,road	1	C	
+수업	修業		Completing an education course	1	C	
+심각해지다	深刻-		To become serious	2	C	
+안심하다	安心-		security,assuredness,relief	2	C	
+약품	藥品		Medicines, medical supplies	1	C	
+양보	讓步		concession,compromise	1	C	
+양옆	兩-		On both sides	1	C	
+연기되다	延期-		To be put off, postponed	2	C	
+표시하다	標示-		To make a sign, display	2	C	
+효도하다	孝道-		To be a good son/daughter to one’s parents	2	C	
+공기	空器		Public institution	1	C	
+굉장하다	宏壯-		Be grand or  magnificent or  splendor	4	C	
+기업인	企業人		Businessman	1	C	
+긴장되다	緊張-		Be under tension	2	C	
+대	줄기		A stem, stalk	1	C	
+진실로	眞實-		Truly, honestly	3	C	
+분명해지다	分明-		To become clear	2	C	
+신사	紳士		A gentleman	1	C	
+야하다	冶-		To be gaudy,garish	4	C	
+왕비	王妃		Queen	1	C	
+운반	運搬		conveyance,transport	1	C	
+장모님	丈母-		A man’s mother in law	1	C	
+지폐	紙幣		Paper money	1	C	
+조개		동물	shellfish,clam	1	C	
+출퇴근	出退勤		Go to and come from the office	1	C	
+통역	通譯		Interpreting	1	C	
+향상되다	向上-		To be impoved, advanced	2	C	
+과거	科擧		The state examination	1	C	
+국가적	國家的		National or  state	1	C	
+근교	近郊		Suberbs	1	C	
+기초적	基礎的		Fundamental or  basic	1	C	
+다양성	多樣性		Variety	1	C	
+비만	肥滿		Fatness, corpulence	1	C	
+사회자	司會者		President	1	C	
+입사	入社		enter/join a company	1	C	
+재활용	再活用		Recycling	1	C	
+제삿날	祭祀-		Day of the ceremony	1	C	
+철학적	哲學的		Philosophical	1	C	
+추천하다	推薦-		To recommend, say a good word for	2	C	
+판매되다	販賣-		To be sold	2	C	
+학력	學歷		Academic background, formal schooling	1	C	
+한정하다	限定-		To limit, restrict	2	C	
+상금	賞金		Prize money	1	C	
+식욕	食慾		appetite,desire	1	C	
+양상추	洋-		Lettuce	1	C	
+연기하다	延期-		To be put off, postponed	2	C	
+외갓집	外家-		one’s mother’s maiden home	1	C	
+유능하다	有能-		To be competent,talented	4	C	
+유적지	遺跡地		Place where remains/cultural-historical remnants are	1	C	
+응답하다	應答-		An answer, a reply	2	C	
+이롭다	利-		Be good for	4	C	
+최고급	最高級		The highest grade/class	1	C	
+최상	最上		The best, the finest	1	C	
+최악	最惡		The worst	1	C	
+친해지다	親-		To get close, to get friendly	2	C	
+햄	ham		Ham	1	C	
+고급스럽다	高級-		To be high-class	4	C	
+공주	公主		A royal princess	1	C	
+무용가	舞踊家		Dancer	1	C	
+수만	數萬		Tens of thousands	6	C	
+식기	食器		An eating vessel	1	C	
+안부	安否		safety,welfare	1	C	
+양주	洋酒		Foreign wine/liquors	1	C	
+용서	容恕		pardon,forgiveness	1	C	
+우편	郵便		post,mail	1	C	
+정장	正裝		Full dress, uniform	1	C	
+진통	陣痛		Labor pains, travail	1	C	
+참석	參席		Attendance, participation	1	C	
+지방	脂肪		Fat, grease, lard	1	C	
+차차	次次		Gradually	3	C	
+추측	推測		Guess, conjecture	1	C	
+충고	忠告		Advice, counsel, suggestion	1	C	
+간호	看護		Nursing or  care	1	C	
+겁나다	怯-		Be frightened or  scared	2	C	
+동화책	童話冊		A fairy tale	1	C	
+모집하다	募集-		Call/appeal for	2	C	
+절약	節約		thrift,savings,economy	1	C	
+신청서	申請書		Application, application form	1	C	
+여전하다	如前-		Be unchanged, the same as before	4	C	
+영남	嶺南		The southeastern part of Korea	1	C	
+옥상	屋上		On the roof	1	C	
+자매	姉妹		Sisters	1	C	
+전시장	展示場		An exhibition hall	1	C	
+정오	正午		Noon	1	C	
+제대하다	除隊-		Be discharged from the military	2	C	
+즉석	卽席		instantly,impromptu	1	C	
+학과	學科		A department in a college	1	C	
+후회	後悔		repentance,regret	1	C	
+강조	强調		Emphasis or  stress	1	C	
+게시판	揭示板		A notice board or  a bulletin board	1	C	
+과외	課外		Extracurricular work	1	C	
+교내	校內		Inside the school	1	C	
+내적	內的		Internal	1	C	
+불법	佛法		Buddhism	1	C	
+세상에	世上-		In the world	10	C	
+용감하다	勇敢-		To be brave, courageous	4	C	
+위험성	危險性		riskiness,jeapordy	1	C	
+재학	在學		To be in school, be attending school	1	C	
+전시하다	展示-		To display	2	C	
+정기적	定期的		fixed,regular (time sth)	1	C	
+종교적	宗敎的		Of religions	1	C	
+직장인	職場人		A worker	1	C	
+진심	眞心		The whole heart, sincerity	1	C	
+천국	天國		Heaven	1	C	
+타자기	打字機		A typewriter	1	C	
+효도	孝道		Filial piety	1	C	
+귀가	歸家		Returning home	1	C	
+만족스럽다	滿足-		Satisfied	4	C	
+병실	病室		An infirmary	1	C	
+봉사하다	奉仕-		serve,render service	2	C	
+늑대		동물	Wolf	1	C	
+비행장	飛行場		An airfield	1	C	
+습기	濕氣		moisture,humidity	1	C	
+예보	豫報		forecast,predict	1	C	
+소중히	所重-		seriously,with care	3	C	
+수도꼭지	水道-		A faucet,tap	1	C	
+위법	違法		illegality,a breach of the law	1	C	
+육체적	肉體的		Corporeal, of the flesh	1	C	
+음력	陰曆		The lunar calendar	1	C	
+게		동물	A crab	1	C	
+전문직	專門職		Specialty job	1	C	
+제출	提出		presentation,submission	1	C	
+퇴직금	退職金		Retirement grants	1	C	
+교복	校服		School uniform	1	C	
+귀가하다	歸家-		To return home	2	C	
+무관심	無關心		Indifference, unconcern	1	C	
+필수	必須		necessary,indispensable	1	C	
+부인	婦人		Wife	1	C	
+분주하다	奔走-		Be busy,crowded	4	C	
+비판적	批判的		Critical	1	C	
+긴장감	緊張感		Feeling of tension	1	C	
+매주	每週		Every week	3	C	
+문제되다	問題-		Become a problem	2	C	
+불이익	不利益		disadvantage,drawback	1	C	
+서명하다	署名-		To sign	2	C	
+신부	神父		A holy father,priest	1	C	
+잠자리		곤충	Dragonfly	1	C	
+인쇄	印刷		printing,typography	1	C	
+전세	傳貰		renting with a big downpayment and not paying month to month	1	C	
+임신하다	妊娠-		To be pregnant	2	C	
+장례	葬禮		A funeral	1	C	
+지금껏	只今-		So far, till now	3	C	
+지진	地震		Earthquake	1	C	
+참석자	參席者		Persons present	1	C	
+창구	窓口		A window	1	C	
+최저	最低		The lowest, the minimum/lowest price	1	C	
+벌		곤충	A bee	1	C	
+개미		곤충	Ant	1	C	
+횟수	回數		The number of times, the frequency	1	C	
+가능	可能		Possibility	1	C	
+환영하다	歡迎-		To welcome	2	C	
+간접적	間接的		Indirect or  mediate	1	C	
+경영하다	經營-		To manage or  adminster	2	C	
+기념하다	記念-		Commemorate	2	C	
+대강	大綱		General principles	3	C	
+독립하다	獨立-		To become independent	2	C	
+문밖	門-		Outside the door	1	C	
+방송하다	放送-		Broadcast	2	C	
+보충하다	補充-		replenish,replace,fillup	2	C	
+올		올해	This year	6	C	
+불평	不平		Dissatisfaction	1	C	
+서명	署名		signing,autographing	1	C	
+역사학	歷史學		The study of history	1	C	
+요리사	料理師		A chef, a cook	1	C	
+원서	願書		An application, a written request	1	C	
+사회학	社會學		Social science	1	C	
+성적	性的		Sexual	1	C	
+장애인	障碍人		A handicapped person	1	C	
+수		방법	way,method	1	C	
+정반대	正反對		Direct opposition, the exact reverse	1	C	
+진동	振動		vibration,shake	1	C	
+추천	推薦		A recommendation	1	C	
+학점	學點		A unit, a point, a credit	1	C	
+한가하다	閑暇-		To be free, not busy	4	C	
+자격증	資格證		A qualification certificate	1	C	
+진료	診療		Medical examination and treatment	1	C	
+창가	窓-		Next to a window, or, the window’s edge	1	C	
+초조하다	焦燥-		Be impatient, irritated	4	C	
+합격하다	合格-		To pass an exam	2	C	
+화장지	化粧紙		Soft paper used when applying makeup	1	C	
+도망	逃亡		Escape	1	C	
+방면	方面		Direction	1	C	
+법적	法的		Legal	1	C	
+비행	非行		An irregularity	1	C	
+교육자	敎育者		An educator	1	C	
+교재	敎材		Teaching material or  insruction materials	1	C	
+대접하다	待接-		Treatment	2	C	
+무궁화	無窮花		The rose of Sharon	1	C	
+방바닥	房-		room’s floor	1	C	
+세트		set	Set	1	C	
+새		사이	An interval	1	C	
+심리적	心理的		Psychological	1	C	
+위로	慰勞		consolation,solace	1	C	
+이용자	利用者		A user; visitor	1	C	
+입력하다	入力-		To input (data into the computer)	2	C	
+식생활	食生活		Dietary life	1	C	
+연구실	硏究室		A laboratory	1	C	
+의류	衣類		Clothes, dresses; clothing	1	C	
+적응	適應		Adaptation	1	C	
+정리되다	整理-		To be adjusted	2	C	
+차창	車窓		car/train window	1	C	
+창피하다	猖披-		To be ashamed	4	C	
+토론하다	討論-		To debate, discuss	2	C	
+합하다	合-		Harmonize with, be in accord with	2	C	
+항공	航空		An airport	1	C	
+회전	回轉		Revolution, rotation	1	C	
+내달	來-		Next month	1	C	
+독하다	毒-		Be poison	4	C	
+명단	名單		List of names	1	C	
+문구	文句		passage,paragraph	1	C	
+백색	白色		White	1	C	
+사기	士氣		morale,fighting spirit	1	C	
+사망하다	死亡-		To decease,pass away	2	C	
+사무직	事務職		Working in the office not in the factory	1	C	
+소질	素質		temperament,character	1	C	
+연상하다	聯想-		Association of ideas	2	C	
+이해	利害		interests,gains	1	C	
+잠수함	潛水艦		Submarine	1	C	
+지도하다	指導-		To lead, instruct	2	C	
+지적	知的		Intellectual, brainy	1	C	
+방울		물~	A drop	1	C	
+바람		소원	A wish, hope	1	C	
+진로	進路		A course,direction,path	1	C	
+진행자	進行者		Leader of the performance	1	C	
+책임감	責任感		Feeling of responsibility	1	C	
+체온	體溫		Body temperature	1	C	
+통과	通過		Passage	1	C	
+물질적	物質的		Material	1	C	
+백인	白人		Caucasian	1	C	
+회복되다	回復-		To be recovered	2	C	
+희생하다	犧牲-		To sacrifice	2	C	
+본사	本社		Main office	1	C	
+서양인	西洋人		A Westerner	1	C	
+소지품	所持品		one’s things	1	C	
+승리하다	勝利-		To win	2	C	
+여가	餘暇		leisure,spare time	1	C	
+해롭다	害-		To be harmful, injurious	4	C	
+현관문	玄關門		The front door	1	C	
+꼴		모양새	Shape or  form or  appearance	1	C	
+끼		끼니	A meal or  a repast	1	C	
+가능해지다	可能-		To become possible	2	C	
+공연히	空然-		Futile or  vain or  useless	3	C	
+과정	課程		A course or  curriculum	1	C	
+국제적	國際的		International	1	C	
+금고	金庫		A safe or  strongbox	1	C	
+당분간	當分間		For the present	3	C	
+신제품	新製品		A new product	1	C	
+신중하다	愼重-		To be prudent,cautious	4	C	
+예고하다	豫告-		Warn, give advance notice	2	C	
+위반하다	違反-		To violate (the law)	2	C	
+은은하다	隱隱-		To be distant,faint,indistinct	4	C	
+일대	一大		One great/large	6	C	
+입력	入力		Power input	1	C	
+정신없이	精神-		Feel distracted and scatter-brained	3	C	
+정직하다	正直-		honesty,uprightness	4	C	
+최신	最新		Newest, the latest	1	C	
+기술하다	記述-		To describe or give an account of	2	C	
+남북	南北		North and south	1	C	
+납득하다	納得-		To convince, persuade oneself	2	C	
+진실하다	眞實-		Be true, truthful	4	C	
+독창적	獨創的		Original	1	C	
+만점	滿點		Perfect score	1	C	
+매달	每-		Every month	3	C	
+보안	保安		Preservation of the public peace	1	C	
+상징적	象徵的		symbolic,emblematic	1	C	
+색다르다	色-		Be different,novel	4	C	
+세제	洗劑		detergent,cleaning material	1	C	
+시일	時日		time,days	1	C	
+시합	試合		A contest,match	1	C	
+인종	人種		A human race	1	C	
+전문적	專門的		Of a specialist nature	1	C	
+중독	中毒		Poison	1	C	
+지급	支給		supply,pay	1	C	
+출발점	出發點		The starting point of a trip	1	C	
+출판	出版		Publication, publishing	1	C	
+출현하다	出現-		Appearance, turning out	2	C	
+탈출하다	脫出-		To escape, get away from	2	C	
+판사	判事		A judge	1	C	
+허락	許諾		Consent, assent, approval	1	C	
+확신	確信		Conviction, firm belief	1	C	
+건설되다	建設-		To become constructed	2	C	
+변신	變身		Disguise, transformation	1	C	
+부친	父親		A father	1	C	
+사소하다	些少-		Be trifling,insignificant	4	C	
+상쾌하다	爽快-		Be refreshing,exhilirating	4	C	
+순위	順位		order,ranking	1	C	
+역사상	歷史上		In history	1	C	
+연주	演奏		A musical performance	1	C	
+육상	陸上		On land, on the ground	1	C	
+음주	飮酒		Drinking (alcohol)	1	C	
+이별	離別		Parting, separation; divorce	1	C	
+흥미롭다	興味-		To be interesting	4	C	
+각오	覺悟		Readiness or  preparation	1	C	
+개방되다	開放-		To be opened	2	C	
+경고하다	警告-		To warn	2	C	
+경제학	經濟學		Economics	1	C	
+관심사	關心事		A matter of concern and interest	1	C	
+구별되다	區別-		To be separated andistinguished	2	C	
+국사	國史		The history of a country	1	C	
+극작가	劇作家		A dramatist	1	C	
+기적	奇跡		A miracle	1	C	
+명령어	命令語		Directive	1	C	
+전선	戰線		The battle line	1	C	
+정지	停止		stop,an interruption	1	C	
+제의하다	提議-		Make a suggestion	2	C	
+조명	照明		lighting,illumination	1	C	
+조화되다	調和-		harmony,agreement	2	C	
+중단	中斷		interruption,suspension	1	C	
+차선	車線		A traffic lane	1	C	
+초상화	肖像畵		A portrait, a picture	1	C	
+특수성	特殊性		Particularity, distinctiveness	1	C	
+항공기	航空機		An aircraft	1	C	
+농장	農場		A farm, plantation	1	C	
+변화되다	變化-		To be changed	2	C	
+사망	死亡		Death	1	C	
+소화하다	消化-		To digest	2	C	
+순간적	瞬間的		instanteous,momentary	1	C	
+시집가다	媤-		To take a husband	2	C	
+오락	娛樂		Entertainment	1	C	
+우아하다	優雅-		To be elegant,refined	4	C	
+장기간	長期間		For a long period	1	C	
+중단되다	中斷-		To be suspended,stopped	2	C	
+지점	支店		Branch store	1	C	
+진단하다	診斷-		To diagnose	2	C	
+편견	偏見		A prejudice, a bias	1	C	
+환율	換率		The exchange rate (money)	1	C	
+활기	活氣		Vigor, life, vitality	1	C	
+강사	講師		Instructor or  teacher	1	C	
+강수량	降水量		How much rainfall	1	C	
+구청	區廳		A ward or district office	1	C	
+국내외	國內外		The inside and outside of a country or  home and abroad	1	C	
+금지되다	禁止-		To be forbidden or prohibited	2	C	
+기도하다	祈禱-		To pray	2	C	
+기성08	旣成		To be already existing or  established	1	C	
+시청률	視聽率		Popularity rating	1	C	
+여군	女軍		A woman soldier	1	C	
+연인	戀人		A sweetheart	1	C	
+피디		PD	PD – a newspaper article	1	C	
+바퀴		네 ~	Wheel	5	C	
+연장	延長		Extension, prolongation	1	C	
+예선	豫選		A preliminary match/election	1	C	
+은행나무	銀杏-		A ginko tree	1	C	
+장차	將次		In the future, someday	3	C	
+정신과	精神科		Psychiatry	1	C	
+조절	調節		regulation,adjustment	1	C	
+급증하다	急增-		Surge or  sudden rapid increase	2	C	
+모집	募集		Collection	1	C	
+일일이	一一-		One by one, individually	3	C	
+발달되다	發達-		Be developed	2	C	
+비상	非常		Emergency	1	C	
+소망	所望		desire,wish,hope	1	C	
+시장	市長		Mayor	1	C	
+칠하다	漆-		Paint, coat	2	C	
+표시	表示		A sign,signal	1	C	
+표시	標示		A sign, signal	1	C	
+열중하다	熱中-		Enthusiasm, zeal	2	C	
+하반기	下半期		The second half of the year	1	C	
+한하다	限-		Limit, restrict	2	C	
+해답	解答		A solution to a problem, an answer to a question	1	C	
+해소하다	解消-		To be dissolved, disorganized	2	C	
+허락하다	許諾-		Consent, agree to	2	C	
+확립하다	確立-		establish,settle,fix	2	C	
+확신하다	確信-		To be confident of	2	C	
+흥분	興奮		excitement,excitation	1	C	
+흥분하다	興奮-		be/grow excited	2	C	
+약해지다	弱-		To become weak	2	C	
+영웅	英雄		A hero, a great man	1	C	
+유산	遺産		An inheritence, property left behind	1	C	
+의도적	意圖的		Purposefully	1	C	
+임신부	妊娠婦		An expectant mother	1	C	
+장기적	長期的		Long-term	1	C	
+전설	傳說		A tradition, a legend	1	C	
+고집	固執		Persistence or  stubborness	1	C	
+급격히	急激-		Be rapid or  sudden	3	C	
+기막히다	氣-		Be at a loss for words	4	C	
+논리적	論理的		Logical	1	C	
+대기하다	待機-		Be ready for the opportunity	2	C	
+대접	待接		Treatment	1	C	
+보자기	褓-		A diver	1	C	
+부상	負傷		A wound,injury	1	C	
+상관없이	相關-		Without anything to do with	3	C	
+선원	船員		A crew, a ship’s company	1	C	
+실망하다	失望-		To disappoint	2	C	
+존경하다	尊敬-		Respect	2	C	
+종소리	鐘-		The sound of a bell	1	C	
+중순	中旬		The second 10 days in a month	1	C	
+지각	知覺		perception,consciousness	1	C	
+직선	直線		A straight line	1	C	
+체험하다	體驗-		To experience, to undergo	2	C	
+통일하다	統一-		To unify, consolidate	2	C	
+학위	學位		Academic rank	1	C	
+회의	懷疑		Doubt, skepticism	1	C	
+개개인	個個人		Individuals or  every person	1	C	
+선전	宣傳		Propaganda	1	C	
+설립하다	設立-		found,establish	2	C	
+수집	蒐集		Collection	1	C	
+수필	隨筆		An essay	1	C	
+신기하다	新奇-		To be novel,original	4	C	
+신비	神秘		Mystery	1	C	
+신설	新設		A new theory	1	C	
+실망	失望		Disappointment	1	C	
+용기	容器		A container, a vessel	1	C	
+유지되다	維持-		To be maintained, preserved	2	C	
+가입하다	加入-		Join	2	C	
+감소	減少		Decrease or  dimunition	1	C	
+구분되다	區分-		To be put into sections	2	C	
+구입	購入		Purchase or  buying	1	C	
+기호	記號		Taste or  likes	1	C	
+보관	保管		custody,deposit	1	C	
+보존하다	保存-		preserve,conserve	2	C	
+사상	史上		In history	1	C	
+사춘기	思春期		adolescence,puberty	1	C	
+상당수	相當數		plenty/a lot of	1	C	
+손실	損失		Loss	1	C	
+운행	運行		movement,revolution	1	C	
+인간성	人間性		Human nature	1	C	
+인상적	印象的		Impressive	1	C	
+전시	展示		exhibition,display	1	C	
+주한	駐韓		Residing in korea	1	C	
+중년	中年		Middle-aged	1	C	
+포함	包含		inclusion,comprehension	1	C	
+형식적	形式的		Related to the form	1	C	
+자정	子正		Midnight	1	C	
+종합하다	綜合-		synthesize,integrate	2	C	
+최후	最後		The last, the end, the conclusion	1	C	
+토론회	討論會		A debating society/contest	1	C	
+호주머니	胡-		A pocket	1	C	
+관계없이	關係-		Without any relation	3	C	
+마찰	摩擦		Rubbing, chafing	1	C	
+만족	滿足		Satisfaction	1	C	
+쪽		부분	A portion, a side	5	C	
+묘사	描寫		Description	1	C	
+문화적	文化的		Cultural	1	C	
+미혼	未婚		Unmarried	1	C	
+발전되다	發展-		Be advanced, prospering	2	C	
+방송사	放送社		Broadcasting company	1	C	
+방지하다	防止-		To prevent, check	2	C	
+사표	辭表		A written resignation	1	C	
+생방송	生放送		A live broadcast	1	C	
+쌍둥이	雙-		Twins	1	C	
+폐지	廢止		Abolition, to not use, to do away with	1	C	
+해설	解說		Explanation, elucidation	1	C	
+모금		한 ~	Money raising	5	C	
+흑백	黑白		Black and white	1	C	
+희생	犧牲		A sacrifice	1	C	
+경비	經費		Expenses or  outlay	1	C	
+경제력	經濟力		Economic power	1	C	
+금하다	禁-		1) suppress or  restraint 2) abstain from or  restrain from	2	C	
+기대되다	期待-		To be expected	2	C	
+답변	答辯		An answer	1	C	
+대비	對備		Provision, preparation	1	C	
+대체	大體		An outline, summary	3	C	
+도심	都心		The heart of the city	1	C	
+왕자	王子		Prince	1	C	
+위성	衛星		A satellite	1	C	
+유형	類型		A similar type	1	C	
+일상적	日常的		Daily, of the everyday things	1	C	
+전공하다	專攻-		To major in something	2	C	
+전후	前後		sequence,order,front and rear	1	C	
+정상	正常		normalcy,normality	1	C	
+정상적	正常的		normal,like usual	1	C	
+질적	質的		Qualitative	1	C	
+충격적	衝擊的		Shocking	1	C	
+치아	齒牙		A tooth	1	C	
+다정하다	多情-		To be affectionate, warm-hearted	4	C	
+저편	-便		That side,direction	8	C	
+망원경	望遠鏡		Telescope	1	C	
+모범	模範		model,example	1	C	
+무리하다	無理-		Be impossible	4	C	
+방해하다	妨害-		Interrupt, interfere	2	C	
+상류	上流		The upper classes,upstream	1	C	
+선명하다	鮮明-		To be clear,distinct	4	C	
+선호하다	選好-		To prefer	2	C	
+성공적	成功的		Successfully	1	C	
+소규모	小規模		Small scale	1	C	
+시야	視野		Visual field	1	C	
+실현되다	實現-		To realize,bring to fruition	2	C	
+의외로	意外-		unexpectedly,surprisingly	3	C	
+자살	自殺		Suicide	1	C	
+제시	提示		Presentation	1	C	
+통화	通貨		Currency, the unit of circulation	1	C	
+회관	會館		An assembly hall	1	C	
+공연장	公演場		Auditorium	1	C	
+국적	國籍		Nationality or  citizenship	1	C	
+근래	近來		Of late or  recently	1	C	
+적성	適性		Aptitude	1	C	
+단독	單獨		Independence	1	C	
+바	bar		Bar	1	C	
+서적	書籍		books,publications	1	C	
+소화	消化		Digestion	1	C	
+수험생	受驗生		A student preparing for an examination	1	C	
+신세대	新世代		The new generation	1	C	
+연구원	硏究員		Researcher	1	C	
+연애	戀愛		Love, tender, passion	1	C	
+요약하다	要約-		summary,condense,abridge	2	C	
+전망하다	展望-		Have a view of, observe	2	C	
+집단적	集團的		Collectively (of people)	1	C	
+차이점	差異點		A point of difference	1	C	
+철도	鐵道		Railroad	1	C	
+총각	總角		A bachelor, an unmarried man	1	C	
+홍수	洪水		A flood, inundation	1	C	
+간접	間接		Indirectness	1	C	
+강력히	强力-		With great strengh or  or might	3	C	
+개선되다	改善-		To be renovated or  to get improved	2	C	
+결심	決心		Determination or  resolution	1	C	
+교직	敎職		The teaching profession	1	C	
+구속하다	拘束-		To arrest or  restrain	2	C	
+귀중하다	貴重-		To be precious	4	C	
+전달	傳達		Delivery	1	C	
+철학자	哲學者		Philosopher	1	C	
+통화	通話		Conversation by telephone	1	C	
+특이하다	特異-		Be peculiar, special, unique	4	C	
+필연적	必然的		Necessity, necessary	1	C	
+강도	强度		Intensity or  strength	1	C	
+급히	急-		Fast or  quickly or  in a hurry	3	C	
+기념	記念		Commemoration	1	C	
+민속	民俗		Folk-customs	1	C	
+입대	入隊		Enlistment, enrollment	1	C	
+말다		감다	Roll up, convolve	1	C	
+교환하다	交換-		To exchange	2	C	
+난리	亂離		A war, revolt	1	C	
+보존	保存		Preservation	1	C	
+보호되다	保護-		To be protected	2	C	
+상관	相關		Concern, relation	1	C	
+설명되다	說明-		To be explained	2	C	
+세련되다	洗練-		To be polished,refined	4	C	
+열기	熱氣		Heat, hot air	1	C	
+위로하다	慰勞-		To console, soothe somebody	2	C	
+일치	一致		Agreement, accord	1	C	
+재생	再生		revival,restoration to life	1	C	
+매달다			Bind up, hang:  묶어서 드리우거나 걸다.	1	C	
+주년	周年		One whole year	5	C	
+중단하다	中斷-		To interrupt, to stop	2	C	
+중대하다	重大-		importance,gravity	4	C	
+중심지	中心地		A central place	1	C	
+집중적	集中的		Related to the concentration	1	C	
+출판사	出版社		A publishing company	1	C	
+탁자	卓子		A table, desk	1	C	
+풍속	風俗		Manners, customs, morals	1	C	
+행운	幸運		Good luck, good fortune	1	C	
+간섭	干涉		Interfere or  meddle	1	C	
+갈증	渴症		Thirst	1	C	
+구별	區別		A distinction or  a separation	1	C	
+보도되다	報道-		To be reported	2	C	
+본부	本部		The headquarters	1	C	
+소극적	消極的		Passivity,passiveness	1	C	
+소용	所用		use,usefulness	1	C	
+순식간	瞬息間		A brief instant	1	C	
+시도	試圖		An attempt,test	1	C	
+시집	詩集		A collection of poems	1	C	
+연령	年齡		Age, years of age	1	C	
+예비	豫備		Preparation, reserve	1	C	
+전시회	展示會		An exhibition, show, display	1	C	
+정치학	政治學		Political science	1	C	
+주문	注文		An order, a request	1	C	
+탁월하다	卓越-		Be excellent, prominished	4	C	
+토하다	吐-		To vomit	2	C	
+가사	歌詞		Words or  lyrics	1	C	
+가입자	加入者		Member or  subscriber	1	C	
+감소하다	減少-		To reduce or diminish	2	C	
+결과적	結果的		Resultative	1	C	
+교체	交替		Shift or  change or  alternate	1	C	
+대표하다	代表-		Represent	2	C	
+예방하다	豫防-		To protect, prevent, fend off	2	C	
+유의하다	留意-		To bear in mind, be heedful of	2	C	
+이해되다	理解-		To be understood	2	C	
+인하	引下		reduction,lowering	1	C	
+작성	作成		editing,composition	1	C	
+연결	連結		Connection, linking	1	C	
+용서하다	容恕-		To pardon, to forgive	2	C	
+우정	友情		Feeling of friendship	1	C	
+육군	陸軍		The army	1	C	
+음식점	飮食店		Restaurant	1	C	
+주요하다	主要-		To be chief,principal,leading	4	C	
+참조	參照		reference,comparison	1	C	
+허용되다	許容-		To be permitted, approved	2	C	
+가입	加入		Entrance	1	C	
+가정	假定		Supposition	1	C	
+친정	親庭		A woman’s maiden home and family	1	C	
+공식적	公式的		Formal or  procedural	1	C	
+기독교	基督敎		Christianity	1	C	
+목록	目錄		Catalogue	1	C	
+반성하다	反省-		Examine oneself	2	C	
+별명	別名		nickname,alias	1	C	
+보전	保全		ingegrity,preservation	1	C	
+소유하다	所有-		To possess,hold	2	C	
+반복되다	反復-		To be repeated	2	C	
+발전	發電		Generate electricity	1	C	
+방해	妨害		An obstacle, hindrance	1	C	
+본인	本人		Person in question	1	C	
+상점	商店		A shop,store	1	C	
+수백	數百		Hundreds	6	C	
+실장	室長		boss,president	1	C	
+예정되다	豫定-		Make a program, set a schedule	2	C	
+안내	案內		Guidance, conducting	1	C	
+적응하다	適應-		Be suited to, adapted to	2	C	
+제공	提供		An offer	1	C	
+참가	參加		participation,joining	1	C	
+추석	秋夕		Korean thanksgiving	1	C	
+충돌	衝突		A collision, clash; discord	1	C	
+통로	通路		A passage, a way, an aisle	1	C	
+해소	解消		Dissolution, disorganization	1	C	
+현대인	現代人		A modern person	1	C	
+혜택	惠澤		A favor, benefit	1	C	
+화재	火災		A fire, a blaze	1	C	
+간격	間隔		A space or  interval	1	C	
+고함	高喊		A shout or  yell	1	C	
+공격하다	攻擊-		To attack	2	C	
+기록되다	記錄-		To be recorded or written down	2	C	
+노선	路線		Route	1	C	
+도망치다	逃亡-		To make an escape	2	C	
+벌금	罰金		A fine	1	C	
+봉사	奉仕		service,attendance	1	C	
+부서	部署		one’s post,duty	1	C	
+소형	小型		Small size	1	C	
+신인	新人		A new man	1	C	
+악몽	惡夢		Nightmare	1	C	
+극복	克服		Conquest or  subjugation	1	C	
+냉동	冷凍		Refrigeration	1	C	
+대개	大槪		Mostly, for the most part	1	C	
+수집하다	蒐集-		To collect	2	C	
+승객	乘客		Passenger	1	C	
+외모	外貌		Outward appearance	1	C	
+전반	全般		The whole, all, general	1	C	
+학술	學術		Science, learning, scolarship	1	C	
+혈액	血液		Blood	1	C	
+영향력	影響力		Influence, power to influence	1	C	
+이내	以內		within,less than	1	C	
+인간적	人間的		Personal	1	C	
+재능	才能		talent,ability	1	C	
+지불하다	支拂-		To pay	2	C	
+파출소	派出所		Small, local police box	1	C	
+한문	漢文		Chinese writing, chinese classics	1	C	
+결승	決勝		The decision of the final round of a contest	1	C	
+인간관계	人間關係		Human relations	1	C	
+국왕	國王		A king or  a monarch	1	C	
+기술자	技術者		Technician	1	C	
+도전	挑戰		Challenge, defiance	1	C	
+보조	補助		assistance,aid	1	C	
+불편	不便		Inconvenience	1	C	
+사과	謝過		An apology	1	C	
+수면	睡眠		sleep,slumber	1	C	
+수천	數千		Thousands	6	C	
+승부	勝負		A contest,match	1	C	
+시기	時期		The time, the season	1	C	
+신념	信念		belief,faith	1	C	
+가라앉다			To sink (calm,settle,subside)	1	C	
+신청하다	申請-		To apply (for)	2	C	
+실은	實-		In reality, to tell the truth	3	C	
+심판	審判		referencing,umpireship	1	C	
+양심	良心		Conscience	1	C	
+이사장	理事長		A director	1	C	
+이자	利子		Interest	1	C	
+자세하다	仔細-		Be detailed	4	C	
+제안	提案		A proposal,suggestion	1	C	
+제안하다	提案-		To propose,make a suggestion	2	C	
+진급	進級		Promotion	1	C	
+표준	標準		A standard, norm, criteria	1	C	
+항구	港口		A port, a harbor	1	C	
+허용	許容		Permission, allowance	1	C	
+공군	空軍		The air force	1	C	
+쾌감	快感		A pleasant sensation, a good feeling	1	C	
+탄생	誕生		Birth	1	C	
+하필	何必		Why necessarily? Why of all things?	3	C	
+활용	活用		Practical use	1	C	
+거액	巨額		A large sum of money	1	C	
+고집하다	固執-		To be stubborn or  persistent	2	C	
+교훈	敎訓		Edification or  giving instructions to	1	C	
+단편	短篇		A piece, fragment	1	C	
+명확하다	明確-		clear,precise	4	C	
+생산자	生産者		A producer	1	C	
+선진	先進		seniority,advance	1	C	
+금액	金額		Amount ofmoney	1	C	
+비행	飛行		Flying, aviation	1	C	
+상관없다	相關-		To not be of concern	4	C	
+수명	壽命		Life span	1	C	
+신기하다	神奇-		To be marvelous,astounding	4	C	
+예감	豫感		A presentiment, a premonition	1	C	
+음식물	飮食物		Anything to eat or drink	1	C	
+죄인	罪人		A criminal	1	C	
+주의하다	注意-		Pay attention to	2	C	
+그이			That person or  he or him / she or her	8	C	
+유적	遺跡		Remains, relics,ruins	1	C	
+일생	一生		one’s lifetime	1	C	
+정보화	情報化		Change to an information orientation	1	C	
+창작	創作		Creation, origination	1	C	
+축소	縮小		Reduction, a cutback	1	C	
+취향	趣向		Taste, liking, one’s inclinations	1	C	
+탄생하다	誕生-		To be born	2	C	
+학급	學級		A class (school)	1	C	
+해군	海軍		The navy	1	C	
+간판	看板		A signboard	1	C	
+관리하다	管理-		To manage or  control or  supervise or  manage	2	C	
+근거하다	根據-		To base sth on sth	2	C	
+지급하다	支給-		To pay,allow,furnish sth	2	C	
+논하다	論-		Argue, discuss,debate	2	C	
+도덕	道德		Immorality	1	C	
+보고하다	報告-		Report to a person	2	C	
+사무소	事務所		Office	1	C	
+상인	商人		merchant,trader	1	C	
+선언하다	宣言-		declare,proclaim,announce	2	C	
+소원	所願		one’s desire	1	C	
+완성되다	完成-		To be accomplished	2	C	
+서민	庶民		Common people	1	C	
+소수	少數		A small number, a few	1	C	
+연간	年間		For a year	1	C	
+영화제	映畵祭		Movie festival	1	C	
+의심	疑心		A doubt	1	C	
+그놈			That person or  that guy	8	C	
+적합하다	適合-		suitability,fitness	4	C	
+조절하다	調節-		To regulate,tune	2	C	
+임무	任務		A duty, an office, a task	1	C	
+자연히	自然-		Naturally	3	C	
+전용	專用		Exclusive or private use	1	C	
+지극히	至極-		very,extremely	3	C	
+청하다	請-		ask,request	2	C	
+가상	假想		Imagination	1	C	
+개방하다	開放-		To open or  to throw open	2	C	
+국산	國産		A country’s product	1	C	
+그대			You or  thou	8	C	
+면적	面積		area,dimensions	1	C	
+반성	反省		Reflection	1	C	
+거절하다	拒絶-		Refuse or  reject	2	C	
+구별하다	區別-		To distinguish between A and B	2	C	
+다행	多幸		Good luck	1	C	
+묘사하다	描寫-		To describe	2	C	
+보장되다	保障-		Be secured	2	C	
+부분적	部分的		Departmental	1	C	
+불행	不幸		Unhappiness	1	C	
+비명	悲鳴		A scream	1	C	
+순수	純粹		purity,genuineness	1	C	
+실질적	實質的		substantial,essential	1	C	
+완성하다	完成-		To accomplish, to end successfully	2	C	
+고통스럽다	苦痛-		Be painful or  torment	4	C	
+곤란하다	困難-		Difficulty or  trouble	4	C	
+공중	空中		The air or  the sky	1	C	
+공해	公害		Environmental pollution	1	C	
+대다수	大多數		A large majority	1	C	
+무료	無料		Free	1	C	
+상징하다	象徵-		Symbolize	2	C	
+실현하다	實現-		To realize,bring to fruition	2	C	
+안정되다	安定-		To be stable	2	C	
+연설	演說		A public speech	1	C	
+염려	念慮		anxiety,worry	1	C	
+일자	日子		A date, the number of days	1	C	
+전달되다	傳達-		To be delivered	2	C	
+근로	勤勞		Labor or  exertion	1	C	
+부담하다	負擔-		bear,shoulder a responsibility	2	C	
+부회장	副會長		A vice president	1	C	
+성실하다	誠實-		Be ripe	4	C	
+실제	實際		The truth, a fact	3	C	
+이상적	理想的		Abnormal	1	C	
+절망	絶望		despair,hopelessness	1	C	
+제시되다	提示-		To be presented	2	C	
+주방	廚房		A kitchen, a cookroom	1	C	
+창조하다	創造-		Create	2	C	
+진출하다	進出-		Penetrate into, advance	2	C	
+통과하다	通過-		Passage through	2	C	
+투명하다	透明-		To be transparent, clear	4	C	
+경력	經歷		one’s personal history	1	C	
+분량	分量		quantity,measure	1	C	
+불과	不過		Only, not more than	3	C	
+수없이	數-		Be unable to do	3	C	
+승진	昇進		promotion,advancement	1	C	
+제한되다	制限-		To be restricted,limited	2	C	
+지속되다	持續-		Be lasting a long time, be continous	2	C	
+평가되다	評價-		To be appraised	2	C	
+해안	海岸		The seashore, the coast	1	C	
+흑인	黑人		A Negro	1	C	
+사방	四方		The four directions	1	C	
+실현	實現		realization,materialization	1	C	
+연예인	演藝人		A performer, an entertainer	1	C	
+해당되다	該當-		To be applied/applicable under	2	C	
+감히	敢-		Daringly or  boldly	3	C	
+강요하다	强要-		Insist on	2	C	
+관습	慣習		Custom or  usage	1	C	
+명의	名義		name,title	1	C	
+밀접하다	密接-		Be close,intimate with	4	C	
+심사	審査		judgment,examination	1	C	
+유사하다	類似-		To be similar, to resemble	4	C	
+일반인	一般人		Of the general public	1	C	
+작성하다	作成-		To edit or compose, write up	2	C	
+정기	定期		A fixed time period	1	C	
+제의	提議		A proposal,an offer	1	C	
+화장	化粧		Makeup	1	C	
+강렬하다	强烈-		Intense or  strong or  severe	4	C	
+면하다	免-		escape,avoid	2	C	
+모색하다	摸索-		Evening twilight	2	C	
+초반	初盤		The opening part (of a game of baduk)	1	C	
+폭넓다	幅-		To be broad	4	C	
+표현되다	表現-		To have been expressed	2	C	
+학번	學番		Year of graduation	1	C	
+허가	許可		Permission, grant, leave	1	C	
+곡식	穀食		Cereals or  grain	1	C	
+별다르다	別-		Be of a peculiar kind	4	C	
+부품	部品		Parts, accessories	1	C	
+상담	相談		Consultation	1	C	
+속담	俗談		A proverb,saying	1	C	
+북부	北部		The north part	1	C	
+상당	相當		proper,fit,suitable	1	C	
+오염되다	汚染-		To be polluted, contaminated	2	C	
+오해	誤解		Misunderstanding	1	C	
+의식	儀式		A ceremony	1	C	
+제한하다	制限-		To restrict,limit	2	C	
+존중하다	尊重-		appreciate,esteem,value	2	C	
+음성	音聲		A voice	1	C	
+장식	裝飾		Decoration	1	C	
+전개하다	展開-		To unfold,evolve,spread out	2	C	
+전반적	全般的		over-all,all	1	C	
+한정되다	限定-		To be limiited, qualified	2	C	
+감옥	監獄		Prison	1	C	
+건전하다	健全-		Health or  soundness or  vitality	4	C	
+광장	廣場		An open space or  a plaza or  public square	1	C	
+당당하다	堂堂-		Dignified	4	C	
+댐	dam		Dam	1	C	
+물리학	物理學		Physics	1	C	
+피해자	被害者		A sufferer, the injured party	1	C	
+필수적	必須的		necessary,indispensable	1	C	
+학용품	學用品		School things, supplies	1	C	
+강남	江南		South of a river	1	C	
+구속되다	拘束-		To be arrested	2	C	
+방지	防止		Prevention, check	1	C	
+보장	保障		guarantee,security	1	C	
+억울하다	抑鬱-		To be regrettable, disappointing	4	C	
+요구되다	要求-		To be requested, claimed	2	C	
+학부모	學父母		Mothers of the students	1	C	
+합리적	合理的		Rational	1	C	
+해석하다	解釋-		To intrepret, construe	2	C	
+주의	注意		attention,notice	1	C	
+통계	統計		Statistics	1	C	
+나침반	羅針盤		A compass	1	C	
+농부	農夫		A farmer	1	C	
+상상력	想像力		Imaginative powers	1	C	
+예방	豫防		Prevention, protection	1	C	
+완성	完成		completion,accomplishment	1	C	
+유리하다	有利-		To be profitable, favorable	4	C	
+증명하다	證明-		To prove,show,bear	2	C	
+지적되다	指摘-		To be pointed out to	2	C	
+보장하다	保障-		To secure,guarantee	2	C	
+예외	例外		An exception	1	C	
+완전	完全		Perfection, completeness	1	C	
+제작하다	製作-		To produce,manufacture	2	C	
+최대한	最大限		At the most, at the maximum	1	C	
+휴식	休息		Rest, take a rest	1	C	
+생산되다	生産-		To be produced	2	C	
+진단	診斷		Diagnosis	1	C	
+질병	疾病		A disease, sickness	1	C	
+각기	各其		Each or  severally or  respectively	3	C	
+향상	向上		Improve; elevation,rise	1	C	
+관찰	觀察		Observation or  survey	1	C	
+군사	軍士		A soldier or  a private	1	C	
+귀신	鬼神		A ghost	1	C	
+기초하다	基礎-		Make the basis for	2	C	
+실습	實習		Actual training,practice	1	C	
+자율	自律		self-control,autonomy	1	C	
+집중되다	集中-		To concentrate	2	C	
+창조적	創造的		Creatively	1	C	
+천장	天障		The ceiling	1	C	
+해결되다	解決-		To be settled, resolved	2	C	
+대합실	待合室		A waiting room	1	C	
+매장	賣場		A store, shop	1	C	
+명칭	名稱		A name,title	1	C	
+상업	商業		commerce,trade	1	C	
+지출	支出		Expenses, expenditure	1	C	
+개선하다	改善-		To renovate or  to improve	2	C	
+계좌	計座		Account	1	C	
+말기	末期		The end, final period	1	C	
+망하다	亡-		Go to ruin	2	C	
+문서	文書		A document	1	C	
+기타	其他		The others or  the rest	1	C	
+실태	實態		The actual conditions,reality	1	C	
+애정	愛情		Love for a person, affection	1	C	
+접하다	接-		adjoin,be adjacent to	2	C	
+정성	精誠		True heart,devotion	1	C	
+추가	追加		An addition	1	C	
+해석	解析		Analysis, analytical research	1	C	
+확인되다	確認-		To be confirmed	2	C	
+가하다	加-		To add	2	C	
+최종	最終		last,final,terminal	1	C	
+검사	檢事		A public prosecutor	1	C	
+대신하다	代身-		Relieve, replace another	2	C	
+비율	比率		ratio,percentage	1	C	
+생물	生物		A living thing	1	C	
+소음	騷音		A noise,cacaphony	1	C	
+양국	兩國		Both countries	1	C	
+중부	中部		The center, middle part	1	C	
+항의	抗議		A protest	1	C	
+해당	該當		Come/fall under the purview of	1	C	
+가구	家口		Family	1	C	
+극히	極-		Exceedingly or  extremely	3	C	
+대륙	大陸		A continent	1	C	
+범인	犯人		A criminal	1	C	
+손해	損害		damage,injury	1	C	
+증권사	證券社		Securities corporation	1	C	
+초원	草原		A plain, a prarie	1	C	
+대출	貸出		Lending	1	C	
+바치다	드리다		Give, offer	2	C	
+발표되다	發表-		Be announced	2	C	
+부정하다	否定-		Be uncertain,irregular	2	C	
+소유자	所有者		Possessor	1	C	
+액수	額數		A sum, an amount	1	C	
+직전	直前		Just immediately before	1	C	
+짐작하다	斟酌-		To guess, infer	2	C	
+택하다	擇-		Choose, select	2	C	
+설치되다	設置-		To be established	2	C	
+총리	總理		General overseeing, presiding over	1	C	
+무리	無理		Be unreasonable	1	C	
+정면	正面		The front, the facade	1	C	
+개국	個國		The foundation of a country	5	C	
+근원	根源		The origin or  root or  source	1	C	
+검토	檢討		An examination or  investigation or  study	1	C	
+살인	殺人		Murder	1	C	
+원			Goodness! Gracious!	10	C	
+성질	性質		naure,disposition	1	C	
+자판	字板		Keyboard	1	C	
+중반	中盤		At the middle stage (of a game or contest, or otherwise)	1	C	
+지시하다	指示-		To direct, instruct	2	C	
+특수	特殊		characteristic,distinct,unique	1	C	
+기획	企劃		Planning	1	C	
+본성	本性		Original nature or character	1	C	
+생산력	生産力		Productive capacity	1	C	
+정치인	政治人		Politician	1	C	
+의학	醫學		Medical science	1	C	
+창조	創造		Creation	1	C	
+홍보	弘報		Public information, public relations	1	C	
+구분하다	區分-		To divide or  to classify	2	C	
+사설	社說		An editorial	1	C	
+승리	勝利		A victory	1	C	
+좌우	左右		Left and right	1	C	
+수십	數十		Tens of sth	6	C	
+전개되다	展開-		To be unfolded,spread out	2	C	
+회견	會見		An interview, a meeting	1	C	
+흔적	痕跡		traces,signs,evidences	1	C	
+고전	古典		A classic in literature	1	C	
+비난	非難		Criticism, reproach	1	C	
+메우다		메다'의 사동사	To carry,attach;put on	1	C	
+아하			Dear me!  Goodness!	10	C	
+지지	支持		support,backing	1	C	
+경고	警告		Warning	1	C	
+공개하다	公開-		Open to the public	2	C	
+논쟁	論爭		Controversy, argument	1	C	
+성명	聲明		A declaration,statement	1	C	
+관리	官吏		A government official	1	C	
+국제화	國際化		Internationalization	1	C	
+근육	筋肉		Muscles	1	C	
+아냐			No, that’s not the case	10	C	
+품목	品目		The name of an article, a list of articles	1	C	
+설치	設置		establisment,institution	1	C	
+업종	業種		Types of industry	1	C	
+운전사	運轉士		The driver (of a taxi)	1	C	
+지속적	持續的		Continuous	1	C	
+아유			Good heavens!	10	C	
+차별	差別		distinction,differentiation	1	C	
+구분	區分		A division or  section	1	C	
+분노	憤怒		rage,anger	1	C	
+의무	義務		A duty, an obligation	1	C	
+요청하다	要請-		To ask for, to request	2	C	
+일치하다	一致-		Agree with, to be in accord with	2	C	
+뭘			What (implicit directobject)?	10	C	
+정치권	政治權		Political rights	1	C	
+대비하다	對備-		Provide for, prepare onself for	2	C	
+영혼	靈魂		A soul, a spirit	1	C	
+후기	後期		The latter term/period	1	C	
+비중	比重		Specific gravity	1	C	
+예컨대	例-		For example, such as	3	C	
+전개	展開		unfolding,development,expansion	1	C	
+접촉	接觸		contact,touch	1	C	
+경기	景氣		The business market’s state	1	C	
+계곡	溪谷		A valley or  gorge	1	C	
+침묵	沈默		Silence	1	C	
+표면	表面		Front, surface, exterior	1	C	
+객관적	客觀的		Objective	1	C	
+부대	部隊		A detachment, squad	1	C	
+실체	實體		substance,essence	1	C	
+엄격하다	嚴格-		To be strict, serious	4	C	
+완전하다	完全-		To be perfect and faultless	4	C	
+증가	增加		An increase,augmentation	1	C	
+출연	出演		Going on stage	1	C	
+특정하다	特定-		Specify	4	C	
+공식	公式		A formula or  formality	1	C	
+명예	名譽		Honor	1	C	
+심정	心情		one’s heart, one’s feelings	1	C	
+형사	刑事		A criminal, penal case	1	C	
+희곡	戱曲		A drama, a play	1	C	
+접근하다	接近-		approach,get near	2	C	
+기후	氣候		Climate or  weather	1	C	
+대응하다	對應-		Cope or correspond to	2	C	
+인연	因緣		Cause and occasion	1	C	
+일행	一行		A party, a troupe; a row, a line	1	C	
+지도	指導		Instruction, guidance	1	C	
+지식인	知識人		An intellectual	1	C	
+진지하다	眞摯-		To be serious, earnest	4	C	
+호흡	呼吸		Respiration, breath	1	C	
+연기자	演技者		A performer, an actor	1	C	
+별도	別途		A separate way	1	C	
+지경	地境		A boundary,situation,state	5	C	
+진행	進行		Progress, advance	1	C	
+통증	痛症		An ache, pain	1	C	
+하천	河川		A river, watercourse	1	C	
+화학	化學		Chemistry	1	C	
+남부	南部		The south part	1	C	
+건설하다	建設-		To construct or  erect	2	C	
+경쟁력	競爭力		Competitiveness	1	C	
+온갖			All kinds, all sorts	6	C	
+문자	文字		letters,character	1	C	
+제작	製作		manufacture,production	1	C	
+구입하다	購入-		Purchase or  buying	2	C	
+선장	船長		A captain	1	C	
+시점	時點		Point in time	1	C	
+세계관	世界觀		A worldview	1	C	
+의존하다	依存-		To depend on, rely on	2	C	
+해당하다	該當-		To be applied/applicable under	2	C	
+관념	觀念		An idea or  notion	1	C	
+여건	與件		A postulate, a given condition	1	C	
+통제	統制		control,regulation	1	C	
+성장하다	成長-		To grow,be brought up	2	C	
+소속	所屬		Belong to, attached to	1	C	
+공포	恐怖		Fear or  dread	1	C	
+평가하다	評價-		To evaluate, estimate, judge	2	C	
+영양	營養		Nutrition	1	C	
+육체	肉體		The flesh, the body	1	C	
+대기	大氣		The atmosphere	1	C	
+독립	獨立		Independence	1	C	
+차량	車輛		vehicles,cars	1	C	
+본질	本質		True nature,essence	1	C	
+신분	身分		Social position	1	C	
+실시되다	實施-		To be enforced	2	C	
+증거	證據		evidence,proof	1	C	
+초점	焦點		A focus, a focal point	1	C	
+좋아			“That’s good”	10	C	
+필요성	必要性		Necessity	1	C	
+부위	部位		A region,part	1	C	
+설치하다	設置-		To found,establish,create	2	C	
+지시	指示		Directions, orders	1	C	
+형성하다	形成-		To form, make, take shape	2	C	
+무기	武器		Weapon	1	C	
+처지	處地		A situation,circumstances	1	C	
+양	兩		Both, two	6	C	
+보도하다	報道-		To report,inform	2	C	
+인상	引上		pulling/drawing up	1	C	
+태아	胎兒		A fetus, an unborn child	1	C	
+민주	民主		Democracy	1	C	
+여인	女人		beauty,belle	1	C	
+운영하다	運營-		manage,administer	2	C	
+아무런			No sort of	6	C	
+출산	出産		Child birth	1	C	
+선진국	先進國		A developed country	1	C	
+재판	裁判		A trial	1	C	
+제자	弟子		A disciple	1	C	
+회복	回復		Recovery, recuperation	1	C	
+구역	區域		A zone or  district	1	C	
+대응	對應		Confrontation, opposition	1	C	
+발휘하다	發揮-		Display, exhibit	2	C	
+소비	消費		Consumption	1	C	
+심장	心臟		The heart	1	C	
+직접적	直接的		Directly, immediately	1	C	
+진실	眞實		Truth, sincerity	1	C	
+필자	筆者		The writer, author	1	C	
+뱉다			Spit	2	C	
+물가	物價		Prices of products	1	C	
+소중하다	所重-		To be important,valuable	4	C	
+의문	疑問		A question, a doubt	1	C	
+압력	壓力		pressure,stress	1	C	
+증권	證券		securities,document,deed	1	C	
+직후	直後		Immediately after	1	C	
+본	本		An example	6	C	
+토대	土臺		A foundation, a base	1	C	
+의복	衣服		Clothes, garments	1	C	
+체조	體操		Gymnastics	1	C	
+현실적	現實的		Down to earth, Realistic	1	C	
+화제	話題		Subject of conversation	1	C	
+농산물	農産物		Agricultural products	1	C	
+사고	思考		thought,contemplation	1	C	
+지배하다	支配-		Control, direct	2	C	
+거대하다	巨大-		Huge or  gigantic or  enormous	4	C	
+식량	食糧		food,provisions	1	C	
+실험	實驗		An experiment,test	1	C	
+용기	勇氣		Bravery	1	C	
+상당하다	相當-		Be proper,suitable	4	C	
+수석	首席		The top seat	1	C	
+적절하다	適切-		Appropriateness	4	C	
+제사	祭祀		A holiday ceremony	1	C	
+지혜	智慧		Wisdom, wits	1	C	
+모	某		A certain person, mr. Jones	6	C	
+깨끗해지다			Become clean	2	C	
+대규모	大規模		On  a large scale	1	C	
+민간	民間		civil,private	1	C	
+법원	法院		Court of justice	1	C	
+지대	地帶		Zone, belt, district	1	C	
+판단하다	判斷-		To make a conclusion	2	C	
+실천하다	實踐-		To practice,put in theory	2	C	
+용어	用語		Technical terminology	1	C	
+지위	地位		Position, status	1	C	
+풍부하다	豊富-		To be abundant, copious, plentiful	4	C	
+학자	學者		Scholar	1	C	
+상식	常識		Common sense	1	C	
+상표	商標		trademark,brand	1	C	
+의식하다	意識-		Be conscious of, be aware of	2	C	
+민주화	民主化		Democratization	1	C	
+보도	報道		news,report	1	C	
+거부하다	拒否-		Deny or  reject or  disapprove	2	C	
+실시	實施		execution,enforcement	1	C	
+운명	運命		fate,fortune	1	C	
+재정	財政		finances,economy	1	C	
+핵심	核心		The kernel, the core	1	C	
+후반	後半		The latter/second half	1	C	
+중세	中世		The middle ages	1	C	
+통합	統合		Unity,unification	1	C	
+주식	株式		Stock	1	C	
+진리	眞理		A truth, a fact	1	C	
+공급	供給		Supply or  provision	1	C	
+균형	均衡		Balance or  equilibrium	1	C	
+기본적	基本的		Fundamental or  basic	1	C	
+접근	接近		Proximity	1	C	
+조미료	調味料		seasoning,condiment	1	C	
+강력하다	强力-		To be strong or  powerful	4	C	
+법률	法律		A law, statute	1	C	
+화면	畵面		Screen	1	C	
+의도	意圖		An intention, an aim	1	C	
+외부	外部		The exterior, the outside	1	C	
+소득	所得		An income,earnings	1	C	
+인식하다	認識-		recognition,cognizance	2	C	
+수요	需要		demand,requirement	1	C	
+지도자	指導者		Leader	1	C	
+구성하다	構成-		To organize or  makeup	2	C	
+대체로	大體-		Generally, on the whole	3	C	
+위원장	委員長		A chairman of a committee	1	C	
+효과적	效果的		Effective	1	C	
+생산하다	生産-		To produce,make	2	C	
+군사	軍事		Military affairs	1	C	
+지적	指摘		Pointing out, indication	1	C	
+예산	豫算		An estimate, budget	1	C	
+우려	憂慮		worry,anxiety,fear	1	C	
+보호하다	保護-		protect,shelter,guard	2	C	
+참여	參與		Participation	1	C	
+철학	哲學		Philosophy	1	C	
+대형	大型		Large, full-sized	1	C	
+본격적	本格的		Exemplary	1	C	
+백성	百姓		The common people	1	C	
+상당히	相當-		fairly,considerably	3	C	
+사투리			A dialect	1	C	
+부문	部門		A section,department	1	C	
+규정	規定		Provision or  stipulation	1	C	
+작용하다	作用-		To apply , use	2	C	
+개선	改善		Renovation or  improvement or  betterment	1	C	
+신화	神話		A myth	1	C	
+범위	範圍		Range, area	1	C	
+결론	結論		A conclusion	1	C	
+자녀	子女		one’s children	1	C	
+판결	判決		A judgment (from a judge)	1	C	
+세종대왕	世宗大王		King sejong, who invented Hangul	7	C	
+서구	西歐		Western Europe	1	C	
+소유	所有		Possession	1	C	
+안정	安定		Stability	1	C	
+소재	素材		material, subject matter	2	C	
+마크		mark	Mark	1	C	
+전망	展望		A view,prospect	1	C	
+형성되다	形成-		To be formed, made up	2	C	
+증가하다	增加-		increase,rise,grow	2	C	
+권리	權利		A right or  a claim to	1	C	
+물체	物體		A material body	1	C	
+시위	示威		A demonstration	1	C	
+훈련	訓鍊		Training	1	C	
+위기	危機		A crisis,an emergency situation	1	C	
+폭력	暴力		voilent,brute force	1	C	
+혹시	或是		Sometimes	3	C	
+이래	以來		Since, after that, hereafter	5	C	
+구성되다	構成-		To be organized	2	C	
+매체	媒體		A medium,medias	1	C	
+영역	領域		Territory	1	C	
+체험	體驗		An experience	1	C	
+구속	拘束		To arrest or  put in detention	1	C	
+극복하다	克服-		To overcome or  surmount	2	C	
+불법	不法		Illegal	1	C	
+이념	理念		An idea, a doctrine, ideology	1	C	
+반응	反應		Reaction	1	C	
+비판	批判		criticism,a comment	1	C	
+세대	世代		Generation	1	C	
+자네			You	8	C	
+수단	手段		means,way	1	C	
+형성	形成		Formation	1	C	
+장면	場面		A scene, situation	1	C	
+개방	開放		Open or  throw open	1	C	
+논리	論理		Logic	1	C	
+감각	感覺		Sense or  sensation or  feeling	1	C	
+기구	機構		Structure or  framework	1	C	
+후보	候補		candidature,candidacy	1	C	
+근거	根據		Basis or  foundation	1	C	
+부담	負擔		A burden,responsibility	1	C	
+위원	委員		A member of a committee	1	C	
+법칙	法則		A law, a rule	1	C	
+작용	作用		Application	1	C	
+오염	汚染		Contamination, pollution	1	C	
+참여하다	參與-		To participate in, take part in	2	C	
+범죄	犯罪		A crime	1	C	
+내부	內部		The inside	1	C	
+이놈			That rascal!	8	C	
+다소	多少		1) Large and small, 2) more or less	3	C	
+세월	歲月		The times, things	1	C	
+사정	事情		Circumstances	1	C	
+도대체	都大體		In the world, on earth	3	C	
+기록	記錄		A record or  a document	1	C	
+반면	反面		One side	1	C	
+특성	特性		A special/unique characteristic (individuality making, peculiarity)	1	C	
+교장	校長		Principal	1	C	
+입시	入試		An entrance examination	1	C	
+이			this,this thing	5	C	
+업체	業體		A business enterprise	1	C	
+국회	國會		The National Assembly	1	C	
+공업	工業		The industry or  manufacturing industry	1	C	
+출신	出身		A native, place one is from	1	C	
+경향	傾向		Tendency or  trend	1	C	
+시선	視線		one’s line of vision	1	C	
+투자	投資		Investment	1	C	
+성장	成長		Growth	1	C	
+피해	被害		Damage	1	C	
+요구	要求		A demand, claim, request	1	C	
+한계	限界		Boundary, limits	1	C	
+갈등	葛藤		Conflict or  troubles	1	C	
+제시하다	提示-		To present	2	C	
+불과하다	不過-		Nothing more than	4	C	
+실천	實踐		Practice	1	C	
+방안	方案		A plan, scheme	1	C	
+분명하다	分明-		To be clear/obvious	4	C	
+분석	分析		Analysis	1	C	
+삼국	三國		Three countries	1	C	
+아무개			Mr. so-and-so	8	C	
+물질	物質		matter,material	1	C	
+구성	構成		Organization or  constitution , the framework of something	1	C	
+실제로	實際-		In reality	3	C	
+뭣			What (thing)?	8	C	
+과연	果然		Just as one thought	3	C	
+중앙	中央		The middle and the heart	1	C	
+불구하다	不拘-		Deformity, malformation	2	C	
+유지하다	維持-		To preserve, maintain	2	C	
+피하다	避-		avoid,keep away	2	C	
+지식	知識		Knowledge, information	1	C	
+인류	人類		The human race	1	C	
+형식	形式		A form, formality, mold	1	C	
+실시하다	實施-		To enforce,put into effect	1	C	
+규모	規模		Scale or  scope or  structure	1	C	
+건설	建設		Construction	1	C	
+존재하다	存在-		To exist	2	C	
+대책	對策		Countermeasure	1	C	
+경쟁	競爭		Competition or  rivalry	1	C	
+인물	人物		A man, a person	1	C	
+무대	舞臺		Stage	1	C	
+주장	主張		assertion,insistance	1	C	
+인하다	因-		To be due to, caused by	2	C	
+원인	原因		A cause,a factor	1	C	
+당하다	當-		Have, encounter	2	C	
+일단	一旦		Temporarily	3	C	
+조직	組織		Organization (composition, structure)	1	C	
+자세	姿勢		Position, posture	1	C	
+석	席		A seat,sitting place	5	C	
+우주	宇宙		The universe	1	C	
+시기	時機		An opportunity,chance	1	C	
+생산	生産		1) production 2)birth	1	C	
+농민	農民		A farmer	1	C	
+집단	集團		A group, a collective body	1	C	
+장관	長官		A government cabinet minister	1	C	
+분야	分野		Field	1	C	
+벌		옷 한 ~	Set (of clothes)	5	C	
+수준	水準		Level	1	C	
+의원	議員		A member	1	C	
+주민	住民		inhabitants,dwellers	1	C	
+존재	存在		Existence	1	C	
+작업	作業		Work	1	C	
+비하다	比-		Compare to	2	C	
+입장	立場		A position, situation	1	C	
+방식	方式		A form, method, process	1	C	
+영향	影響		Influence, consequences	1	C	
+단계	段階		A step, phase	1	C	
+교사	敎師		Instructor	1	C	
+산업	産業		Industry	1	C	
+놈			A fellow	5	C	
+형태	形態		Form, shape	1	C	
+현상	現象		The present situation, state	1	C	
+박	泊		Staying the night	5	C	
+바			A thing, what	5	C	
+현실	現實		Actuality, reality	1	C	
+기업	企業		An enterprise or business	1	C	
+선거	選擧		An election	1	C	
+생명	生命		Life	1	C	
+사건	事件		An event,incident	1	C	
+마당			An instance, case	5	C	
+작품	作品		A work of art	1	C	
+상황	狀況		State of things	1	C	
+상태	狀態		condition,state	1	C	
+당시	當時		At that time	1	C	
+만		십 년 ~에	As many as, full, complete	5	C	
+만		화를 낼 ~도 하다	To be of sufficient quantity	5	C	
+대		담배 한 ~	One piece	5	C	
+정부	政府		Government	1	C	
+과정	過程		Process or  course	1	C	
+넉		~ 달	The fourth	6	C	
+석		~ 달	Three (in 3 months)	6	C	
+골		goal	Goal	1	C	
+대	代		Era, period	5	C	
+대로			Like, according to	5	C	
+이르다		말하다	Inform, report, tell	2	C	
+참외		식물	A melon	1	C	
+속상하다	-傷-		Be distressing	4	C	
+한층	-層		More, still more	3	C	
+한평생	-平生		A lifetime	1	C	
+한밤중	-中		Midnight	1	C	
+한순간	-瞬間		One fleeting moment	1	C	
+건넌방	-房		The room opposite the main living room	1	C	
+그전	-前		Former days or  the past	1	C	
+그간	-間		The while or  during tha time	1	C	
+낱말		단어	A word	1	C	
+눈동자	-瞳子		The pupil	1	C	
+눈병	-病		An eye disease	1	C	
+말투	-套		One’s way of talking	1	C	
+물기	-氣		Moisture	1	C	
+밤색	-色		Chestnut color, maroon	1	C	
+밥상	-床		Dinner table	1	C	
+앞문	-門		The front gate	1	C	
+애초	-初		The first, the beginning	1	C	
+온종일	-終日		All day long, the whole day	1	C	
+올		올해	Coming (year, week)	1	C	
+제비		동물	A swallow	1	C	
+년생	年生	80~	Year of birth	5	C	
+내		內	Inside	5	C	
+나름			Depending on	5	C	
+그루			1) a root  2) stubble	5	C	
+건	件		A matter or  an object or  a case	5	C	
+판		마지막 ~	A match, game, contest	5	C	
+편		바람이 부는 ~	Direction, way (the wind is blowing that ~)	5	C	
+편		기차 ~	Facilities, services	5	C	
+웬			What sort of, what kind of	6	C	
+요		~ 근방	Right near at hand	6	C	
+이런저런			This and that, one and another	6	C	
+현	現		The present, the existence, actuality	6	C	
+총	總		all,entire,whole	6	C	
+전	全	 ~ 국민	all,every	6	C	
+두어			About two, a couple	6	C	
+귀찮다			Annoying irksome	4	C	
+그럴듯하다			Be plausible or  specious or  likely	4	C	
+굳다			Harden or  become hard	4	C	
+게으르다			Lazy	4	C	
+거칠다			Coarse (texture) or  wild (behavior) or  (rain and wind) rough or  wild	4	C	
+갑작스럽다			All of a sudden	4	C	
+값싸다			Cheap or  low-priced	4	C	
+회	回		A time, an inning, a round in a game	5	C	
+위	位		Position, grade, rank	5	C	
+턱		알 ~이 없다	Reason, grounds	5	C	
+척		못 이기는 ~	To appear or look as	5	C	
+척	隻		A few ships (vessels)	5	C	
+참		집에 가던 ~에	At the point of, when	5	C	
+채		집 한 ~	House counter	5	C	
+채		옷을 입은 ~로	As it is, no change	5	C	
+차	次		order,sequence,degree	5	C	
+조	條		article,clause	5	C	
+조	組		A company,group	5	C	
+듯			To be like something	5	C	
+자	者		A person	5	C	
+양	孃		Miss ~	5	C	
+세	世		A generation,age,epoch	5	C	
+불완전하다	不完全-		To be imerfect	4	C	
+힘겹다		힘부치다	To be not strong enough to do	4	C	
+힘차다			Be forcible,powerful	4	C	
+미끄럽다			To be slippery	4	C	
+못되다			To go wrong	4	C	
+못생기다			Ugly	4	C	
+못지않다			Be just as good as	4	C	
+못하다			Be inferior, worse than	4	C	
+무덥다			sultry,sweltering	4	C	
+무책임하다	無責任-		Not responsible	4	C	
+멋지다			Be splendid	4	C	
+마땅하다			Be right, approppriate	4	C	
+단단하다			Be hard, solid	4	C	
+눈부시다			To be dazzling	4	C	
+넉넉하다			To be enough	4	C	
+날카롭다			Sharp	4	C	
+꾸준하다			Be steady or  unflagging	4	C	
+끊임없다			To not end	4	C	
+끝없다			Endless or  unfathomable	4	C	
+깔끔하다			Be sleek and smart	4	C	
+재밌다		재미있다	interesting,fun	4	C	
+잘나다			To be handsome,excellent	4	C	
+동그랗다			To be circular	4	C	
+따스하다			Feel warm	4	C	
+썰렁하다			chilly,feel cold	4	C	
+엷다			Be thin, light	4	C	
+어리석다			juvenile,foolish	4	C	
+어지럽다			To be dizzy  2) to be in chaos, disorganized	4	C	
+얄밉다			Be offensive, mean	4	C	
+쓸데없다			To be useless	4	C	
+쓸쓸하다			Be lonely,lonesome	4	C	
+아깝다			regrettable,pitiful	4	C	
+아쉽다			To miss, feel the loss of	4	C	
+심심하다		지루하다	Be deep and profound	4	C	
+싱싱하다			Be fresh, full of life	4	C	
+서툴다			poor,awkward	4	C	
+손쉽다			Be easy, simple	4	C	
+섹시하다		sexy-	To be sexy	4	C	
+섭섭하다			Be sorry,disappointed	4	C	
+새롭다			To be new,novel	4	C	
+서늘하다			Be cool,refreshing	4	C	
+뻔하다			almost,nearly	4	C	
+불평등하다	不平等-		Inequality	4	C	
+불필요하다	不必要-		To be unnecessary	4	C	
+불확실하다	不確實-		Be uncertain	4	C	
+갈수록			As one goes aong	3	C	
+달리			Differently	3	C	
+가득히			Full	3	C	
+가만			Quietly or  softly	3	C	
+한데			The open air, outside, the exterior	3	C	
+하긴			Indeed, though, nevertheless	3	C	
+하도			Too much, excessively	3	C	
+확			With a burst, great puff	3	C	
+퍽		~ 궁금하다	Very, very much	3	C	
+거꾸로			Backwards or  bottom up or  the wrong way	3	C	
+워낙			By nature, primarily, by constitution	3	C	
+흔하다			To be everywhere	4	C	
+우습다			To be funny, amusing	4	C	
+올바르다			Be honest, straightforward	4	C	
+새로이			newly,afresh	3	C	
+익다		손에 ~	Get familiar with, experienced with	4	C	
+캄캄하다			To be pitch-black	4	C	
+참되다			To be true, honest, faithful	4	C	
+짜증스럽다			To be annoying	4	C	
+지루하다			Be tedious	4	C	
+지저분하다			Be messy, soiled, dirty	4	C	
+지겹다			To be tedious,tiring	4	C	
+조그마하다			Be tiny,small	4	C	
+점잖다			To be dignified,well-bred	4	C	
+막상			Really, actually	3	C	
+대충			Almost, nearly, about	3	C	
+더욱			More and more	3	C	
+더욱더			More and more and more	3	C	
+더욱이			Besides, moreover	3	C	
+도리어			On the contrary	3	C	
+다만			Only, merely	3	C	
+널리			Widely	3	C	
+꼭		힘을 주는 모양	Tightly or  fast	3	C	
+꼼짝			Cannot move	3	C	
+꽉			Tightly or  fast	3	C	
+끊임없이			Constantly or  unceasingly	3	C	
+끝없이			Boundlessly	3	C	
+나란히			In a line, row	3	C	
+그저			1) still or  all the time  2) easily or  with no effort	3	C	
+그제야			For the first time or  not ... until	3	C	
+그토록			So much or  to such an extent	3	C	
+금세			In a moment or  at once	3	C	
+그런대로			Such as it is or  anyways	3	C	
+고작			To be at the highest or  the best	3	C	
+곧잘			1) fairly or  pretty well 2) frequently or  too often	3	C	
+어쨌든			In any case, anyhow	3	C	
+어쩜			Well, I guess that, is extremely.....	3	C	
+앞서			Before, previously 2) in anticipation,beforehand	3	C	
+야옹			Mewing, meowing	3	C	
+어느덧			Before one knows it	3	C	
+쓸데없이			To have no use	3	C	
+실컷			To one’s satisfaction	3	C	
+썩			Very much,greatly	3	C	
+슬그머니			Furtively	3	C	
+손수			With one’s own hands, personally	3	C	
+비로소			For the first time	3	C	
+힘껏			With all one’s might	3	C	
+힘없이			feebly,weekly	3	C	
+벌떡			Suddenly, abruptly	3	C	
+바싹			Completely	3	C	
+미처			To that extent	3	C	
+모조리			One and all, wholly	3	C	
+모처럼			At long last	3	C	
+말없이			At a loss for words	3	C	
+마음껏			As much as you want	3	C	
+혼잣말			Talking to oneself	1	C	
+이따금			From time to time	3	C	
+활짝			extensively,widely	3	C	
+이같이			Like this, like so	3	C	
+이내			soon,right away	3	C	
+이대로			As it is	3	C	
+채		말이 ~ 끝나기도 전에	Still, not yet	3	C	
+이리저리		~ 돌아다니다	This way and that, here and there	3	C	
+이어			vulgarity,slang	3	C	
+이어서			Subsequently	3	C	
+이윽고			After a while, shortly	3	C	
+이제야			These days	3	C	
+허허			Ha-ha, with a laugh	3	C	
+일부러			On purpose, intentionally	3	C	
+튼튼히			Strongly, firmly	3	C	
+일찍이			Early	3	C	
+텅		~ 비다	Hollow	3	C	
+탁			With a bang, with a snap	3	C	
+차라리			rather,preferably	3	C	
+차츰			gradually,step by step	3	C	
+참으로			really,indeed	3	C	
+쭉			All the time	3	C	
+죽		줄을 ~ 긋다	In a very straight line, in a row	3	C	
+저마다			Each one, everyone	3	C	
+저절로			Of itself, on its own accord	3	C	
+재빨리			quickly,rapidly	3	C	
+영		~ 딴판이다	Really, totally	3	C	
+오히려			Rather,preferably	3	C	
+그제서야			Then	3	C	
+곧이어			Soon hereafter	3	C	
+오로지			Only, solely, exclusively	3	C	
+가르침			Teaching or  an instruction	1	C	
+가뭄			A drought	1	C	
+가정교사	家庭敎師		Private tutor	1	C	
+한구석			A corner, a nook	1	C	
+한글날			Korean writing system national holiday	1	C	
+한낮			Noon	1	C	
+한눈		~에 반하다	A look, glampse, look	1	C	
+한때			For a while, temporarily	1	C	
+한마디			One word	1	C	
+한여름			Midsummer, the middle of summer	1	C	
+피망		&프piment	A pimento	1	C	
+핑계			Excuse	1	C	
+하	下		Below, underneath	1	C	
+하느님			God	1	C	
+하드웨어		hardware	Hardwaer	1	C	
+하룻밤			One night, a single night	1	C	
+학교생활	學校生活		Student	1	C	
+한	恨		A grudge, rancor	1	C	
+한	限		A limit	1	C	
+한가운데			The very middle, the center	1	C	
+포인트		point	Point	1	C	
+포장마차	布帳馬車		A wheeled snack bar on the street	1	C	
+포크		fork	Fork	1	C	
+표	表		A marker, indication	1	C	
+품		옷이 ~이 크다	Width; bosom, breast (the clothes have a big ~)	1	C	
+프린터		printer	Printer	1	C	
+화살			An arrow	1	C	
+환경오염	環境汚染		Environmental pollution	1	C	
+판	板		Board	1	C	
+팝송		pop song	Pop song	1	C	
+팩시밀리		facsimile	Facximile, fax	1	C	
+페인트		paint	Paint	1	C	
+군	郡		A county or district	1	C	
+괴로움			Trouble or  annoyance or  distress	1	C	
+구15	區		Ward or  district	1	C	
+과	科		1) A course or  branch of study  2) a department or  a faculty	1	C	
+곡	曲		A tune or  an air	1	C	
+골짜기			A valley or  gorge	1	C	
+골치			Worry or  anxiety	1	C	
+겨자			Mustard	1	C	
+거품			Bubble	1	C	
+건너			The other or  opposite side	1	C	
+걷기			Walking	1	C	
+갑	匣		1) The first  2) the former	1	C	
+갖가지			A variety of or  all sorts	1	C	
+가톨릭		Catholic	Catholic	1	C	
+간		음식의 ~을 보다	A salty taste or  saltiness	1	C	
+간	肝		Liver	1	C	
+감	感		Feelings	1	C	
+가난			Poor	1	C	
+꼬리			Tail	1	C	
+꼬마			A dwarf	1	C	
+꽃씨			Flower seed	1	C	
+끈			A string or  a cord	1	C	
+까치			Magpie	1	C	
+깍두기			Sliced white radish kimchee	1	C	
+기13	氣		1) energy  2) breath or  wind	1	C	
+기23	旗		A flag or  a banner	1	C	
+고개		~ 너머	the peak or crest (of a hill)	1	C	
+고무신			Rubber shoes	1	C	
+기둥			A pillar	1	C	
+그사이			The while or  the meantime	1	C	
+그저께			The day before yesterday	1	C	
+극	劇		Drama or  play	1	C	
+금메달	金-	medal	Gold medal	1	C	
+귓속			The inner ear	1	C	
+귤	橘		A Jeju orange	1	C	
+그래픽		graphic	Graphic	1	C	
+구석			1) a corner  2) an out of the way place	1	C	
+구석구석			Every nook and corner	1	C	
+덕	德		Virtue, morality	1	C	
+덩어리			A lump, a cluster	1	C	
+데이트		date	Date	1	C	
+도마			A chopping board	1	C	
+담		~을 쌓다	A wall, fence	1	C	
+답	答		Answer	1	C	
+대낮			Broad daylight	1	C	
+다툼			A quarrel	1	C	
+단	段		A grade or class	1	C	
+단골			Custom, connection	1	C	
+단추			A button	1	C	
+달리기			A run, a spin	1	C	
+뇌	腦		Brains	1	C	
+눈가			The eye rims	1	C	
+눈길		~을 피하다	Line of vision	1	C	
+늦가을			Late autumn	1	C	
+냇물			A stream, brook	1	C	
+논			A rice field	1	C	
+낚시꾼			An angler	1	C	
+낚싯대			A fishing rod	1	C	
+남			Others, other people	1	C	
+몸속			In one’s body	1	C	
+몸짓			A gesture	1	C	
+몸통			The trunk,body	1	C	
+못		벽에 ~을 박다	A nail	1	C	
+무	無		nothing,nil	1	C	
+무덤			A grave,tomb	1	C	
+무리		~를 이루다	A company, a band	1	C	
+무지개			A rainbow	1	C	
+면	面	행정 단위	Subdivision of a county	1	C	
+면	面	양쪽 ~	Side	1	C	
+면	綿		Cotton	1	C	
+멸치			Anchovy	1	C	
+모퉁이			Corner	1	C	
+목숨			Life	1	C	
+매		~를 맞다	whip,rod,cane	1	C	
+매너		manner	Manner	1	C	
+매스컴		mass communication	Mass communication	1	C	
+마누라			one’s wife	1	C	
+마당			Garden	1	C	
+마라톤		marathon	Marathon	1	C	
+마무리			Finish, completion	1	C	
+마요네즈		&프mayonnaise	Mayonnaise	1	C	
+마음가짐			Mental attitude	1	C	
+마음씨			Disposition, nature	1	C	
+마이크		mike	Mike	1	C	
+막걸리			A slightly bitter soju drink	1	C	
+도움말			Helping words	1	C	
+번개			Lightning	1	C	
+벌	罰		Punishment	1	C	
+벤치		bench	Bench	1	C	
+벼			A rice plant	1	C	
+발레		Ballet	Ballet	1	C	
+발바닥			The sole of the foot	1	C	
+발자국			Footprint	1	C	
+발톱			A toenail	1	C	
+밤하늘			Night sky	1	C	
+방울		~이 울리다	A bell	1	C	
+바깥쪽			The outside	1	C	
+바이러스		virus	Virus	1	C	
+바퀴		수레 ~	Cockroach	1	C	
+반죽			Kneading; dough	1	C	
+발걸음			Gait, step	1	C	
+발끝			On tiptoes	1	C	
+미	美		beauty,grace	1	C	
+미니		mini	Mini	1	C	
+미스		Miss	Miss	1	C	
+미역			Brown seaweed	1	C	
+미움			Hatred	1	C	
+민주주의	民主主義		Democracy	1	C	
+밑바닥			The bottom,base	1	C	
+바가지			A gourd dipper	1	C	
+바구니			Basket	1	C	
+몸매			one’s figure	1	C	
+사회생활	社會生活		Social life	1	C	
+사회주의	社會主義		Socialism	1	C	
+사흘			Three days	1	C	
+산부인과	産婦人科		Obstetrics and gynecology	1	C	
+살림			living,livelihood	1	C	
+삶			Life	1	C	
+상	上		Upper	1	C	
+상	床		A table,small desk	1	C	
+상	像		A statue,a figure	1	C	
+사나이			A man, a male	1	C	
+사냥			Hunting, a hunt	1	C	
+사슴			Deer	1	C	
+사이사이			Every now and then	1	C	
+브랜드		brand	Brand	1	C	
+비	碑		A monument	1	C	
+비둘기			Pigeon	1	C	
+비바람			Rain and wind	1	C	
+빗방울			Raindrops	1	C	
+빗줄기			Great streaks of rain	1	C	
+빛깔			A color,shade,hue	1	C	
+부피			bulk,size	1	C	
+복숭아			Peach	1	C	
+볶음			Roasted sth	1	C	
+볼		뺨	Cheek	1	C	
+볼링		bowling	Bowling	1	C	
+부	部		assistant,deputy	1	C	
+부	富		wealth,riches	1	C	
+부채			A debt,liabilities	1	C	
+병아리			Chick, baby chicken	1	C	
+보너스		bonus	Bonus	1	C	
+보름			15days,the 15th day	1	C	
+보리			Barley	1	C	
+배추김치			Pickled cabbage	1	C	
+뱃사람			A seaman, sailor	1	C	
+시나리오		scenario	Scenario	1	C	
+시디		콤팩트디스크	C.D.	1	C	
+시디롬		CD-ROM	Cd-rom	1	C	
+시멘트		cement	Cement	1	C	
+시스템		system	System	1	C	
+시외버스	市外-	bus	Inter-city bus	1	C	
+수저			A spoon	1	C	
+수컷			A male of the species	1	C	
+시금치			Spinach	1	C	
+스승			A teacher,master	1	C	
+소프트웨어		software	Software	1	C	
+속마음			Inner heart,feeling	1	C	
+손길			An outstretched hand	1	C	
+손등			The back of the hand	1	C	
+손질			handling,care	1	C	
+솜			Cotton	1	C	
+솜씨			skill,ability	1	C	
+쇠			Iron	1	C	
+수	數	~를 세다	The number of sth	1	C	
+수고			toil,labor,pains	1	C	
+세미나		seminar	Seminar	1	C	
+소매			1)a sleeve 2) a retail sale	1	C	
+서클		circle	Circle	1	C	
+선	線		A line, a route	1	C	
+생	生		1) raw,uncooked 2)living	1	C	
+생활수준	生活水準		The standard of living	1	C	
+생활용품	生活用品		Necessities for daily life	1	C	
+앨범		album	Album	1	C	
+양	羊		A sheep, ram	1	C	
+아이디어		idea	Idea	1	C	
+안	案		A plan,proposal,suggestion	1	C	
+안개			Fog	1	C	
+알루미늄		aluminium	Aluminum	1	C	
+알코올		alcohol	Alcohol	1	C	
+암컷			A female,a she	1	C	
+앞날			The futre, the days ahead	1	C	
+씨앗			Seeds	1	C	
+아드님			Your esteemed son	1	C	
+아랫사람			Subordinate	1	C	
+아르바이트		독일어Arbeit	Part time	1	C	
+아쉬움			Sense of missing	1	C	
+아스팔트		asphalt	Asphalt	1	C	
+쌍	雙		A pair,couple	1	C	
+시즌		season	Season	1	C	
+신	神		God	1	C	
+신세		~를 망치다	indebtedness,obligation	1	C	
+스위치		switch	Switch	1	C	
+오페라		opera	An opera	1	C	
+온라인		on-line	Online	1	C	
+올가을			This fall	1	C	
+금		~을 긋다	A line (draw)	1	C	
+기성세대	旣成世代		Old people	1	C	
+복	福		luck,happiness	1	C	
+꾸중			Scolding, a rebuke	1	C	
+영화배우	映畵俳優		Movie actor	1	C	
+옆구리			The side, the flank	1	C	
+예		~나 지금이나	Old days, days gone by	1	C	
+열매			Fruit	1	C	
+엉덩이			The buttocks	1	C	
+엉망		엉망이 되다	A mess, in bad shape	1	C	
+엉터리			Fake, sham	1	C	
+엔진		engine	Engine	1	C	
+여럿			many,many people	1	C	
+역	役		A part, a role	1	C	
+어저께			Yesterday	1	C	
+앞바다			The offing sea	1	C	
+조각		얼음 ~	A piece,scrap,fragment	1	C	
+조깅		jogging	Jogging	1	C	
+졸음			sleepiness,drowsiness	1	C	
+젖			The breasts	1	C	
+제자리			The proper/original place	1	C	
+전통문화	傳統文化		Traditional culture	1	C	
+젊음			Youth	1	C	
+저고리			A coat, korean jacket	1	C	
+저울			A balance	1	C	
+잠바		jumper	Jumper	1	C	
+잠자리		~를 바꾸다	Bed	1	C	
+장난			A game,playing	1	C	
+장르		&프genre	Genre	1	C	
+장사꾼			A trader,merchant,dealer	1	C	
+장수		사과 ~	A tradesman,merchant	1	C	
+재주			ability,talent	1	C	
+재즈		jazz	Jazz	1	C	
+재활용품	再活用品		A recycled product	1	C	
+자랑			Pride	1	C	
+자연현상	自然現象		Natural phenomena	1	C	
+자연환경	自然環境		Natural surroundings	1	C	
+자취			A trace,vestige	1	C	
+작은아버지			An uncle younger than your father	1	C	
+작은어머니			An aunt younger than your mother	1	C	
+잔디			Lawn	1	C	
+잔디밭			lawn,grass	1	C	
+뒷모습			The features of the back side	1	C	
+딸아이			Daughter	1	C	
+땅속			In the soil	1	C	
+밤새		~ 안녕하셨습니까	All night	1	C	
+자		~로 재다	A ruler	1	C	
+자	字	이름 석 ~	A chinese character	1	C	
+클래식		classic	Classic	1	C	
+클럽		club	Club	1	C	
+키스		kiss	Kiss	1	C	
+타입		type	Type	1	C	
+탓			fault,blame	1	C	
+침		~을 뱉다	Spit	1	C	
+칸			Blank space	1	C	
+칼국수			Knife-cut noodles	1	C	
+캐릭터		character	Character	1	C	
+캠페인		campaign	Campaign	1	C	
+촛불			Candle-light	1	C	
+총	銃		A gun	1	C	
+천		실로 짠 물건	Cloth, woven stuff	1	C	
+천둥			Thunder	1	C	
+철		~이 들다	Discretion, prudence (Become sensible, wise)	1	C	
+철	鐵		Steel	1	C	
+초등학생	初等學生		An elementary school student	1	C	
+차림			Appearance of clothes or worn objecs	1	C	
+창	窓		Window	1	C	
+집안일			Housework	1	C	
+짝		~이 맞다	One pair, one couple	1	C	
+차	差		difference,margin	1	C	
+중계방송	中繼放送		A relay, a hookup	1	C	
+중소기업	中小企業		Small and medium enterprises	1	C	
+중식	中食	중국 음식	Chinese food	1	C	
+지난날			Old days, old times	1	C	
+죄	罪		A crime, a sin	1	C	
+주름			Wrinkles	1	C	
+주름살			Wrinkles	1	C	
+핵	核		A nucleus, core	1	C	
+핸드백		handbag	Handbag	1	C	
+틀			A frame, framework; mold	1	C	
+틈			A crack, gap, opening	1	C	
+일손			Work in hand	1	C	
+일식	日食	일본 음식	Japanese food	1	C	
+일쑤			Habitual practice	1	C	
+일자리			A job, position	1	C	
+임금			A king, ruler,sovereign	1	C	
+터			A site, place	1	C	
+테러		terror	Terror	1	C	
+텍스트		text	Text	1	C	
+튀김			Batter-fried food	1	C	
+트럭		truck	Truck	1	C	
+컨디션		condition	Condition	1	C	
+컬러		color	Color	1	C	
+케첩		ketchup	Ketchup	1	C	
+코끝			The tip of one’s nose	1	C	
+코드		code	Code	1	C	
+코미디		comedy	Comedy	1	C	
+코스		course	Course	1	C	
+코스모스		cosmos	Cosmos	1	C	
+코치		coach	Coach	1	C	
+코트		court	Court	1	C	
+쿠데타			Coup d’etat (overthrow of the government)	1	C	
+크림		cream	Cream	1	C	
+큰아들			Oldest son	1	C	
+큰아버지			Uncle older than one’s father	1	C	
+큰어머니			The wife of the elder brother of one’s father	1	C	
+이다음			Next	1	C	
+이달			This month	1	C	
+이데올로기		&독Ideologie	Ideology	1	C	
+위	胃		The stomach	1	C	
+윗몸			The upper body	1	C	
+윗사람			A superior, one’s older somebody	1	C	
+유머		humor	Humor	1	C	
+용	龍		A dragon	1	C	
+울음소리			Sound of crying	1	C	
+움직임			movement,motion,activity	1	C	
+웃음소리			The sound of laughing	1	C	
+원	圓	. ~을 그리다	A circle	1	C	
+올여름			This summer	1	C	
+옷차림			Dress, one’s way of dressing	1	C	
+와이셔츠		white shirts	A white dress shirt	1	C	
+외로움			Loneliness	1	C	
+외아들			The only son	1	C	
+외침			A shout, a cry	1	C	
+욕	辱		An insult	1	C	
+이해관계	利害關係		Mutual understanding	1	C	
+인제			Now	1	C	
+이슬			Dew, dewdrops	1	C	
+향	香		perfume,incense	1	C	
+헬기		helicopter機	Helicopter	1	C	
+형	型		Shape, form	1	C	
+호박			Pumpkin	1	C	
+입맛			Appetite, taste, palate	1	C	
+해	害		Damage, injury	1	C	
+해수욕장	海水浴場		A swimming beach	1	C	
+건네주다			To pass over or  to put on the other side (of a river)	2	C	
+걷다		소매를 ~	1) Roll back /up one’s sleeves  2)fold or  furl up  3) finish work	2	C	
+걷다		빨래를 ~	Walk on or  tread on	2	C	
+갖추다			Make or  get ready or  prepare	2	C	
+같이하다			To do together or  to share	2	C	
+갚다			Pay back a loan	2	C	
+개다		날이 ~	To clear up or  become clear (weather)	2	C	
+갇히다			Be confined or  shut up	2	C	
+가로막다			Interrupt or  obstruct	2	C	
+가르다			1) split or  divide 2) distribute or  share  3) distinguish or  separate	2	C	
+가만있다			Remain still or  motionless	2	C	
+푸다			Dip out, bail out	2	C	
+풀어지다			To get loose; to turn soft (noodles)	2	C	
+품다		가슴에 ~	To hold, embrace	2	C	
+펴내다			Publish, bring out in print	2	C	
+함께하다			To do it together, with somebody	2	C	
+무관심하다	無關心-		Be indifferent to	1	C	
+그러다			and so, and then, well	1	C	
+그러다			and so, and then, well	1	C	
+흉내			Imitation, mimicry	1	C	
+흐름			Flowing, a stream/current	1	C	
+은	銀		Silver	1	C	
+에			at/in/on	10	C	
+끊기다			To be cut off or  severed	2	C	
+끌어당기다			To draw near	2	C	
+끼우다			To put between or  insert	2	C	
+나누어지다			To become divided	2	C	
+기울다			To tilt or  lean	2	C	
+기울이다			Tip or  slant or  incline	2	C	
+길어지다			To become long	2	C	
+까다		마늘을 ~	Peel or  husk	2	C	
+까먹다			Crack or  peel and eat	2	C	
+깔리다			To be spread or  overspread	2	C	
+깨뜨리다			To break or  crush	2	C	
+깨어나다			Return to consciousness	2	C	
+깨어지다			To waken	2	C	
+긋다		금을 ~	1) draw or  mark   2) strike	2	C	
+기다			Crawl or creep	2	C	
+기대다		의지하다	1) To rely upon or  lean upon 2) lean against	2	C	
+그리워하다			Yearn or  be attached to	2	C	
+긁다			Scratch or  scrape	2	C	
+굽히다			Bend or  stoop	2	C	
+굳어지다			Become hard	2	C	
+굳히다			Harden or  make hard	2	C	
+굶다			To starve or  go hungry	2	C	
+괴로워하다			To distress or  trouble	2	C	
+겪다			Experience or  undergo or  suffer	2	C	
+거두다			Collect or  gather up	2	C	
+거들다			Help or  assist or  lend	2	C	
+거치다			Pass or  go through	2	C	
+건네다			Speak to a person or  address	2	C	
+눈뜨다			Open one’s eyes	2	C	
+늘어서다			Stand in a row	2	C	
+늘어지다			Be lengthened	2	C	
+늦어지다			To become late	2	C	
+내주다			Take out and give away	2	C	
+넘겨주다			Hand over	2	C	
+넘기다			Pass over, send across	2	C	
+넘어뜨리다			Throw down	2	C	
+넘어오다			Fall, come down	2	C	
+녹이다			Melt, dissolve	2	C	
+나아가다			Advance, go forward	2	C	
+나아지다			Become better, be improved	2	C	
+날리다		날다'의 사동사	To send flying	2	C	
+날아다니다			Fly about	2	C	
+낮아지다			Become lower	2	C	
+낮추다			Lower, make low	2	C	
+내려지다			To become lower	2	C	
+내버리다			Throw away	2	C	
+내보내다			Let out, let go out	2	C	
+내쉬다			Exhale	2	C	
+꽂다			Be stuck in or  insert	2	C	
+꾸다		돈을 ~	Dream or  have a dream	2	C	
+꾸리다			Pack up or  bundle up	2	C	
+맡다		냄새를 ~	Smell	2	C	
+맺다			form,tie	2	C	
+머물다			Stay overnight	2	C	
+이래서		이리하여서	This way, this direction, here	불	C	
+치우다			VST + Do away with, get rid of	보	C	
+척하다			The preceding verb is a lie	보	C	
+체하다			pretend,feign	보	C	
+듯싶다			To be like something, i guess	보	C	
+어째서		어찌하여서	For what reason, why is that	불	C	
+아니하다			To be/do not	보	C	
+싶어지다			To come to want	보	C	
+뻔하다			Be clear,evident	보	C	
+빚			Debt	1	C	
+마음먹다			Be determined to	2	C	
+마주치다			Collide with	2	C	
+만하다			Be of the extent of	보	C	
+그래야		그리하여야	And so or  and then	불	C	
+숨기다			To hide	2	C	
+발길			A kick; walking pace, steps	2	C	
+흘러내리다			Run (stream,pour) down	2	C	
+흩어지다			Scatter about	2	C	
+훔치다		물건을 ~	To steal	2	C	
+흐려지다			Get cloudy, overcast	2	C	
+흔들리다			Shake, swing,rock,tremble	2	C	
+이끌다			To guide,lead	2	C	
+울리다		아기를 ~	To make (a baby) cry	2	C	
+외다		주문을 ~	To repeat back (an order)	2	C	
+외치다			To shout,scream	2	C	
+익히다		고기를 ~	cook,boil	2	C	
+익히다		기술을 ~	Habituate oneself to	2	C	
+올리다			Raise, lift up	2	C	
+이러다			do/say think this way	2	C	
+이룩하다			Erect, build	2	C	
+이어지다			Get joined, be connected	2	C	
+헤매다			Wander about, roam about	2	C	
+헤아리다			Consider, weigh, ponder, consider	2	C	
+잇다			Join, connect	2	C	
+잇따르다			Follow one after another	2	C	
+잊혀지다			To become forgotten	2	C	
+해내다			To accomplish, achieve, carry through	2	C	
+터지다			Break, be torn, get away from	2	C	
+튀기다		물방울을 ~	To fry; splash, splatter	2	C	
+튀다			Spring, bound, jump	2	C	
+튀어나오다			Jump out, spring out	2	C	
+트이다			Get cleared out, open up	2	C	
+타고나다			Be born, gifted/endowed with	2	C	
+타오르다			Blaze, light up	2	C	
+치르다			Pay off, pay one’s bill	2	C	
+찾아다니다			To go around to meet somebody or see places	2	C	
+책임지다			Take responsibility	2	C	
+집어넣다			Put in	2	C	
+쫓기다			To be chased, be driven	2	C	
+쫓다			Drive away, chase off	2	C	
+찌다		떡을 ~	chop,hack	2	C	
+찍히다		도장이 ~	Get sealed, stamped	2	C	
+찢다			Tear, rend, split	2	C	
+찢어지다			To be torn, rent	2	C	
+지다		그늘이 ~	To fade away, come off	2	C	
+지우다		짐을 ~	Put a thing on a person’s back	2	C	
+지워지다			To be erased	2	C	
+중얼거리다			Mutter to oneself	2	C	
+중요시하다	重要視-		Attach great importance to	2	C	
+지니다			Carry with, hold, possess	2	C	
+주고받다			Give and receive, exchange	2	C	
+주어지다			To offer, proffer (conditions)	2	C	
+졸리다		자고 싶다	Feel sleepy,drowsy	2	C	
+좁히다			Make narrow,restrict	2	C	
+접다			Fold up	2	C	
+저러다			Like that	2	C	
+저지르다			do,commit,spoil	2	C	
+적히다			To be recorded,written down	2	C	
+잡수다			eat,drink	2	C	
+잡아당기다			Pull	2	C	
+잡아먹다			Slaughter and eat	2	C	
+재다		저울로 ~	measure,guage	2	C	
+재우다		고기를 양념에 ~	Put to sleep	2	C	
+잘리다			Be snapped,broken,cut off	2	C	
+잠그다		서랍을 ~	To lock	2	C	
+잠기다		물에 ~	Sink in water	2	C	
+되돌아보다			To look back on	2	C	
+떠나오다			미국으로부터 to come back from the US	2	C	
+반짝거리다			Twinkle-twinkle (stars)	2	C	
+버려지다			Take away, throw away to somewhere	2	C	
+보내오다			받다 receive	2	C	
+뺏다			Straight	2	C	
+살아남다			Survive	2	C	
+살아오다			To come out alive	2	C	
+올려다보다			Look up	2	C	
+올라서다			Stand up	2	C	
+올라타다			Board (a plane), get into	2	C	
+꼽히다			To be elected	2	C	
+끼어들다			Interrupt	2	C	
+나뉘다			Divide	2	C	
+오르내리다			Go up and down, rise and fall	2	C	
+엿보다			Wait for an opportunity	2	C	
+엇갈리다			Cross, miss eachother	2	C	
+엎드리다			Prostrate oneself, lie on the ground	2	C	
+여겨지다			To look, appear, think of sth as	2	C	
+여기다			Think, consider as	2	C	
+어려워지다			To become difficult	2	C	
+얻어먹다			Go about begging	2	C	
+얼리다		물을 ~	Freeze, make ice	2	C	
+업다			To carry on one’s back, to shoulder sth	2	C	
+앞세우다			Make a person go	2	C	
+앞장서다			To be in the lead/ at the head	2	C	
+애쓰다			Make efforts/pains to do sth	2	C	
+어기다			Run counter to, go against	2	C	
+앉히다			To place a person in a set	2	C	
+알아보다			To investigate, examine, search	2	C	
+앞두다			Have a distance ahead	2	C	
+쓰다듬다			Stroke one’s beard	2	C	
+쓰러지다			Fall, collapse	2	C	
+쓰이다		농사에 기계가 ~	To be used, to be utilized/employed	2	C	
+씌우다		아이에게 모자를 ~	Put a hat on somebody	2	C	
+씻기다		비에 ~	To be carried away, washed away	2	C	
+씻기다		아이를 ~	wash,be washed	2	C	
+아끼다			grudge,spare	2	C	
+스치다		살짝 닿다	Graze past	2	C	
+시들다			To wither,die,fade	2	C	
+숨지다			Breathe one’s last breath	2	C	
+속삭이다			Whisper	2	C	
+속이다			deceive,cheat	2	C	
+손잡다			Take a person by the hand	2	C	
+손질하다			Handle with care	2	C	
+솟다			rise,soar,tower above	2	C	
+세다		돈을 ~	Count	2	C	
+새기다		문신을 ~	To sculpt,engrave	2	C	
+새다		비가 ~	leak,escape from	2	C	
+새우다		밤을 ~	Sit up all night	2	C	
+살아가다			Lead a life, get along	2	C	
+살아나다			revive,be brought back to life	2	C	
+살피다			Take a good look at	2	C	
+삼다		친구로 ~	Make a thing of	2	C	
+삼키다			Swallow	2	C	
+빨다		젖을 ~	sip,suck	2	C	
+빼놓다			exclude,leave out	2	C	
+빼앗기다			A thing be taken away	2	C	
+빼앗다			Snach, take away from	2	C	
+뽑히다			Be taken out, pulled out	2	C	
+뿌리치다			Shake off, refuse	2	C	
+사귀다			Make friends with	2	C	
+사들이다			buy,purchase	2	C	
+붙잡다			seize,catch	2	C	
+붙잡히다			Be caught	2	C	
+비다			To be empty, vacant	2	C	
+비비다			rub,chafe	2	C	
+비우다			empty,vacate	2	C	
+비웃다			Laugh at, ridicule	2	C	
+빛나다			shine,glitter	2	C	
+빠뜨리다			Throw into (a river); entice, entrap	2	C	
+불러일으키다			rouse,stir up	2	C	
+불어오다			Call to come	2	C	
+힘들어하다			To be exacting, tolling	2	C	
+힘쓰다			To try really hard	2	C	
+부딪히다			Be bumped into	2	C	
+부러지다			Break, get broken	2	C	
+부서지다			Break, be broken	2	C	
+저기			“hey,look here,now”	10	C	
+버티다			Endure, tolerate	2	C	
+벌어지다		틈이 ~	Widen, get wider	2	C	
+베다		목을 ~	Cut, chop	2	C	
+밝아지다			Become bright	2	C	
+밤새우다			Sit up all night	2	C	
+배다		땀이 ~	Soak into	2	C	
+바로잡다			Straighten	2	C	
+박다			Drive,hammer in	2	C	
+박히다			Be nailed in	2	C	
+반짝이다			Shine, glitter	2	C	
+반기다			Rejoice, be glad of	2	C	
+묻히다		옷에 흙을 ~	Have smeared,be covered with	2	C	
+묻히다		땅에 ~	Get buried	2	C	
+묵다		오래된 상태	Get old	2	C	
+묵다		머무르다	Stay overnight s.w.	2	C	
+물러나다			Fall off	2	C	
+미끄러지다			Slippery	2	C	
+믿어지다			Become believable	2	C	
+몰려들다			Be driven into	2	C	
+몰려오다			Come in crowds	2	C	
+무너지다			Collapse	2	C	
+묶이다			Be fastened together	2	C	
+모여들다			gather,flock	2	C	
+맛보다			Taste	2	C	
+망설이다			Hesitate	2	C	
+망치다			Ruin	2	C	
+맞이하다			Go to greet	2	C	
+더러워지다			Get dirty	2	C	
+더불다			Join in, do together	2	C	
+덧붙이다			Add a thing, append	2	C	
+덮이다			Be covered	2	C	
+대다		귀에 ~	Put, place up to	2	C	
+다듬다			Trim, shave	2	C	
+다루다			Treat, deal with	2	C	
+다투다			Quarrel	2	C	
+닥치다		다다르다	Shut the mouth!	2	C	
+달래다			Calm down	2	C	
+달려들다			Run, rush, jump at	2	C	
+놀리다		흉을 보다	Banter, tease	2	C	
+놓아두다			Leave as it is, let it be	2	C	
+놔두다		놓아두다	Leave as it is, let it be	2	C	
+눈감다			Close the eyes	2	C	
+비치다			Shine	2	C	
+이성	異性		The opposite sex	1	C	
+취업	就業		Employment, finding a job	1	C	
+여론	輿論		Public opinion, public sentiment towards sth	1	C	
+비롯되다			To be begun, to have started	2	C	
+비롯하다			begin,start	2	C	
+교대	交代		Alternation or  change	1	C	
+위협	威脅		Menace, threat, intimidation	1	C	
+개별	個別		An individual or  a particular case	1	C	
+전국적	全國的		National	1	C	
+이민	移民		Emigration	1	C	
+교외	郊外		Outside the school or  extramural	1	C	
+묻다		시체를 ~	to Bury	2	C	
+깊숙이			Deep or  far	3	C	
+의사	意思		An intention, a purpose	1	C	
+부재	不在		Absence	1	C	
+투표	投票		vote,voting	1	C	
+물결			A wave	1	C	
+변명	辨明		Explanation, vindication	1	C	
+머리말			A preface	1	C	
+머리칼			Hair	1	C	
+급속히	急速-		Rapidly or  swiftly	3	C	
+점검	點檢		inspection,examination	1	C	
+덜다			Save, lighten	2	C	
+칭찬하다	稱讚-		To praise somebody	2	C	
+순진하다	純眞-		To be naive,pure	4	C	
+생기	生氣		animation,life	1	C	
+일종	一種		A kind, a sort, a species	1	C	
+자존심	自尊心		Self-confidence	1	C	
+다름없다			Be similar, not different	4	C	
+입히다			Clothe, dress	2	C	
+소요되다	所要-		Be needed	2	C	
+찬성	贊成		approval,assent	1	C	
+호기심	好奇心		Curiousity	1	C	
+쓴 맛			see 6000	1	C	
+쓴맛			A bitter flavor	1	C	
+싼값			A low price	1	C	
+변동	變動		Change, flucutation	1	C	
+연속	連續		continuity,succession	1	C	
+지나치다			Go too far, to go to extremes	2	C	
+예약하다	豫約-		To book in advance, pledge	2	C	
+효율적	效率的		The utility factor, efficiency	1	C	
+마약	痲藥		A drug	1	C	
+기관	機關		An engine or  a machine	1	C	
+긴급	緊急		Emergency	1	C	
+관계자	關係者		The interested or affected parties	1	C	
+관계되다	關係-		Be affected or  influenced by	2	C	
+연출	演出		Production, presentation	1	C	
+연출하다	演出-		Produce, present (a play)	2	C	
+동	同	同	the same	6	C	
+빠져나가다			Get/go out of here	2	C	
+빠져나오다			Come out of somewhere	2	C	
+이동하다	移動-		To move,migrate,travel	2	C	
+이론적	理論的		Theoretical	1	C	
+큰딸			Oldest daughter	1	C	
+큰절			A deep bow	1	C	
+파괴하다	破壞-		Destruction, demolition	2	C	
+제외되다	除外-		To be excluded	2	C	
+제외하다	除外-		To exclude	2	C	
+의지	意志		will,volition	1	C	
+의지하다	依支-		To look to, depend on, rely on	2	C	
+위대하다	偉大-		To be great,mighty,grand	4	C	
+하나하나			Each individual piece	1	C	
+하나님			God	1	C	
+하나하나			Each individual piece	3	C	
+기능	技能		Ability or  capacity or  skill	1	C	
+기능	機能		Function or  functionality	1	C	
+처벌	處罰		punishment,penalty	1	C	
+내다보다			Look out for	2	C	
+자극	刺戟		A stimulus	1	C	
+자극하다	刺戟-		To stimulate	2	C	
+가장	家長		Head of a household	1	C	
+일어서다			To rise to one’s feet, stand up	2	C	
+기원	起源		Origin	1	C	
+기원전	紀元前		B.C.	1	C	
+주	主	~ 고객	one’s master, ones employer	6	C	
+주거	住居		residing,dwelling	1	C	
+배	倍		Times, x-fold	1	C	
+무사하다	無事-		Be safe, peaceful	4	C	
+일시적	一時的		Of a day	1	C	
+작은딸			Younger daughter	1	C	
+작은아들			Younger son	1	C	
+먹이			Food	1	C	
+먹고살다			Make one’s living	2	C	
+설득하다	說得-		Persuasion	2	C	
+종	鐘		A bell	1	C	
+원고	原稿		A manuscript	1	C	
+강화하다	强化-		Strengthen	2	C	
+끌리다			To be drawn or  pulled or  dragged	2	C	
+서부	西部		The western part	1	C	
+변경	變更		Change, alteration	1	C	
+틀림없이			No mistaking it	3	C	
+거리	距離		Distance	1	C	
+무의미하다	無意味-		Be nonsense	4	C	
+보수	補修		mending,repair	1	C	
+보수	保守		Conservation	1	C	
+보수적	保守的		Conservative	1	C	
+신고하다	申告-		To state, declare	2	C	
+시중	市中		In the city	1	C	
+교양	敎養		Culture or  education	1	C	
+제도적	制度的		Systematic	1	C	
+진찰	診察		A medical diagnosis, investigation	1	C	
+경계	境界		Boundary	1	C	
+스튜디오		studio	Studio	1	C	
+부지런히			Diligently	3	C	
+열정	熱情		Passion	1	C	
+성	性		a sex (male or female), a sexual gender	1	C	
+성	城		castle,fortress	1	C	
+성경	聖經		The Bible	1	C	
+비극	悲劇		A tragedy	1	C	
+활발히	活潑-		briskly,actively	3	C	
+활발해지다	活潑-		To become lively	2	C	
+이중	二重		duplication,double	1	C	
+미사일		missile	Missile	1	C	
+행하다	行-		To do, act, behave	2	C	
+권위	權威		1) Authority or  power  2) dignity or  prestige	1	C	
+절	節		clause,paragraph	1	C	
+절대	絶對		Absoluteness	1	C	
+다방	茶房		Tea room	1	C	
+철저히	徹底-		Thoroughly	3	C	
+철저하다	徹底-		thoroughness,cleanliness	4	C	
+의논	議論		consultation,conference	1	C	
+의논하다	議論-		To consult,confer with,  talk over a matter	2	C	
+포근하다			To be soft and comfortable, downy	4	C	
+차마			For all the world	3	C	
+웬만하다			To be just only barely passable, fairly good	4	C	
+원장	院長		The chief/head (of a 학원)	1	C	
+자신감	自信感		Self-confidence	1	C	
+강변	江邊		A riverside	1	C	
+구조	構造		Construction or  structure	1	C	
+외면하다	外面-		Outward appearance	2	C	
+싸구려			cheap,inferior (a bargain)	1	C	
+말리다		싸움을 ~	Make stop	2	C	
+말리다		빨래를 ~	Dry sth	2	C	
+사실상	事實上		Actually, in truth	3	C	
+형편	形便		The situation, the state of things (esp. financial)	1	C	
+안기다		안다'의 사동사	to be embraced by sb (in their arms)	2	C	
+줄거리			A stalk, a stem	1	C	
+슬쩍			Secretly, on the sly, stealthily	3	C	
+언덕			A hill	1	C	
+언론	言論		A speech, discussion	1	C	
+언어	言語		language,speech	1	C	
+파다			To dig	2	C	
+얼마간	-間		Some, somewhat	1	C	
+낭비	浪費		Waste	1	C	
+생활비	生活費		Cost of living	1	C	
+괴롭히다			Afflict or  worry	2	C	
+달다		무게를 ~	To hang	2	C	
+싹			A bud,sprout	3	C	
+타락	墮落		depravity,corruption,degradation	1	C	
+감동적	感動的		Sensational	1	C	
+감독	監督		The director	1	C	
+보라색	-色		Purple	1	C	
+행사	行使		Use, exercise	1	C	
+전환	轉換		To exchange, convert, change	1	C	
+전환하다	轉換-		To exchange, to convert, to change over	2	C	
+분리	分離		separation,segration	1	C	
+분리되다	分離-		To be segregated	2	C	
+분리하다	分離-		To separate, break away from	2	C	
+멍멍			A bruise	3	C	
+마디			A word, a tune, a song,  a paragraph	1	C	
+비추다			(1) Shed, throw light on (2) to reflect in the mirror	2	C	
+김		~이 서리다	1) Steam 2) scent, aroma	1	C	
+취재	取材		Selection, picking out of news articles (by a reporter)	1	C	
+대략	大略		an outline, summary (2) generally, on the whole	3	C	
+대량	大量		A large quantity	1	C	
+상대성	相對性		Relativity	1	C	
+상대적	相對的		relatively,correlatively	1	C	
+상대편	相對便		The other party	1	C	
+연극	演劇		drama,a play	1	C	
+연기	延期		postponement,deferment	1	C	
+시	詩		Poetry, lines of verse	1	C	
+약점	弱點		A weak point, a vulnerable point	1	C	
+제거하다	除去-		exclusion,removal	2	C	
+야간	夜間		The night time	1	C	
+야단	惹端		A clamro, uproar 2) a scolding	1	C	
+공개	公開		opening to the public, making public	1	C	
+공격	攻擊		Attack	1	C	
+공공	公共		The public or  the common	1	C	
+실		~을 감다	Thread (to wind thread)	1	C	
+실감	實感		Actual feeling	1	C	
+실로	實-		really,indeed	3	C	
+도달하다	到達-		Arrival	2	C	
+녹다			To melt	2	C	
+맘		마음	Heart	1	C	
+맘대로		마음대로	As you want	3	C	
+연락	連絡		Connection, communication	1	C	
+애		~가 타다	Troubles, worries	1	C	
+수입품	輸入品		An imported product	1	C	
+수입되다	輸入-		To be imported	2	C	
+지원	支援		helping, supporting, aiding	1	C	
+지원하다	支援-		To desire, aspire, hence to apply for [e.g. a job] or volunteer for sth	2	C	
+대가	代價		A price, cost, charge, consideration, purchase money, value	1	C	
+궁극적	窮極的		Finally or in the end, 마지막으로	1	C	
+보살피다			Take care of	2	C	
+얼핏		얼핏 보다	at a momentary glance or intermittently appearing (e.g. catch a fleeting glimpse of)	3	C	
+인체	人體		The human body	1	C	
+반발	反撥		Repulsion, a backlash	1	C	
+감싸다			1) wrap up or  tuck in 2) to protect or  defend	2	C	
+보편적	普遍的		Universal	1	C	
+간부	幹部		The leaders (cadre, exec, executive, management)	1	C	
+엄청나다			To be absurd,wild,terribly large	4	C	
+잦다		왕래가 ~	Be frequent, incessant	4	C	
+면담	面談		An interview	1	C	
+다짐하다			Pledge, vow, swear	2	C	
+상반기	上半期		The first,upper half	1	C	
+감다		실을 ~	Wind up	2	C	
+주관적	主觀的		Subjective	1	C	
+퍼지다			Spread out, get broader	2	C	
+꺾다			Break off or  snap off	2	C	
+의욕	意欲		volition,will,desire	1	C	
+독특하다	獨特-		Unique, characteristic, distinctive, peculiar, specific	4	C	
+짜다		관을 ~	Form, organize	2	C	
+짜다		빨래를 ~	Squeeze, press out	2	C	
+계층	階層		A class or  social stratum	1	C	
+건조	乾燥		Dryness or  aridity	1	C	
+건조하다	乾燥-		Ry or  arid or  become dry	4	C	
+인재	人材		A man of ability	1	C	
+거듭			Again or  over and over	3	C	
+그리로			Over there	3	C	
+그리움			Yearning or  affection	1	C	
+그리하여			And then or  and so or  and now	3	C	
+배치	配置		Arrangement	1	C	
+단순	單純		Simplicity	1	C	
+소위	所謂		What is called for	3	C	
+유발하다	誘發-		To induce, bring about, cause	2	C	
+도	度		Degrees (temperature)	5	C	
+도	道	전국 각 ~	Road	1	C	
+예의	禮儀		Courtesy, politeness	1	C	
+반대편	反對便		The opposite side	1	C	
+건드리다			1) touch or  jog  2) irritate or  vex	2	C	
+소홀히	疏忽-		carelessly,indifferently,neglectfully	3	C	
+줄곧			All the time, all through, repeatedly, constantly	3	C	
+노동	勞動		Labor, work	1	C	
+정당	政黨		A political party	1	C	
+청춘	靑春		youth,the springtime of life	1	C	
+붙들다			catch,seize,grasp	2	C	
+만만하다		대적할 만함	Be soft, tender ; to be easy to handle, deal with	4	C	
+찌꺼기			drugs,sediments,remnants (tea grounds)	1	C	
+장인	丈人		A man’s father in law, the wife`s father	1	C	
+한결			Stands out conspicuously, especially	3	C	
+용도	用途		use,service	1	C	
+깡패	-牌		Gangster	1	C	
+삼가다			Be discreet,take care of ; to abstain (refrain) o.s. from doing	2	C	
+사모님	師母-		Older more respected ajuma	1	C	
+기여	寄與		Contribution or  service	1	C	
+기여하다	寄與-		Contribute or  add much to	2	C	
+내외	內外	안팎	The interior and exterior	1	C	
+내외	內外	남녀	Men and woman, husband and wife	1	C	
+보상	補償		Compensation	1	C	
+처리	處理		handling,treatment	1	C	
+출국	出國		Leaving a country	1	C	
+대사	大使		an ambassador	1	C	
+대사	臺詞		Speech, dialogue	1	C	
+대장	圖章		A seal, stamp	1	C	
+체육관	體育館		Gymnasium	1	C	
+체계적	體系的		Systematic, organizational	1	C	
+연합	聯合		Combination, federacy, union	1	C	
+관광버스	觀光-	觀光bus	Tourist bus	1	C	
+협력	協力		Cooperation, cooperate with	1	C	
+사전	事前		beforehand,in advance	1	C	
+실정	實情		The actual situation	1	C	
+감수성	感受性		Receptivity or  susceptibility	1	C	
+참고하다	參考-		To refer, consult	2	C	
+초기	初期		The early days, the initial period	1	C	
+초대	初代		The first generation, the founder	1	C	
+고요하다			Be quiet or  silent or  still	4	C	
+제약	制約		A condition,restriction	1	C	
+수행하다	遂行-		Accomplishment	2	C	
+평화롭다	平和-		To be peaceful	4	C	
+체력	體力		Physical strength	1	C	
+멎다			Stop	2	C	
+문화재	文化財		Cultural assets	1	C	
+대여섯			About five or six	6	C	
+유물	遺物		A relic, cultural remains	1	C	
+가로등	街路燈		A street light	1	C	
+가로수	街路樹		A roadside tree	1	C	
+아예			From the very first, from the very beginning	3	C	
+자부심	自負心		Pride	1	C	
+실리다		싣다'의 피동사	To be printed,recorded; to be loaded onto a truck (luggage)	1	C	
+성립되다	成立-		To be concluded, formed	2	C	
+성립하다	成立-		To exist, to come into being	2	C	
+감추다			Hide or  conceal	2	C	
+전기	傳記		a biography	1	C	
+전기	前期		the former period/term	1	C	
+지능	知能		intelligence,intellect, raw intelligence	1	C	
+성당	聖堂		A church	1	C	
+풍습	風習		customs,manners,practices ; a ritual, rituals	1	C	
+광경	光景		A spectacle or  a sight	1	C	
+참새		동물	A sparrow	1	C	
+짚다			Feel, examine	2	C	
+침착하다	沈着-		Self-possession, composure	4	C	
+이력서	履歷書		Curriculum vitae, a resume (for a job)	1	C	
+수동적	受動的		Passively	1	C	
+약수	藥水		Medicinal water, mineral water	1	C	
+깔다			to pave (a road), lay down a floor, spread a blanket etc.	2	C	
+개발되다	開發-		To be developed or  exploited	2	C	
+기법	技法		Techniques	1	C	
+품질	品質		The quality of the article ( but not the article itself)	1	C	
+사례	事例		thanks,gratitude	1	C	
+일정하다	一定-		To be regular, established, uniform ; changeless, constant, certain, definite ; invariable (mathematics)	4	C	
+선정하다	選定-		select,choose	2	C	
+편의	便宜		Convenience, expediency	1	C	
+편의점	便宜店		Convenient store	1	C	
+신속하다	迅速-		Be quick,rapid,speedy	4	C	
+공통	共通		Commonness	1	C	
+공통적	共通的		Commonly	1	C	
+공통점	共通點		A common point or  a common feature	1	C	
+공통되다	共通-		To be common	2	C	
+확장	擴張		expansion, enlargement	1	C	
+관점	觀點		A point of view or a standpoint/outlook	1	C	
+단위	單位		A unit, a monad	1	C	
+인도	보도		pavement,sidewalk	1	C	
+조정	調整		regulation,control,coordination	1	C	
+조정하다	調整-		To regulate,adjust,coordinate	2	C	
+성숙하다	成熟-		to ripen, to mature	2	C	
+마련			planning, making arrangements ; provisions, preparations	1	C	
+신규	新規		A new regulation, a new project, sth new on a big scale ; work being done anew	1	C	
+설문	設問		questions like those on a questionnaire	1	C	
+정비	整備		maintaining equipment in good working order	1	C	
+장비	裝備		equipment,fittings	1	C	
+자원	資源		Resources	1	C	
+기기13	機器		Machinery and tools	1	C	
+도입	導入		introduction, invitation	1	C	
+적용	適用		Application	1	C	
+적용되다	適用-		To be applied	2	C	
+반영하다	反映-		Reflect, be reflected	2	C	
+깨달음			Realization	1	C	
+깨소금			Powdered sesame mixed with salt	1	C	
+깨우다			To wake up or awaken	2	C	
+인정되다	認定-		To be recognized	2	C	
+인정받다	認定-		To receive recognition	2	C	
+인정하다	認定-		To acknowledge,authorize	2	C	
+초청	招請		An invitation	1	C	
+초청하다	招請-		To invite	2	C	
+조기	早期		An early stage,period	1	C	
+사업가	事業家		Businessman	1	C	
+사업자	事業者		Businessman	1	C	
+위주	爲主		Put first in importance	1	C	
+추진	推進		Propulsion, drive	1	C	
+추진하다	推進-		To propel, drive forward	2	C	
+확산되다	擴散-		To get diffused	2	C	
+영업	營業		business, doing business	1	C	
+확정	確定		decision,settlement	1	C	
+담당	擔當		Charge, undertaking	1	C	
+담당자	擔當者		Person in charge	1	C	
+소박하다	素朴-		simple, naive, ingenuous	1	C	
+일체	一切		All, everything,the whole	1	C	
+확보	確保		security,insurance	1	C	
+파악하다	把握-		Grasp, seize, understand	2	C	
+가치	價値		Price	1	C	
+가치관	價値觀		one’s values or sense of values, a value system	1	C	
+예측하다	豫測-		To predict, forecast	2	C	
+으레			customarily,habitually	3	C	
+귀하다	貴-		1) noble or  high  2) dear  3) lovable or  precious	4	C	
+안팎			The interior and exterior, both sides	1	C	
+엄숙하다	嚴肅-		Seriousness, solemnity ; being grave, serious	4	C	
+다지다			Make sure, to harden oneself, firm up one\\\\`s will	2	C	
+한창			The height, summit , the top	3	C	
+채점	採點		marking,grading,scoring	1	C	
+나들이			Going out, an outing ; making a short visit to sb or somewhere	1	C	
+늘어놓다			(1) Scatter about haphazardly ; (2) 으로 늘어놓다  to arrange, place in order	2	C	
+지름길			A shortcut	1	C	
+무려	無慮		As many as, no less  than	3	C	
+인	人		A person	1	C	
+인격	人格		Personality, character	1	C	
+인공	人工		Art, human skill	1	C	
+인근	隣近		The neighborhood	1	C	
+밀리다		방세가 ~	to be left undone, to be late in making a payment (to fall into arrears) (2) to be pushed, shoved	2	C	
+아울러			And, both together	3	C	
+연관	聯關		a connection, a grouping together, relationships	1	C	
+대처하다	對處-		Disposal, treatment	2	C	
+줄어들다			Dwindle away	2	C	
+영상	映像		An image [picture], reflection (moving pictures, movies)	1	C	
+양식	洋食		raising,farming,culture	1	C	
+양식	樣式		A mode, a style, an order, amodality	1	C	
+어찌		어찌 할 수 없는	How, in what way, by what means	3	C	
+어찌나			extremely,quite,awfully	3	C	
+어찌하다			Be subject to an attack of vertigo (figuratively), to not know what the hell is going on or what to do.	2	C	
+한겨울			Midwinter, the dead of winter	1	C	
+짐작	斟酌		guess,conjecture	1	C	
+부정	不正		injustice,wrongfulness	1	C	
+부정적	否定的		negative, contradicting sth else,  not positive	1	C	
+곧다			Be straight or upright or  erect	4	C	
+구르다		바위가 ~	Roll over	2	C	
+셈			An intention,design,purpose	5	C	
+미루다			Postpone ; (2) to guess, infer and make an educated guess	2	C	
+농사일	農事-		Farming	1	C	
+농사짓다	農事-		To do farming	2	C	
+수시로	隨時-		On demand, per the demand of the occasion ; all the time, at any time	3	C	
+약		~이 오르다	Get angry,take offense	1	C	
+알아주다			acknowledge,recognize, appreciate	2	C	
+분포하다	分布-		Distribution	2	C	
+미만	未滿		under,below ; less than	1	C	
+평	坪		a Pyeong, a square area about 2 square meters	5	C	
+평	評		A criticism	1	C	
+평가	評價		Evaluation, appraisal	1	C	
+평균	平均		Average	1	C	
+가령	假令		1) For example 2) supposing or admitting	3	C	
+다가서다			Step up, go near to, come closer	2	C	
+곧장			Directly or  straightforwardly ; to do something straight away	3	C	
+바람직하다			Be desirable, advisable, to be appropriate, good	4	C	
+지켜보다			Watch, stare at ( wait on some situation)	2	C	
+절차	節次		process,formalities; 수속	1	C	
+간혹	間或		Occasionally or at times	3	C	
+그나마			Even though or  nevertheless	3	C	
+행위	行爲		An act, deed, behavior	1	C	
+조르다		요구하다	To tease, urge sb	2	C	
+능동적	能動的		Activity ; voluntary, of its own nature	1	C	
+불리다		물에 ~	soak,steep	2	C	
+불리하다	不利-		to be disadvantageous,unfavorable to/for	4	C	
+착각	錯覺		Hallucination, illusion	1	C	
+착각하다	錯覺-		To misunderstand, to deceive oneself, to be having illucinations	2	C	
+종종	種種	 ~ 놀러 오세요	A variety of things	3	C	
+개성	個性		Individuality or personality	1	C	
+보완하다	補完-		to supplement and make complete, to complement sth	2	C	
+홀로			Alone, by oneself	3	C	
+걸치다			1) put a thing over or across 2) to range from A to B	2	C	
+바탕			Natural disposition ; to go all out in a fight, 아주 크게 싸우다 ; the background	1	C	
+설사	設使		Diarrhea	3	C	
+자리		~를 깔다	A spot at a table	1	C	
+암시	暗示		A hint, suggestion	1	C	
+고소하다		맛이 ~	Taste of sesame oil or  taste of a nut	4	C	
+강의	講義		A lecture or  discourse	1	C	
+강의하다	講義-		To give a lecture	2	C	
+어쩌다가			By chance, accident ; sometimes	3	C	
+주저앉다			Sit down, plump down	2	C	
+간편하다	簡便-		Simplicity or  convenience	4	C	
+환하다			To be clear, unobstructed ; to be light, bright (opp. 어둡다)	4	C	
+흐리다		물을 ~	Be muddy, cloudy ;  with a tint of	2	C	
+근본적	根本的		foundational, fundamental	1	C	
+찬성하다	贊成-		To approve, support (a plan)	2	C	
+문득			Suddenly	3	C	
+먹다		귀를 ~	Go deaf	2	C	
+나르다			to move a long or semi-long distance (not just within a room); Carry, convey, transport	2	C	
+비기다			End in a tie, to be even-even.  Same as 무승부를 기록하다	2	C	
+밝혀내다			To find out	2	C	
+매달리다			Be suspended, to be hanging down (from) ; to stick to a job, to persevere	2	C	
+불가피하다	不可避-		Inevitable, unavoidable	4	C	
+쩔쩔매다			To be at a loss, be confused	2	C	
+처녀	處女		A virgin, a young maiden	1	C	
+쫓겨나다			Chase away ; to fire from your job	2	C	
+깨닫다			to realize sth	2	C	
+붐비다			Be congested,crowded ; to be full of	2	C	
+간신히	艱辛-		Narrowly or  barely. 겨우	3	C	
+배우자	配偶者		A mate, life partner	1	C	
+여간	如干		Some, a little (여간 ~지 않다  means very very ~다)	3	C	
+여간			just, a little.  여간 ~지 않다 means very very ~다	1	C	
+예상되다	豫想-		To expect, anticipate	2	C	
+예상하다	豫想-		To expect, anticipate	2	C	
+결코	決-		Never or  by no means	3	C	
+서서히	徐徐-		Slowly, little by little	3	C	
+절대적	絶對的		absolute,unconditional	1	C	
+견해	見解		An opinion or  view.  Same as 의견	1	C	
+시각	時刻		The time of day	1	C	
+시각	視角		angle/point of view.  관점.	1	C	
+골고루			Evenly or  among all indiscriminately	3	C	
+식히다			To cool, let cool. 차게 하다	2	C	
+데우다			to warm, to heat up	2	C	
+번거롭다			Be troublesome.  할 일이 많아서 아주 바쁘다	4	C	
+수도	首都		the capital city, e.g. Seoul, of a country	1	C	
+수도권	首都圈		The Metropolitan area	1	C	
+붓다		얼굴이 ~	to be swollen	2	C	
+차다		가득 ~	To be full	2	C	
+차다		시계를 ~	Put on, fasten,wear	2	C	
+치다		폭풍우가 ~	(a storm, strong wind, rain, lightning) to strike, hit	2	C	
+치다		셈을 맞추다	to count, reckon, calculate	2	C	
+타다		장작이 ~	Burn, blaze (firewood)	2	C	
+타다		물에 ~	Put in, mix, dissolve	2	C	
+타다		월급을 ~	Get, receive, take your share of the money (회사에서 월급을 타다)	2	C	
+알아내다			To find out (e.g. the answer)	2	C	
+여전히	如前-		As it used to be, as before ; still, persistently, even still	3	C	
+도저히	到底-		(도저히 + negative (지 않다/없다))Absolutely impossible ; by all means	3	C	
+호주	濠洲		Australia	7	D	
+남산	南山		Mountain in south central seoul	7	D	
+고구려	高句麗		Region surrounding seoul	1	D	
+광주	光州		Region surrounding seoul	1	D	
+울산	蔚山		Ulsan, home of hyundai car company and hyundai shipbuilding in kyungsamnamdo	7	D	
+호남	湖南		The HONAM district, which is CHOLLA-DO in S.W south korea	1	D	
+일본	日本		Japan	7	D	
+지리산	智異山		Chili mountain, very beautiful	7	D	
+제주도	濟州島		Tourist island off south S.Korea	2	D	
+남대문	南大門		Seoul’s old south gate	7	D	
+한강	漢江		The han river, runs through Seoul	7	D	
+한라산	漢拏山		Halla-san mountain	7	D	
+한반도	韓半島		The korean peninsula	7	D	
+평양	平壤		Capital of north korea	7	D	
+백제	百濟		Historical Korean government	7	D	
+베이징(북경)	北京		Beijing	7	D	
+우리나라	韓國		Korea	1	D	
+대한민국	韓國		Korea	7	D	
+한국	韓國		Korea	7	D	
+강원도	江原道		Region surrounding seoul	1	D	
+경기도	京畿道		Region surrounding seoul	1	D	
+경복궁	景福宮		Region surrounding seoul	1	D	
+경주	慶州		Region surrounding seoul	1	D	
+남미	南美		South america	7	D	
+전주	全州		Junju	7	D	
+전라도	全羅道		South-western region of south korea	7	D	
+북한	北韓		North korea	7	D	
+부산	釜山		Busan, city in SE Korea, with largest beach in S.Korea	7	D	
+백두산	白頭山		Korean mountain	7	D	
+충청도	忠淸道		Area around daejon city	7	D	
+설악산	雪嶽山		Famous mountain	7	D	
+안동	安東		간고등어 fish common in this city, ANDONG	7	D	
+서울역	-驛		Seoul train station	7	D	
+파리		Paris	Paris	7	D	
+남대문시장	南大門市場		Shopping center in seoul	7	D	
+프랑스		France	France	7	D	
+서울			Seoul	7	D	
+아시아		Asia	Asia	7	D	
+미국	美國		America	2	D	
+김포공항	金浦空港		KimPo Domestic (sometimes international) airport	1	D	
+고려	高麗		Region surrounding seoul	1	D	
+안기다		안다'의 피동사	(1) To fix on a person, lay the blame on a person	2		

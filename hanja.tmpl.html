@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Korean words by hanja</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+	<style type="text/css">
+	 
+	 body
+	 {
+		background: black;
+		color: white;
+	 }
+	 td 
+	 {
+		padding-left: 2px;
+		padding-right: 10px;
+	 }
+	 
+	 .word
+	 {
+		white-space: nowrap;
+	 }
+	 
+	 .hanja
+	 {
+		white-space: nowrap;
+		color: wheat;
+	 }
+	 
+	 .meaning
+	 {
+		font-size: small;
+	 }
+	</style>
+  </head>
+  <body>
+	<h1>Korean words by hanja</h1>
+	{% for hanja_sym, recs in hanja_recs.items() %}
+		<h3>{{ hanja_sym }}</h3>
+		<table>
+			
+		{% for rec in recs %} 
+		<tr>
+			<td class="word">{{ rec.word }} </td> 
+			<td class="hanja"> {{ rec.hanja }} </td> 
+			<td class="meaning"> {{ rec.meaning }} </td>
+		</tr>
+		{% endfor %}
+		</table>
+	{% endfor %}
+  </body>
+
+</html>

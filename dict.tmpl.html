@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Корейский словарь dalma.ru, ханча {{start_number}}-{{end_number}}</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+	<style type="text/css">
+	 
+	 body
+	 {
+		background: black;
+		color: white;
+	 }
+	 td 
+	 {
+		padding-left: 2px;
+		padding-right: 10px;
+	 }
+	 
+	 .word
+	 {
+		white-space: nowrap;
+	 }
+	 
+	 .hanja
+	 {
+		white-space: nowrap;
+		color: wheat;
+	 }
+	 
+	 .meaning
+	 {
+		font-size: small;
+	 }
+	</style>
+  </head>
+  <body>
+	<h1>Корейский словарь dalma.ru, ханча {{start_number}}-{{end_number}}</h1>
+	<div><a href="http://dictionary.dalma.ru/downloads">Ссылка на словарь<a></div>
+	{% for hanja in hanja_list %}
+	<b><a href="#{{ hanja }}">{{ hanja }}</a></b>
+	{% endfor %}
+	
+	<br>
+	
+	{% for hanja in hanja_list %}
+		<h2 id="{{ hanja }}">{{ hanja }}
+		 <small>
+		 [ 
+		   {% for pronunciation in hanja_pronunciation.get(hanja, []) %} 
+		     {{ pronunciation }} 
+		       {% if not loop.last %}, {% endif %}
+		   {% endfor %}
+		 ], слов: {{ hanja_words[hanja]|length }}
+		 </small>
+		</h2>
+		<table> 
+		{% for word, hanja_word in hanja_words[hanja] %}
+		{% set meaning = word_dict[word+hanja_word][1] %}
+			<tr>
+				<td class="word">{{ word }} </td> 
+				<td class="hanja"> {{ hanja_word }} </td> 
+				<td class="meaning"> {{ meaning }} </td>
+			</tr>
+		{% endfor %}
+		</table>
+	{% endfor %}
+  </body>
+
+</html>
