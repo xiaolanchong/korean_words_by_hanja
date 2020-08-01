@@ -1,2 +1,6 @@
 
-# Hanja words grouped by hanja from Dalma dictionary
+# Слова, сгруппированные по ханча
+
+Определения даны из словаря Далма.
+
+* 6000 наиболее популярных слов из ханчи* - 6000 наиболее из словаря [ezkorean.com](https://github.com/garfieldnate/kengdic])

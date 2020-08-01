@@ -3345,7 +3345,7 @@ word	hanja	syn	def	pos	level
 국내외	國內外		The inside and outside of a country or  home and abroad	1	C	
 금지되다	禁止-		To be forbidden or prohibited	2	C	
 기도하다	祈禱-		To pray	2	C	
-기성08	旣成		To be already existing or  established	1	C	
+기성	旣成		To be already existing or  established	1	C	
 시청률	視聽率		Popularity rating	1	C	
 여군	女軍		A woman soldier	1	C	
 연인	戀人		A sweetheart	1	C	
@@ -4546,7 +4546,7 @@ word	hanja	syn	def	pos	level
 페인트		paint	Paint	1	C	
 군	郡		A county or district	1	C	
 괴로움			Trouble or  annoyance or  distress	1	C	
-구15	區		Ward or  district	1	C	
+구	區		Ward or  district	1	C	
 과	科		1) A course or  branch of study  2) a department or  a faculty	1	C	
 곡	曲		A tune or  an air	1	C	
 골짜기			A valley or  gorge	1	C	
@@ -4568,8 +4568,8 @@ word	hanja	syn	def	pos	level
 끈			A string or  a cord	1	C	
 까치			Magpie	1	C	
 깍두기			Sliced white radish kimchee	1	C	
-기13	氣		1) energy  2) breath or  wind	1	C	
-기23	旗		A flag or  a banner	1	C	
+기	氣		1) energy  2) breath or  wind	1	C	
+기	旗		A flag or  a banner	1	C	
 고개		~ 너머	the peak or crest (of a hill)	1	C	
 고무신			Rubber shoes	1	C	
 기둥			A pillar	1	C	
@@ -5471,7 +5471,7 @@ word	hanja	syn	def	pos	level
 정비	整備		maintaining equipment in good working order	1	C	
 장비	裝備		equipment,fittings	1	C	
 자원	資源		Resources	1	C	
-기기13	機器		Machinery and tools	1	C	
+기기	機器		Machinery and tools	1	C	
 도입	導入		introduction, invitation	1	C	
 적용	適用		Application	1	C	
 적용되다	適用-		To be applied	2	C	
@@ -5638,8 +5638,8 @@ word	hanja	syn	def	pos	level
 평양	平壤		Capital of north korea	7	D	
 백제	百濟		Historical Korean government	7	D	
 베이징(북경)	北京		Beijing	7	D	
-우리나라	韓國		Korea	1	D	
-대한민국	韓國		Korea	7	D	
+우리나라			Korea	1	D	
+대한민국	大韓民國		Korea	7	D	
 한국	韓國		Korea	7	D	
 강원도	江原道		Region surrounding seoul	1	D	
 경기도	京畿道		Region surrounding seoul	1	D	

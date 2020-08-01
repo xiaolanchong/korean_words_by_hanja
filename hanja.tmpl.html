@@ -1,55 +1,102 @@
 <!DOCTYPE html>
-<html>
+<html lang="ko">
   <head>
-  <title>Korean words by hanja</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
+  <title>{{title}}</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="/script/utils.js"></script>
 	<style type="text/css">
-	 
 	 body
 	 {
 		background: black;
 		color: white;
+        font-family: Tahoma, Verdana;
 	 }
+
 	 td 
 	 {
 		padding-left: 2px;
 		padding-right: 10px;
 	 }
-	 
+
 	 .word
 	 {
 		white-space: nowrap;
 	 }
-	 
+
 	 .hanja
 	 {
 		white-space: nowrap;
 		color: wheat;
 	 }
-	 
+
+     div.hanja_words {
+        margin-bottom: 20px;
+     }
+     div.hanja_words:nth-child(even) {
+        background: #0f0f0f;
+     }
+
 	 .meaning
 	 {
 		font-size: small;
 	 }
+
+     .hidden {
+        color: transparent !important;
+     }
+     span.suffix {
+        color: grey;
+        font-size: smaller;
+     }
+
+    .column {
+      float: left;
+    }
+
+    /* Clear floats after the columns */
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+#fixed-div {
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: 5px 5px 5px 0px;
+    background: #303030;
+    border-radius: 3px;
+}
 	</style>
   </head>
   <body>
-	<h1>Korean words by hanja</h1>
-	{% for hanja_sym, recs in hanja_recs.items() %}
-		<h3>{{ hanja_sym }}</h3>
-		<table>
-			
-		{% for rec in recs %} 
-		<tr>
-			<td class="word">{{ rec.word }} </td> 
-			<td class="hanja"> {{ rec.hanja }} </td> 
-			<td class="meaning"> {{ rec.meaning }} </td>
-		</tr>
-		{% endfor %}
-		</table>
-	{% endfor %}
-  </body>
+    <h1>{{ title }}</h1>
+    <div id="fixed-div" >
+        <input type="radio" id="showAll" name="visibility" value="1" class="showAll" checked />
+        <label for="showAll">Показать всё</label>
 
+        <input type="radio" id="hideTranslation" name="visibility" value="2" class="hideTranslation" />
+        <label for="hideTranslation">Скрыть перевод</label>
+
+        <input type="radio" id="hideWord" name="visibility" value="3" class="hideWord" />
+        <label for="hideWord">Скрыть слово</label>
+    </div>
+	{%- for hanja_sym, recs in hanja_recs.items() -%}
+    <div class="row hanja_words">
+        <div class="column" style="font-size: xx-large; margin-right: 0.25em;color: brown;">{{ hanja_sym }}</div>
+        <div class="column">
+            <table>
+            {%- for rec in recs -%}
+                <tr>
+                    <td class="word">{{ rec.word }}{%- if rec.suffix|length > 0 -%}<span class="suffix">{{ rec.suffix }}</span>{%- endif -%}</td>
+                    <td class="hanja">{{ rec.hanja }}</td><td class="meaning">{{ rec.meaning }}</td>
+                </tr>
+            {%- endfor -%}
+            </table>
+        </div>
+    </div>
+	{%- endfor -%}
+  </body>
 </html>

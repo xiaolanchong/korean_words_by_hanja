@@ -1,5 +1,11 @@
+# Script to generate html/dalma_hanja.html files
+# 100 hanja
+# 者 [ 자 ], слов: 525
+# 가입자 	加入者 	член, участник
+# ...       ...     ...
 
 import re
+import os
 import jinja2
 import htmlmin
 from collections import defaultdict, namedtuple
@@ -27,7 +33,8 @@ def is_hanja(symbol):
     return 0x4E00 <= ord(symbol) <= 0x9FEF
 
 
-def write_to_files(complete_list: bool):
+def write_files(complete_list: bool):
+    parent_dir = 'html'
     hanja_number_per_file = 100
     file_number = 1
     for chunk in chunks(sorted_hanja, hanja_number_per_file):
@@ -36,7 +43,7 @@ def write_to_files(complete_list: bool):
                                        start_number=(file_number - 1) * hanja_number_per_file + 1,
                                        end_number=file_number * hanja_number_per_file)
         minified_html = htmlmin.minify(yielded_html)
-        with open(f'dalma_hanja_{file_number:02}.html', mode='w', encoding='utf8') as out_file:
+        with open(os.path.join(parent_dir, f'dalma_hanja_{file_number:02}.html'), mode='w', encoding='utf8') as out_file:
             out_file.write(minified_html)
         file_number += 1
         if not complete_list:
@@ -78,15 +85,14 @@ with open('krd_0_1.ced', encoding='utf16') as infile:
             process(word, hanja, meaning)
         else:
             print(f'"{line}" does not match regex')
-            #break
 
 
 print(len(list(all_hanja)))
 
 sorted_hanja = sorted(all_hanja.keys(), key=lambda x: len(all_hanja[x]), reverse=True)
 
-if True:
-    write_to_files(True)
+write_files(True)
+
 
 for hanja in sorted_hanja:
     break
